@@ -1,0 +1,667 @@
+{
+    "sigValidUntil": 1708429134, 
+    "value": {
+        "poster_path": "/ohdzJYj7WWmH8IpfOAINDhxmW9x.jpg", 
+        "production_countries": [
+            {
+                "iso_3166_1": "GB", 
+                "name": "United Kingdom"
+            }, 
+            {
+                "iso_3166_1": "US", 
+                "name": "United States of America"
+            }
+        ], 
+        "revenue": 0, 
+        "overview": "Ein Terror-Anschlag droht. Es sind nur noch 90 Minuten, um ihn zu stoppen. Der gefangene Terrorist Amin Mansur ist der Schl\u00fcssel. Doch daf\u00fcr muss ihn Navy Seal Jake Harris nach Washington bringen. Der Elitesoldat, der gerade erst die brenzligen Ereignisse in einer Geheimeinrichtung in Polen \u00fcberstanden hat, findet sich so schnell im n\u00e4chsten adrenalingetriebenen \u00dcberlebenskampf wieder. Denn Terroristen st\u00fcrmen den Flughafen und bringen ihn unter ihre Kontrolle. Irgendwie muss Harris mit seinem Gefangenen im Schlepptau entkommen. Denn bald wird sich zeigen, dass er nicht auf Hilfe von au\u00dfen hoffen kann.\r Sequel zum ohne sichtbaren Schnitt gedrehten Action-Kracher \u201eOne Shot\u201c.", 
+        "video": false, 
+        "keywords": {
+            "keywords": []
+        }, 
+        "id": 1214314, 
+        "genres": [
+            {
+                "id": 28, 
+                "name": "Action"
+            }, 
+            {
+                "id": 53, 
+                "name": "Thriller"
+            }
+        ], 
+        "videos": {
+            "results": []
+        }, 
+        "title": "One More Shot", 
+        "tagline": "", 
+        "vote_count": 106, 
+        "homepage": "", 
+        "belongs_to_collection": {
+            "backdrop_path": "/zwipmy4m0iAA8IpqcID95MsaNsd.jpg", 
+            "poster_path": "/63Akejo2rXNZNAXc7XgOVeot4Ip.jpg", 
+            "id": 1214316, 
+            "name": "One Shot Collection"
+        }, 
+        "original_language": "en", 
+        "status": "Released", 
+        "spoken_languages": [
+            {
+                "iso_639_1": "en", 
+                "english_name": "English", 
+                "name": "English"
+            }
+        ], 
+        "release_dates": {
+            "results": [
+                {
+                    "iso_3166_1": "GB", 
+                    "release_dates": [
+                        {
+                            "certification": "15", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-12T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Sky Cinema", 
+                            "type": 4
+                        }, 
+                        {
+                            "certification": "15", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-12T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Sky Cinema", 
+                            "type": 6
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PR", 
+                    "release_dates": [
+                        {
+                            "certification": "R", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "US", 
+                    "release_dates": [
+                        {
+                            "certification": "R", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "VI", 
+                    "release_dates": [
+                        {
+                            "certification": "R", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }
+            ]
+        }, 
+        "imdb_id": "tt27110516", 
+        "credits": {
+            "cast": [
+                {
+                    "name": "Scott Adkins", 
+                    "gender": 2, 
+                    "popularity": 51.744999999999997, 
+                    "original_name": "Scott Adkins", 
+                    "order": 0, 
+                    "credit_id": "65705521d18fb90959457094", 
+                    "adult": false, 
+                    "cast_id": 2, 
+                    "profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg", 
+                    "id": 78110, 
+                    "known_for_department": "Acting", 
+                    "character": "Jake Harris"
+                }, 
+                {
+                    "name": "Michael Jai White", 
+                    "gender": 2, 
+                    "popularity": 39.802999999999997, 
+                    "original_name": "Michael Jai White", 
+                    "order": 1, 
+                    "credit_id": "65705535fad8e90100536397", 
+                    "adult": false, 
+                    "cast_id": 3, 
+                    "profile_path": "/YPoHYuzR37wFpPpwEXZYQlhLln.jpg", 
+                    "id": 64856, 
+                    "known_for_department": "Acting", 
+                    "character": "Robert Jackson"
+                }, 
+                {
+                    "name": "Alexis Knapp", 
+                    "gender": 1, 
+                    "popularity": 22.638000000000002, 
+                    "original_name": "Alexis Knapp", 
+                    "order": 2, 
+                    "credit_id": "6570559cfad8e900adbc49dd", 
+                    "adult": false, 
+                    "cast_id": 5, 
+                    "profile_path": "/dgbhsyMfvDzB4dB2TcA1tDYdwGh.jpg", 
+                    "id": 999790, 
+                    "known_for_department": "Acting", 
+                    "character": "Jennifer Lomax"
+                }, 
+                {
+                    "name": "Meena Rayann", 
+                    "gender": 1, 
+                    "popularity": 7.6289999999999996, 
+                    "original_name": "Meena Rayann", 
+                    "order": 3, 
+                    "credit_id": "657c59cae93e9521910aaf6a", 
+                    "adult": false, 
+                    "cast_id": 10, 
+                    "profile_path": "/66mwR6Plgwn3Es3aFt9gkSu3AwT.jpg", 
+                    "id": 1668231, 
+                    "known_for_department": "Acting", 
+                    "character": "Niesha Mansur"
+                }, 
+                {
+                    "name": "Waleed Elgadi", 
+                    "gender": 2, 
+                    "popularity": 9.7539999999999996, 
+                    "original_name": "Waleed Elgadi", 
+                    "order": 4, 
+                    "credit_id": "659719a03a340b02aff0c12d", 
+                    "adult": false, 
+                    "cast_id": 13, 
+                    "profile_path": "/7YOAlGYW2TnDbi76gWBqOfEEhjK.jpg", 
+                    "id": 1337806, 
+                    "known_for_department": "Acting", 
+                    "character": "Amin Mansur"
+                }, 
+                {
+                    "name": "Hannah Arterton", 
+                    "gender": 1, 
+                    "popularity": 11.061999999999999, 
+                    "original_name": "Hannah Arterton", 
+                    "order": 5, 
+                    "credit_id": "657c5979ba131b013bdb7a82", 
+                    "adult": false, 
+                    "cast_id": 7, 
+                    "profile_path": "/AtoPSHgKiQUdaBlgsrjOZ89fmyu.jpg", 
+                    "id": 1334639, 
+                    "known_for_department": "Acting", 
+                    "character": "Hooper"
+                }, 
+                {
+                    "name": "Tom Berenger", 
+                    "gender": 2, 
+                    "popularity": 33.164999999999999, 
+                    "original_name": "Tom Berenger", 
+                    "order": 6, 
+                    "credit_id": "65705587383df2010cedd5f2", 
+                    "adult": false, 
+                    "cast_id": 4, 
+                    "profile_path": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg", 
+                    "id": 13022, 
+                    "known_for_department": "Acting", 
+                    "character": "Mike Marshall"
+                }, 
+                {
+                    "name": "Jill Winternitz", 
+                    "gender": 1, 
+                    "popularity": 3.4929999999999999, 
+                    "original_name": "Jill Winternitz", 
+                    "order": 7, 
+                    "credit_id": "657c598f176a9417306227e4", 
+                    "adult": false, 
+                    "cast_id": 8, 
+                    "profile_path": "/bBfmth2C93OkyYir6w8qxjmHpiR.jpg", 
+                    "id": 1474690, 
+                    "known_for_department": "Acting", 
+                    "character": "Kelly Harris"
+                }, 
+                {
+                    "name": "Cassidy Little", 
+                    "gender": 2, 
+                    "popularity": 4.1390000000000002, 
+                    "original_name": "Cassidy Little", 
+                    "order": 8, 
+                    "credit_id": "657c59b6e93e9521900e45ca", 
+                    "adult": false, 
+                    "cast_id": 9, 
+                    "profile_path": "/1HOWJWl3Q6IZ0OkFakU1Bv9grJk.jpg", 
+                    "id": 2079540, 
+                    "known_for_department": "Acting", 
+                    "character": "SRT Agent Genki"
+                }, 
+                {
+                    "name": "Aaron Toney", 
+                    "gender": 2, 
+                    "popularity": 3.1360000000000001, 
+                    "original_name": "Aaron Toney", 
+                    "order": 9, 
+                    "credit_id": "65a493437d5f4b00ceb81a26", 
+                    "adult": false, 
+                    "cast_id": 33, 
+                    "profile_path": "/u3Rf8YRUxVZ6qxrWCN0wiO45sqO.jpg", 
+                    "id": 1566267, 
+                    "known_for_department": "Acting", 
+                    "character": "Dunbar"
+                }, 
+                {
+                    "name": "Edward Linard", 
+                    "gender": 0, 
+                    "popularity": 2.5110000000000001, 
+                    "original_name": "Edward Linard", 
+                    "order": 10, 
+                    "credit_id": "65a493742667780131649dfb", 
+                    "adult": false, 
+                    "cast_id": 34, 
+                    "profile_path": null, 
+                    "id": 2706899, 
+                    "known_for_department": "Acting", 
+                    "character": "Campbell"
+                }, 
+                {
+                    "name": "Christos Dante", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Christos Dante", 
+                    "order": 11, 
+                    "credit_id": "65a493cf5690b50126b08f14", 
+                    "adult": false, 
+                    "cast_id": 35, 
+                    "profile_path": null, 
+                    "id": 2058108, 
+                    "known_for_department": "Crew", 
+                    "character": "Agent Stanwood"
+                }, 
+                {
+                    "name": "Tom Leigh", 
+                    "gender": 0, 
+                    "popularity": 1.6200000000000001, 
+                    "original_name": "Tom Leigh", 
+                    "order": 12, 
+                    "credit_id": "65a4943c39b6c300ca77f900", 
+                    "adult": false, 
+                    "cast_id": 36, 
+                    "profile_path": null, 
+                    "id": 4481799, 
+                    "known_for_department": "Acting", 
+                    "character": "SRT Agent Donovan"
+                }
+            ], 
+            "crew": [
+                {
+                    "name": "Craig Baumgarten", 
+                    "gender": 2, 
+                    "popularity": 2.5649999999999999, 
+                    "original_name": "Craig Baumgarten", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a825907de392e63bf2b", 
+                    "profile_path": null, 
+                    "id": 14695, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Peter Hampden", 
+                    "gender": 0, 
+                    "popularity": 2.444, 
+                    "original_name": "Peter Hampden", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a6dfad8e91858c296e6", 
+                    "profile_path": null, 
+                    "id": 73517, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Norman Merry", 
+                    "gender": 0, 
+                    "popularity": 1.9179999999999999, 
+                    "original_name": "Norman Merry", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a65a6c1040f9bfaaad7", 
+                    "profile_path": null, 
+                    "id": 73524, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Dan Styles", 
+                    "gender": 2, 
+                    "popularity": 0.98499999999999999, 
+                    "original_name": "Dan Styles", 
+                    "department": "Crew", 
+                    "job": "Stunt Coordinator", 
+                    "adult": false, 
+                    "credit_id": "65a4948839549a1b181054cd", 
+                    "profile_path": null, 
+                    "id": 123410, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Tim Man", 
+                    "gender": 2, 
+                    "popularity": 7.4619999999999997, 
+                    "original_name": "Tim Man", 
+                    "department": "Crew", 
+                    "job": "Fight Choreographer", 
+                    "adult": false, 
+                    "credit_id": "65a49498297338012a1377d9", 
+                    "profile_path": "/iaNaIP0gE4uKfKCJdhNpVmcgsjr.jpg", 
+                    "id": 833798, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Austin Wintory", 
+                    "gender": 0, 
+                    "popularity": 1.6479999999999999, 
+                    "original_name": "Austin Wintory", 
+                    "department": "Sound", 
+                    "job": "Original Music Composer", 
+                    "adult": false, 
+                    "credit_id": "659719f9a6c1041138fa7bc8", 
+                    "profile_path": "/vIxjXrBZuAj1mBScp2punq46O0r.jpg", 
+                    "id": 939612, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "James Nunn", 
+                    "gender": 2, 
+                    "popularity": 4.0650000000000004, 
+                    "original_name": "James Nunn", 
+                    "department": "Directing", 
+                    "job": "Director", 
+                    "adult": false, 
+                    "credit_id": "65705486383df200ae502874", 
+                    "profile_path": null, 
+                    "id": 1088096, 
+                    "known_for_department": "Directing"
+                }, 
+                {
+                    "name": "James Nunn", 
+                    "gender": 2, 
+                    "popularity": 4.0650000000000004, 
+                    "original_name": "James Nunn", 
+                    "department": "Writing", 
+                    "job": "Story", 
+                    "adult": false, 
+                    "credit_id": "6597198260c51d725e97880d", 
+                    "profile_path": null, 
+                    "id": 1088096, 
+                    "known_for_department": "Directing"
+                }, 
+                {
+                    "name": "David Sullivan", 
+                    "gender": 2, 
+                    "popularity": 1.5740000000000001, 
+                    "original_name": "David Sullivan", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a3a726fb152f2ab2053", 
+                    "profile_path": "/ncTGGAGTRjuLa8ec0QW5wDgzEIR.jpg", 
+                    "id": 1187391, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Ben Jacques", 
+                    "gender": 0, 
+                    "popularity": 3.153, 
+                    "original_name": "Ben Jacques", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a9ea698cf04fc439feb", 
+                    "profile_path": null, 
+                    "id": 1400095, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Emma Gunnery", 
+                    "gender": 0, 
+                    "popularity": 2.1520000000000001, 
+                    "original_name": "Emma Gunnery", 
+                    "department": "Production", 
+                    "job": "Casting", 
+                    "adult": false, 
+                    "credit_id": "659719e1ea37e006fa4cef44", 
+                    "profile_path": null, 
+                    "id": 1622448, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Simon Baxter", 
+                    "gender": 2, 
+                    "popularity": 4.4870000000000001, 
+                    "original_name": "Simon Baxter", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a955907de379863bf54", 
+                    "profile_path": null, 
+                    "id": 1669393, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Evangelo Kioussis", 
+                    "gender": 0, 
+                    "popularity": 0.86099999999999999, 
+                    "original_name": "Evangelo Kioussis", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a89ea37e008264c1c72", 
+                    "profile_path": null, 
+                    "id": 1669396, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Gareth Williams", 
+                    "gender": 0, 
+                    "popularity": 1.3799999999999999, 
+                    "original_name": "Gareth Williams", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a5fef9d72115612b526", 
+                    "profile_path": null, 
+                    "id": 1917435, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Jamie Russell", 
+                    "gender": 0, 
+                    "popularity": 1.4330000000000001, 
+                    "original_name": "Jamie Russell", 
+                    "department": "Writing", 
+                    "job": "Screenplay", 
+                    "adult": false, 
+                    "credit_id": "6597196fa698cf684343a18b", 
+                    "profile_path": null, 
+                    "id": 1985595, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Natalie O'Connor", 
+                    "gender": 0, 
+                    "popularity": 1.048, 
+                    "original_name": "Natalie O'Connor", 
+                    "department": "Art", 
+                    "job": "Production Design", 
+                    "adult": false, 
+                    "credit_id": "65971a010e64af51308c1932", 
+                    "profile_path": null, 
+                    "id": 2004980, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Joe Karimi-Nik", 
+                    "gender": 0, 
+                    "popularity": 1.0920000000000001, 
+                    "original_name": "Joe Karimi-Nik", 
+                    "department": "Production", 
+                    "job": "Co-Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a285cc11d77d87d38d8", 
+                    "profile_path": null, 
+                    "id": 2028566, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Job Reineke", 
+                    "gender": 0, 
+                    "popularity": 2.0960000000000001, 
+                    "original_name": "Job Reineke", 
+                    "department": "Camera", 
+                    "job": "Director of Photography", 
+                    "adult": false, 
+                    "credit_id": "65971a1160c51d7be2978792", 
+                    "profile_path": null, 
+                    "id": 2064623, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Marc Goldberg", 
+                    "gender": 0, 
+                    "popularity": 3.8250000000000002, 
+                    "original_name": "Marc Goldberg", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a32d7a70a11c76a4a66", 
+                    "profile_path": null, 
+                    "id": 2066378, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Liviu Jipescu", 
+                    "gender": 0, 
+                    "popularity": 1.3120000000000001, 
+                    "original_name": "Liviu Jipescu", 
+                    "department": "Editing", 
+                    "job": "Editor", 
+                    "adult": false, 
+                    "credit_id": "65971a09d7a70a122e6a16b9", 
+                    "profile_path": null, 
+                    "id": 2383953, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Jasmin Ada Knox", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Jasmin Ada Knox", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Costume Design", 
+                    "adult": false, 
+                    "credit_id": "659719eaea37e007ca4c6991", 
+                    "profile_path": null, 
+                    "id": 3034278, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Sarah Gabriel", 
+                    "gender": 0, 
+                    "popularity": 1.3879999999999999, 
+                    "original_name": "Sarah Gabriel", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a54a6c1041002fa9f2a", 
+                    "profile_path": null, 
+                    "id": 3412584, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Julia Stuart", 
+                    "gender": 0, 
+                    "popularity": 1.052, 
+                    "original_name": "Julia Stuart", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a74869e757105067e6e", 
+                    "profile_path": null, 
+                    "id": 3413867, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Laura Grange", 
+                    "gender": 0, 
+                    "popularity": 0.70999999999999996, 
+                    "original_name": "Laura Grange", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65971a7cfad8e91722c298ba", 
+                    "profile_path": null, 
+                    "id": 3413868, 
+                    "known_for_department": "Production"
+                }
+            ]
+        }, 
+        "adult": false, 
+        "external_ids": {
+            "instagram_id": null, 
+            "facebook_id": null, 
+            "wikidata_id": null, 
+            "twitter_id": null, 
+            "imdb_id": "tt27110516"
+        }, 
+        "backdrop_path": "/ay0PJQZizDXk0pzhoGX4v7K9h7A.jpg", 
+        "production_companies": [
+            {
+                "origin_country": "US", 
+                "logo_path": "/mVo5Ir4gatRa1U94v4p9Mr15OPJ.png", 
+                "id": 206783, 
+                "name": "Signature Films"
+            }, 
+            {
+                "origin_country": "US", 
+                "logo_path": "/t1Dc5SaJLBfRxtl0ttLGdaYICQ2.png", 
+                "id": 23770, 
+                "name": "Signature Entertainment"
+            }, 
+            {
+                "origin_country": "GB", 
+                "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png", 
+                "id": 9987, 
+                "name": "Lipsync Productions"
+            }, 
+            {
+                "origin_country": "GB", 
+                "logo_path": "/7Yb6Q3ClXJfBym8qwVo9BC1Xr7y.png", 
+                "id": 217564, 
+                "name": "Sky Cinema"
+            }, 
+            {
+                "origin_country": "GB", 
+                "logo_path": "/hgueKTQkSwc6r7rNfMaC155E1bl.png", 
+                "id": 215964, 
+                "name": "Richmond Pictures"
+            }
+        ], 
+        "release_date": "2024-01-12", 
+        "popularity": 1262.5129999999999, 
+        "original_title": "One More Shot", 
+        "budget": 0, 
+        "vote_average": 6.7169999999999996, 
+        "runtime": 102
+    }
+}

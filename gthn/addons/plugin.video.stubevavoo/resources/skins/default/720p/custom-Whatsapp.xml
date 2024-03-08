@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog" id="1157">
+    <defaultcontrol always="true">9010</defaultcontrol>
+    <coordinates>
+        <left>0</left>
+        <top>0</top>
+        <system>1</system>
+    </coordinates>
+    <controls>
+		<include content="SideBladeCloseIcon">
+            <param name="CloseIconDialogClose" value="Dialog.Close(1133)" />
+            <param name="CloseIconDialogClose2" value="noop" />
+            <param name="ClearMediaMenu" value="ClearProperty(MediaMenu,Home)" />
+            <param name="CloseIconSetFocus" value="SetFocus(50)" />
+            <param name="CloseIconVisibility" value="system.getbool(input.enablemouse) + Window.IsActive(1133)" />
+        </include>
+		<control type="group">
+			<animation effect="slide" start="-440,0" end="0,0" time="400" tween="quadratic" easing="out">WindowOpen</animation>
+			<animation effect="slide" start="0,0" end="-440,0" time="160" tween="quadratic" easing="out">WindowClose</animation>
+			<control type="group">
+				<top>50</top>
+				<control type="label">
+					<top>10</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font35_title</font>
+					<align>center</align>
+					<label>"Glück ist das Einzige, was sich verdoppelt, wenn man es teilt."</label>
+				</control>
+			</control>
+			<control type="group">
+				<top>250</top>
+				<control type="label">
+					<top>10</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font_SubMenu</font>
+					<align>center</align>
+					<label>[B]Erzähle Deinen Freunden jetzt von VAVOO.[/B]</label>
+				</control>
+				<control type="label">
+					<top>65</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font_SubMenu</font>
+					<align>center</align>
+					<label>Teile mindestens drei Freunden via Whatsapp diese Nachricht mit,</label>
+				</control>
+				<control type="label">
+					<top>100</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font_SubMenu</font>
+					<align>center</align>
+					<label>wenn Du möchtest, dass VAVOO weiterhin unabhängig & kostenlos bleibt.</label>
+				</control>
+				<control type="button" id="9010">
+					<top>230</top>
+					<left>490</left>
+					<width>300</width>
+					<height>50</height>
+					<label>Jetzt teilen</label>
+					<align>center</align>
+					<onclick>StartAndroidActivity(,android.intent.action.VIEW,,https://api.whatsapp.com/send?text=Netflix%2C%20Amazon%20Prime%2C%20Sky.%20Alles%20kostenlos%20-%20Dank%20VAVOO.%0A%0AVAVOO%20kostenlos%20herunterladen.%20Bei%20Bundle-URL%20VAVOO.TO%20eingeben.%20Fertig.%0A%0Ahttps%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dtv.vavoo.app)</onclick>
+					<onup>9011</onup>
+					<ondown>9011</ondown>
+				</control>
+				<control type="button" id="9011">
+					<top>405</top>
+					<left>970</left>
+					<width>300</width>
+					<height>50</height>
+					<label>Zurück</label>
+					<align>center</align>
+					<onclick>Close</onclick>
+					<onup>9010</onup>
+					<ondown>9010</ondown>
+				</control>
+			</control>
+		</control>
+    </controls>
+</window>

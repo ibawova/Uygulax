@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog" id="1157">
+    <defaultcontrol always="true">9011</defaultcontrol>
+    <coordinates>
+        <left>0</left>
+        <top>0</top>
+        <system>1</system>
+    </coordinates>
+    <controls>
+		<include content="SideBladeCloseIcon">
+            <param name="CloseIconDialogClose" value="Dialog.Close(1133)" />
+            <param name="CloseIconDialogClose2" value="noop" />
+            <param name="ClearMediaMenu" value="ClearProperty(MediaMenu,Home)" />
+            <param name="CloseIconSetFocus" value="SetFocus(50)" />
+            <param name="CloseIconVisibility" value="system.getbool(input.enablemouse) + Window.IsActive(1133)" />
+        </include>
+		<control type="group">
+			<animation effect="slide" start="-440,0" end="0,0" time="400" tween="quadratic" easing="out">WindowOpen</animation>
+			<animation effect="slide" start="0,0" end="-440,0" time="160" tween="quadratic" easing="out">WindowClose</animation>
+			<control type="group">
+				<top>50</top>
+				<control type="label">
+					<top>10</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font35_title</font>
+					<align>center</align>
+					<label>Keine Schuld ist dringender, als die, Dank zu sagen.</label>
+				</control>
+				<control type="label">
+					<top>40</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font13</font>
+					<align>center</align>
+					<label>(Marcus Tullius Cicero, 106 v.Chr. - 43 v.Chr.)</label>
+				</control>
+			</control>
+			<control type="group">
+				<top>175</top>
+				<control type="label">
+					<top>10</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font_SubMenu</font>
+					<align>center</align>
+					<label>VAVOO.TO ist unabhängig und auf Spenden angewiesen, um das Project am Leben zu erhalten.</label>
+				</control>
+				<control type="label">
+					<top>65</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font_SubMenu</font>
+					<align>center</align>
+					<label>Du kannst Deine Spende jetzt an meine folgende Bitcoin Wallet senden:</label>
+				</control>
+				<control type="label">
+					<top>130</top>
+					<height>52</height>
+					<textoffsetx>15</textoffsetx>
+					<font>font36</font>
+					<align>center</align>
+					<label>1HBYPiagAYtjapUfRyEHLvQpodbxvtoQ1t</label>
+				</control>
+				<control type="image">
+					<top>220</top>
+					<left>550</left>
+					<width>200</width>
+					<height>200</height>
+					<texture>btc.png</texture>
+				</control>
+				<control type="button" id="9011">
+					<top>480</top>
+					<left>1050</left>
+					<width>200</width>
+					<height>40</height>
+					<label>Zurück</label>
+					<align>center</align>
+					<onclick>Close</onclick>
+				</control>
+			</control>
+		</control>
+    </controls>
+</window>

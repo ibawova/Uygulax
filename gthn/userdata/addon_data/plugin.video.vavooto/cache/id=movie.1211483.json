@@ -1,0 +1,211 @@
+{
+    "sigValidUntil": 1708429134, 
+    "value": {
+        "poster_path": "/1On8iF3AsFIbpyfZg1xiGWMAFBn.jpg", 
+        "production_countries": [
+            {
+                "iso_3166_1": "CA", 
+                "name": "Canada"
+            }
+        ], 
+        "revenue": 0, 
+        "overview": "Arthur (Evan Marsh) und seine Clique stehen kurz davor, sich heute mal so richtig die Lichter auszuschie\u00dfen und morgen dann den schlimmsten Kater ihres jungen Lebens zu erleben. Schlie\u00dflich hat Arthur gerade das Internet erobert, indem er die Schallgrenze von drei Millionen Followern seines Online-Video-Channels durchbrochen hat. Wenn das kein Grund zum Feiern ist. Doch dann besitzt das Universum tats\u00e4chlich die Frechheit, ihm sein Jubelfest und die sch\u00f6ne Partystimmung zu verderben. Was ist passiert? Nicht weniger, als dass von einem Moment auf den n\u00e4chsten pl\u00f6tzlich und ohne Vorwarnung alles Wasser auf dem Planeten verschwunden ist \u2013 einfach weg! Zusammen mit seinen Freunden und einem verwundeten Polizisten (Trevor Hayes), den sie beim Pl\u00fcndern eines Supermarkts aufgelesen haben, findet sich der eben noch gefeierte Social-Media-Star nun inmitten eines apokalyptischen \u00dcberlebenskampfs.", 
+        "video": false, 
+        "keywords": {
+            "keywords": []
+        }, 
+        "id": 1211483, 
+        "genres": [
+            {
+                "id": 28, 
+                "name": "Action"
+            }, 
+            {
+                "id": 27, 
+                "name": "Horror"
+            }, 
+            {
+                "id": 35, 
+                "name": "Kom\u00f6die"
+            }, 
+            {
+                "id": 53, 
+                "name": "Thriller"
+            }
+        ], 
+        "videos": {
+            "results": [
+                {
+                    "name": "3 Millionen Follower SKAL \ud83d\udc80 FIGHT FOR SURVIVAL deutscher Trailer HD 2023 german DVD Blu-ray Heimkino", 
+                    "iso_3166_1": "DE", 
+                    "official": false, 
+                    "site": "YouTube", 
+                    "iso_639_1": "de", 
+                    "published_at": "2023-11-14T18:54:48.000Z", 
+                    "key": "IY8UdfV0OJk", 
+                    "type": "Trailer", 
+                    "id": "656e968305a533011d4fb6a8", 
+                    "size": 1080
+                }
+            ]
+        }, 
+        "title": "Skal - Fight for Survival", 
+        "tagline": "", 
+        "vote_count": 0, 
+        "homepage": "", 
+        "belongs_to_collection": null, 
+        "original_language": "en", 
+        "status": "Released", 
+        "spoken_languages": [
+            {
+                "iso_639_1": "en", 
+                "english_name": "English", 
+                "name": "English"
+            }
+        ], 
+        "release_dates": {
+            "results": [
+                {
+                    "iso_3166_1": "DE", 
+                    "release_dates": [
+                        {
+                            "certification": "16", 
+                            "descriptors": [], 
+                            "release_date": "2023-11-24T00:00:00.000Z", 
+                            "iso_639_1": "de", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }
+            ]
+        }, 
+        "imdb_id": "tt26252546", 
+        "credits": {
+            "cast": [
+                {
+                    "name": "Evan Marsh", 
+                    "gender": 2, 
+                    "popularity": 9.3049999999999997, 
+                    "original_name": "Evan Marsh", 
+                    "order": 0, 
+                    "credit_id": "65677a98156cc7012d55c640", 
+                    "adult": false, 
+                    "cast_id": 1, 
+                    "profile_path": "/abEhV2v27waWWOVt328tD5o9P0C.jpg", 
+                    "id": 1883593, 
+                    "known_for_department": "Acting", 
+                    "character": "Arthur"
+                }, 
+                {
+                    "name": "Chris Sandiford", 
+                    "gender": 2, 
+                    "popularity": 3.7370000000000001, 
+                    "original_name": "Chris Sandiford", 
+                    "order": 1, 
+                    "credit_id": "65677abbd9542000ab65876e", 
+                    "adult": false, 
+                    "cast_id": 2, 
+                    "profile_path": "/tqHXyyOqquUf4W7NHvcb72iU5Nz.jpg", 
+                    "id": 2069639, 
+                    "known_for_department": "Acting", 
+                    "character": ""
+                }, 
+                {
+                    "name": "Mariah Inger", 
+                    "gender": 1, 
+                    "popularity": 6.0279999999999996, 
+                    "original_name": "Mariah Inger", 
+                    "order": 2, 
+                    "credit_id": "65677acdc2b9df01004ccab8", 
+                    "adult": false, 
+                    "cast_id": 3, 
+                    "profile_path": "/l22GdZ2esAri7dnfJvGvvnQl2QS.jpg", 
+                    "id": 1122326, 
+                    "known_for_department": "Acting", 
+                    "character": ""
+                }, 
+                {
+                    "name": "Darren Eisenhauer", 
+                    "gender": 0, 
+                    "popularity": 0.69399999999999995, 
+                    "original_name": "Darren Eisenhauer", 
+                    "order": 3, 
+                    "credit_id": "65677adfa8b2ca00ea894db6", 
+                    "adult": false, 
+                    "cast_id": 4, 
+                    "profile_path": null, 
+                    "id": 4403505, 
+                    "known_for_department": "Acting", 
+                    "character": ""
+                }, 
+                {
+                    "name": "Olivia Scriven", 
+                    "gender": 1, 
+                    "popularity": 4.3150000000000004, 
+                    "original_name": "Olivia Scriven", 
+                    "order": 4, 
+                    "credit_id": "65677af13d7454015040473f", 
+                    "adult": false, 
+                    "cast_id": 5, 
+                    "profile_path": "/wQ5rN3mtg2yoIra3RPcR6P0lFKJ.jpg", 
+                    "id": 1228363, 
+                    "known_for_department": "Acting", 
+                    "character": ""
+                }, 
+                {
+                    "name": "Trevor Hayes", 
+                    "gender": 2, 
+                    "popularity": 5.2300000000000004, 
+                    "original_name": "Trevor Hayes", 
+                    "order": 5, 
+                    "credit_id": "65677b123d745400ac204ba3", 
+                    "adult": false, 
+                    "cast_id": 6, 
+                    "profile_path": "/gDTWopS3erov8bhvNohWZKryt3X.jpg", 
+                    "id": 82646, 
+                    "known_for_department": "Acting", 
+                    "character": "Police Officer"
+                }
+            ], 
+            "crew": [
+                {
+                    "name": "Benjamin Cappelletti", 
+                    "gender": 0, 
+                    "popularity": 1.0940000000000001, 
+                    "original_name": "Benjamin Cappelletti", 
+                    "department": "Directing", 
+                    "job": "Director", 
+                    "adult": false, 
+                    "credit_id": "656a3b156517d6012fa8f45f", 
+                    "profile_path": null, 
+                    "id": 4407265, 
+                    "known_for_department": "Directing"
+                }
+            ]
+        }, 
+        "adult": false, 
+        "external_ids": {
+            "instagram_id": null, 
+            "facebook_id": null, 
+            "wikidata_id": null, 
+            "twitter_id": null, 
+            "imdb_id": "tt26252546"
+        }, 
+        "backdrop_path": "/w12jjv5XNNpHgM4he1COnfWiA93.jpg", 
+        "production_companies": [
+            {
+                "origin_country": "DE", 
+                "logo_path": "/etoxfrvduHZMLHpYE2uPkicheX2.png", 
+                "id": 8146, 
+                "name": "Splendid Film"
+            }
+        ], 
+        "release_date": "2023-11-24", 
+        "popularity": 597.726, 
+        "original_title": "Skal - Fight for Survival", 
+        "budget": 0, 
+        "vote_average": 0.0, 
+        "runtime": 81
+    }
+}

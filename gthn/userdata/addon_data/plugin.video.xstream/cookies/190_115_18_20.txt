@@ -1,0 +1,3 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __ddg1_=iwT9qdxaCZvTygus65kw; path="/"; domain=".18.20"; path_spec; domain_dot; expires="2024-02-12 09:36:48Z"; HttpOnly=None; version=0
+Set-Cookie3: rememberLogin=cLm75cgsGx41R11JnsYrWQmimXUqOZKKKugx66xLNoQYrkJ4DUm8kNYHmLT7VZFrsM0elzEKX08dRaEb6bIvPEKbyiQO7ZQqQoQXy9zA5ZrYq8zmBMBco2XP; path="/"; domain="190.115.18.20"; path_spec; expires="2025-07-31 09:37:34Z"; version=0

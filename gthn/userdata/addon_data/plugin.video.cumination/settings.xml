@@ -1,0 +1,55 @@
+<settings version="2">
+    <setting id="backup_favorites" default="true"></setting>
+    <setting id="backup_keywords" default="true"></setting>
+    <setting id="cache_time">4</setting>
+    <setting id="changelog_seen_version" default="true">1.1.95</setting>
+    <setting id="chatcouple">true</setting>
+    <setting id="chatfemale">true</setting>
+    <setting id="chatmale">true</setting>
+    <setting id="chatplay" default="true">0</setting>
+    <setting id="chattrans">true</setting>
+    <setting id="chaturbate" default="true">false</setting>
+    <setting id="clear_cache" default="true"></setting>
+    <setting id="clear_cookies" default="true"></setting>
+    <setting id="clear_favorites" default="true"></setting>
+    <setting id="clear_keywords" default="true"></setting>
+    <setting id="compressbackup">true</setting>
+    <setting id="content" default="true">0</setting>
+    <setting id="cuminationage" default="true">true</setting>
+    <setting id="current_ua" default="true">Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0.0.0) Gecko/20100101 Firefox/109.0.0.0</setting>
+    <setting id="custom_favorites" default="true">false</setting>
+    <setting id="custom_sites" default="true">false</setting>
+    <setting id="customview" default="true">false</setting>
+    <setting id="debuglog" default="true"></setting>
+    <setting id="disable_all_custom_sites" default="true"></setting>
+    <setting id="disable_custom_site" default="true"></setting>
+    <setting id="dontask" default="true">false</setting>
+    <setting id="download_path" default="true"></setting>
+    <setting id="duration_in_name">true</setting>
+    <setting id="enable_all_custom_sites" default="true"></setting>
+    <setting id="enable_custom_site" default="true"></setting>
+    <setting id="enh_debug">true</setting>
+    <setting id="favorites_path" default="true"></setting>
+    <setting id="filter_hosters" default="true"></setting>
+    <setting id="filter_listing" default="true"></setting>
+    <setting id="fs_enable" default="true">false</setting>
+    <setting id="fs_host" default="true">http://localhost:8191/v1</setting>
+    <setting id="install_custom_site" default="true"></setting>
+    <setting id="install_custom_sites_from_folder" default="true"></setting>
+    <setting id="last_ua_create">1705233318</setting>
+    <setting id="list_custom_sites" default="true"></setting>
+    <setting id="m3u8_use_ia" default="true">false</setting>
+    <setting id="open_smr_settings" default="true"></setting>
+    <setting id="paradisehill" default="true">false</setting>
+    <setting id="posterfanart" default="true">false</setting>
+    <setting id="quality_in_name">true</setting>
+    <setting id="qualityask" default="true">0</setting>
+    <setting id="restore_favorites" default="true"></setting>
+    <setting id="restore_keywords" default="true"></setting>
+    <setting id="setpin" default="true"></setting>
+    <setting id="sortwxf" default="true">0</setting>
+    <setting id="sortxt" default="true">0</setting>
+    <setting id="startlog" default="true"></setting>
+    <setting id="uninstall_custom_site" default="true"></setting>
+    <setting id="universal_resolvers">true</setting>
+</settings>

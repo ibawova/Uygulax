@@ -1,0 +1,247 @@
+Nightly Version from xStream Team
+
+5.1.123~nightly1
+- Merge from Guial00 release (06/01/24)
+
+5.1.109~nightly1
+- Merge from Guial00 release (31/08/23)
+
+5.1.106~nightly2
+- Merge from Guial00 release (15/08/23)
+
+5.1.106~nightly1
+- Merge from Guial00 release (01/08/23)
+
+5.1.105~nightly1
+- Merge from Guial00 release (23/07/23)
+
+5.1.101~nightly1
+- Merge from Guial00 release (05/07/23)
+
+5.1.100~nightly3
+- Merge from Guial00 release (08/06/23)
+
+5.1.100~nightly2
+- Merge from Guial00 release (07/06/23)
+
+5.1.100~nightly1
+- Merge from Guial00 release (06/06/23)
+
+5.1.99~nightly4
+- Merge from Guial00 release (28/05/23)
+
+5.1.99~nightly3
+- Merge from Guial00 release (23/05/23)
+
+5.1.99~nightly2
+- Merge from Guial00 release (19/05/23)
+
+5.1.99~nightly1
+- Merge from Guial00 release (16/05/23)
+
+5.1.97~nightly1
+- Merge from Guial00 release (14/04/23)
+
+5.1.96~nightly6
+- Merge from Guial00 release (31/03/23)
+
+5.1.96~nightly5
+- Merge from Guial00 release (30/03/23)
+
+5.1.96~nightly4
+- Merge from Guial00 release (28/03/23)
+
+5.1.96~nightly3
+- Merge from Guial00 release (20/03/23)
+
+5.1.96~nightly2
+- Merge from Guial00 release (19/03/23)
+
+5.1.96~nightly1
+- Merge from Guial00 release (14/03/23)
+- Streamembed fixed
+- Streamsb fixed
+
+5.1.95~nightly1
+- Merge from Guial00 release (12/03/23)
+
+5.1.93~nightly6
+- Merge from Guial00 release (25/02/23)
+
+5.1.93~nightly5
+- Merge from Guial00 release (20/02/23)
+
+5.1.93~nightly4
+- StreamSb Source Fix
+
+5.1.93~nightly3
+- VOE Domain Fix
+
+5.1.93~nightly2
+- Merge from Guial00 release (17/02/23)
+
+5.1.93~nightly1
+- VOE Domain Fix
+
+5.1.92~nightly3
+- VOE Domain Fix
+
+5.1.92~nightly2
+- Merge from Guial00 release (11/02/23)
+
+5.1.92~nightly1
+- Merge from Guial00 release (06/02/23)
+
+5.1.89~nightly6
+- Merge from Guial00 release (29/01/23)
+
+5.1.89~nightly5
+- Merge from Guial00 release (26/01/23)
+
+5.1.89~nightly4
+- Merge from Guial00 release (24/01/23)
+
+5.1.89~nightly3
+- VOE Domain Fix
+
+5.1.89~nightly2
+- i`m stupid sorry
+
+5.1.89~nightly1
+- VOE Domain fix
+
+5.1.88~nightly3
+- Merge from Guial00 release (#297)
+
+5.1.88~nightly2
+- Merge from Guial00 release (#294)
+
+5.1.88~nightly1
+- Merge from Guial00 release (#293)
+
+5.1.86~nightly4
+- VOE Domain Fix
+
+5.1.86~nightly3
+- VOE Domain Fix
+
+5.1.86~nightly2
+- Merge from Guial00 release (#272)
+
+5.1.86~nightly1
+- Merge from Guial00 release (#270)
+
+5.1.85~nightly1
+- Merge from Guial00 release (14/11/22)
+
+5.1.84~nightly1
+- Merge from Guial00 release (#256)
+
+5.1.83~nightly1
+- Merge from Guial00 release (#251)
+
+5.1.82~nightly2
+- Merge from Guial00 release (#248)
+
+5.1.82~nightly1
+- Merge from Guial00 release (#246)
+
+5.1.81~nightly2
+- Merge from Guial00 release (#241)
+
+5.1.81~nightly1
+- Merge from Guial00 release (12/10/22)
+
+5.1.80~nightly1
+- Merge from Guial00 release (10/22)
+
+5.1.79~nightly2
+- Zillastream fix
+
+5.1.79~nightly1
+- Merge from Guial00 release (#226)
+
+5.1.78~nightly1
+- Merge from Guial00 release (#217)
+- VOE Fix neue Domain
+
+5.1.77~nightly2
+- Merge from Guial00 release (#207)
+
+5.1.77~nightly1
+- Filemoon fix
+
+5.1.76~nightly1
+- VOE Fix neue Domain
+
+5.1.75~nightly3
+- Merge from Guial00 release version 5.1.74
+- VOE Fix neue Domain
+
+5.1.75~nightly2
+- VOE Fix neue Domain
+
+5.1.75~nightly1
+- Merge from Guial00 release version 5.1.74
+- VOE Fix neue Domain
+
+5.1.74~nightly1
+- VOE Fix neue Domain
+
+5.1.73~nightly1
+- VOE Fix neue Domain
+
+5.1.72
+- Merge from Guial00 release version 5.1.72
+
+5.1.71~nightly4
+- Merge from Guial00 release (#146)
+
+5.1.71~nightly3
+- VOE Unblock fixed(#146)
+
+5.1.71~nightly2
+- Merge from Guial00 release (#138)
+
+5.1.71~nightly1
+- Merge from Guial00 release (#136)
+
+5.1.70~nightly4
+- Merge from Guial00 release (#133)
+
+5.1.70~nightly3
+- [VOE] Fix Domain
+
+5.1.70~nightly2
+- Merge from Guial00 release (#126)
+
+5.1.70~nightly1
+- Update VOE Domain
+
+-----------------------------------------------------------------
+
+Version 5.1.69 (June 2, 2022)
+- Code Base Changes:
+    - option to cleanup defunct resolvers from settings
+    - remove numpy usage
+
+- Resolvers Added:
+    - solidfiles
+    - vido
+ 
+- Resolvers Fixed/Updated:
+    - bannedvideo
+    - lbry
+    - pandafiles
+    - pixeldrain
+    - streamingcommunity
+    - streamlare
+    - streamsb
+    - voesx
+    - vtube
+
+- Resolvers Removed
+    - None
+
+- Languages Added/Updated
+    - None

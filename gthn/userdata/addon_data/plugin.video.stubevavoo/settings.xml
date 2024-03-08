@@ -1,0 +1,69 @@
+<settings version="2">
+    <setting id="auto_try_next_stream">true</setting>
+    <setting id="dldb_active">true</setting>
+    <setting id="dldb_max_simultan_downloads">3</setting>
+    <setting id="dldb_path">/sdcard/Download/VAVOO</setting>
+    <setting id="email" default="true"></setting>
+    <setting id="guest_token" default="true"></setting>
+    <setting id="hoster_1fichier.com" default="true">true</setting>
+    <setting id="hoster_allmyvideos.net" default="true">true</setting>
+    <setting id="hoster_auroravid.to" default="true">true</setting>
+    <setting id="hoster_bitporno.com" default="true">true</setting>
+    <setting id="hoster_bitshare.com" default="true">true</setting>
+    <setting id="hoster_bitvid.sx" default="true">true</setting>
+    <setting id="hoster_clipboard.cc" default="true">true</setting>
+    <setting id="hoster_cloudtime.to" default="true">false</setting>
+    <setting id="hoster_cloudzilla.to" default="true">true</setting>
+    <setting id="hoster_crocko.com" default="true">true</setting>
+    <setting id="hoster_depositfiles.com" default="true">true</setting>
+    <setting id="hoster_divxstage.net" default="true">true</setting>
+    <setting id="hoster_flashx.tv" default="true">false</setting>
+    <setting id="hoster_gomovies.to" default="true">true</setting>
+    <setting id="hoster_hdfilme.tv" default="true">false</setting>
+    <setting id="hoster_kinoger.com" default="true">true</setting>
+    <setting id="hoster_letwatch.to" default="true">true</setting>
+    <setting id="hoster_meinkino.to" default="true">false</setting>
+    <setting id="hoster_movyo.to" default="true">true</setting>
+    <setting id="hoster_neodrive.co" default="true">true</setting>
+    <setting id="hoster_nowvideo.sx" default="true">false</setting>
+    <setting id="hoster_oboom.com" default="true">true</setting>
+    <setting id="hoster_openload.co" default="true">true</setting>
+    <setting id="hoster_powerwatch.pw" default="true">true</setting>
+    <setting id="hoster_primeshare.tv" default="true">true</setting>
+    <setting id="hoster_promptfile.com" default="true">true</setting>
+    <setting id="hoster_rapidgator.net" default="true">true</setting>
+    <setting id="hoster_rapidvideo.com" default="true">true</setting>
+    <setting id="hoster_raptu.com" default="true">true</setting>
+    <setting id="hoster_realvid.net" default="true">true</setting>
+    <setting id="hoster_rockfile.eu" default="true">true</setting>
+    <setting id="hoster_share-online.biz" default="true">false</setting>
+    <setting id="hoster_stagevu.me" default="true">true</setting>
+    <setting id="hoster_streamango.com" default="true">true</setting>
+    <setting id="hoster_streamcherry.com" default="true">true</setting>
+    <setting id="hoster_streamcloud.eu" default="true">true</setting>
+    <setting id="hoster_streamin.to" default="true">true</setting>
+    <setting id="hoster_tata.to" default="true">false</setting>
+    <setting id="hoster_thevideo.me" default="true">false</setting>
+    <setting id="hoster_uploaded.net" default="true">true</setting>
+    <setting id="hoster_uploadrocket.net" default="true">true</setting>
+    <setting id="hoster_uptobox.com" default="true">true</setting>
+    <setting id="hoster_videoweed.es" default="true">true</setting>
+    <setting id="hoster_vidlox.tv" default="true">true</setting>
+    <setting id="hoster_vidto.me" default="true">true</setting>
+    <setting id="hoster_vidzi.tv" default="true">true</setting>
+    <setting id="hoster_vivo.sx" default="true">true</setting>
+    <setting id="hoster_wholecloud.net" default="true">true</setting>
+    <setting id="hoster_xvidstage.com" default="true">true</setting>
+    <setting id="hoster_youtube.com" default="true">true</setting>
+    <setting id="hoster_youwatch.org" default="true">true</setting>
+    <setting id="j">1707130800</setting>
+    <setting id="language">1</setting>
+    <setting id="last_active_time" default="true"></setting>
+    <setting id="locale" default="true">0</setting>
+    <setting id="playback_resolution" default="true">0</setting>
+    <setting id="resolution" default="true">0</setting>
+    <setting id="signed" default="true"></setting>
+    <setting id="stream_select" default="true">0</setting>
+    <setting id="token" default="true"></setting>
+    <setting id="window_state" default="true"></setting>
+</settings>

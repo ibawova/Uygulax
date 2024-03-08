@@ -1,0 +1,3895 @@
+{
+    "sigValidUntil": 1708429134, 
+    "value": {
+        "poster_path": "/h4BoV9d1rNIWfjlTwZtNbaCkGwn.jpg", 
+        "production_countries": [
+            {
+                "iso_3166_1": "US", 
+                "name": "United States of America"
+            }
+        ], 
+        "revenue": 129300000, 
+        "overview": "Jaime hat die Nase voll davon, sich und seine Familie mit Aushilfsjobs \u00fcber Wasser zu halten. Da kommt ihm ein Vorstellungsgespr\u00e4ch beim Konzern Kord Industries gerade recht, das ihm seine Bekannte Jenny Kord verschafft hat. Doch anstatt ihm einen Job anzubieten, dr\u00fcckt ihm Jenny kurzerhand einen Burger-Karton in die Hand und schickt ihn wieder nach Hause. Dort stellen Jaime, seine Schwester Milagro, seine Eltern Alberto und Rocio sowie sein Onkel Rudy fest, dass sich in der Box ein mysteri\u00f6ser blauer Skarab\u00e4us befindet. Der setzt sich nicht nur an Jaimes Wirbels\u00e4ule fest, sondern kommuniziert auch mit ihm, h\u00fcllt ihn in eine blaue Hightech-R\u00fcstung ein und fliegt mit ihm in die Umlaufbahn.", 
+        "video": false, 
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 2898, 
+                    "name": "armor"
+                }, 
+                {
+                    "id": 9715, 
+                    "name": "superhero"
+                }, 
+                {
+                    "id": 10235, 
+                    "name": "family relationships"
+                }, 
+                {
+                    "id": 18035, 
+                    "name": "family"
+                }, 
+                {
+                    "id": 159450, 
+                    "name": "high tech"
+                }, 
+                {
+                    "id": 163167, 
+                    "name": "job hunting"
+                }, 
+                {
+                    "id": 164253, 
+                    "name": "mexican american"
+                }, 
+                {
+                    "id": 179430, 
+                    "name": "aftercreditsstinger"
+                }, 
+                {
+                    "id": 179431, 
+                    "name": "duringcreditsstinger"
+                }, 
+                {
+                    "id": 200349, 
+                    "name": "immigrant family"
+                }, 
+                {
+                    "id": 215193, 
+                    "name": "college graduate"
+                }, 
+                {
+                    "id": 229266, 
+                    "name": "dc extended universe (dceu)"
+                }, 
+                {
+                    "id": 231277, 
+                    "name": "alien technology"
+                }, 
+                {
+                    "id": 240485, 
+                    "name": "brother sister relationship"
+                }, 
+                {
+                    "id": 255632, 
+                    "name": "latino"
+                }
+            ]
+        }, 
+        "id": 565770, 
+        "genres": [
+            {
+                "id": 28, 
+                "name": "Action"
+            }, 
+            {
+                "id": 878, 
+                "name": "Science Fiction"
+            }, 
+            {
+                "id": 12, 
+                "name": "Abenteuer"
+            }
+        ], 
+        "videos": {
+            "results": [
+                {
+                    "name": "Preview: 7 Minuten aus dem Film", 
+                    "iso_3166_1": "DE", 
+                    "official": true, 
+                    "site": "YouTube", 
+                    "iso_639_1": "de", 
+                    "published_at": "2023-10-02T09:03:49.000Z", 
+                    "key": "8j1Xze5a7Sk", 
+                    "type": "Clip", 
+                    "id": "65239c59fd630000e200f261", 
+                    "size": 1080
+                }, 
+                {
+                    "name": "Offizieller Trailer #2", 
+                    "iso_3166_1": "DE", 
+                    "official": true, 
+                    "site": "YouTube", 
+                    "iso_639_1": "de", 
+                    "published_at": "2023-07-12T14:00:07.000Z", 
+                    "key": "6v8hTJjYLdY", 
+                    "type": "Trailer", 
+                    "id": "64afad258a0e9b00adaccfb4", 
+                    "size": 1080
+                }, 
+                {
+                    "name": "Offizieller Trailer #1", 
+                    "iso_3166_1": "DE", 
+                    "official": true, 
+                    "site": "YouTube", 
+                    "iso_639_1": "de", 
+                    "published_at": "2023-04-03T15:38:44.000Z", 
+                    "key": "F3qLCQLce5E", 
+                    "type": "Trailer", 
+                    "id": "6437fb764a52f801138c8651", 
+                    "size": 1080
+                }
+            ]
+        }, 
+        "title": "Blue Beetle", 
+        "tagline": "Jaime Reyes ist ein Superheld, ob er will oder nicht", 
+        "vote_count": 2151, 
+        "homepage": "", 
+        "belongs_to_collection": null, 
+        "original_language": "en", 
+        "status": "Released", 
+        "spoken_languages": [
+            {
+                "iso_639_1": "en", 
+                "english_name": "English", 
+                "name": "English"
+            }, 
+            {
+                "iso_639_1": "pt", 
+                "english_name": "Portuguese", 
+                "name": "Portugu\u00eas"
+            }, 
+            {
+                "iso_639_1": "es", 
+                "english_name": "Spanish", 
+                "name": "Espa\u00f1ol"
+            }
+        ], 
+        "release_dates": {
+            "results": [
+                {
+                    "iso_3166_1": "AD", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "AE", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-24T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "AL", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "AT", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "AU", 
+                    "release_dates": [
+                        {
+                            "certification": "M", 
+                            "descriptors": [], 
+                            "release_date": "2023-09-14T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "AW", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "AZ", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "BA", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "BE", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "BG", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "BR", 
+                    "release_dates": [
+                        {
+                            "certification": "14", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "CA", 
+                    "release_dates": [
+                        {
+                            "certification": "PG", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }, 
+                        {
+                            "certification": "PG", 
+                            "descriptors": [], 
+                            "release_date": "2023-10-31T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "4K Ultra HD & Blu-ray", 
+                            "type": 5
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "CH", 
+                    "release_dates": [
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-16T00:00:00.000Z", 
+                            "iso_639_1": "fr", 
+                            "note": "", 
+                            "type": 3
+                        }, 
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "German and Italian speaking regions", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "CY", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-09-28T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "CZ", 
+                    "release_dates": [
+                        {
+                            "certification": "12+", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "DE", 
+                    "release_dates": [
+                        {
+                            "certification": "12", 
+                            "descriptors": [
+                                "Violence", 
+                                "Threat"
+                            ], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }, 
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-11-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "4K Ultra HD & Blu-ray", 
+                            "type": 5
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "DK", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "DO", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "EC", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "EE", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "ES", 
+                    "release_dates": [
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "FI", 
+                    "release_dates": [
+                        {
+                            "certification": "K-12", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "FR", 
+                    "release_dates": [
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-16T00:00:00.000Z", 
+                            "iso_639_1": "fr", 
+                            "note": "", 
+                            "type": 3
+                        }, 
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-12-31T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "4K Steelbook", 
+                            "type": 5
+                        }, 
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-12-14T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "DVD, Blu-Ray & 4K UHD", 
+                            "type": 5
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "GB", 
+                    "release_dates": [
+                        {
+                            "certification": "12A", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "GE", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "GP", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "GR", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-10-05T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "GY", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "HK", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "HR", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "HU", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "ID", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "IE", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "IL", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "IN", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "IS", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "IT", 
+                    "release_dates": [
+                        {
+                            "certification": "T", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "JP", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-11-29T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }, 
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-12-20T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "4K Ultra HD / Blu-ray / DVD", 
+                            "type": 5
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "KG", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "KH", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "KR", 
+                    "release_dates": [
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-10-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "KW", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-24T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "KZ", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "LA", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "LT", 
+                    "release_dates": [
+                        {
+                            "certification": "N-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "LV", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "MD", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "ME", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "MK", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "MN", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "MT", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-23T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "MX", 
+                    "release_dates": [
+                        {
+                            "certification": "B", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "NL", 
+                    "release_dates": [
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }, 
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-12-20T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Blu-ray", 
+                            "type": 5
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "NO", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "NP", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "NZ", 
+                    "release_dates": [
+                        {
+                            "certification": "M", 
+                            "descriptors": [], 
+                            "release_date": "2023-09-14T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PG", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-09-13T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PH", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PK", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PL", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PR", 
+                    "release_dates": [
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-07-19T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Distrito T-Mobile", 
+                            "type": 1
+                        }, 
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-16T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Puerto Rico Film Festival", 
+                            "type": 1
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-09-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-11-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Max", 
+                            "type": 4
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-10-31T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "4K Ultra HD / Blu-ray / DVD", 
+                            "type": 5
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-11-18T00:00:00.000Z", 
+                            "iso_639_1": "en", 
+                            "note": "HBO", 
+                            "type": 6
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PT", 
+                    "release_dates": [
+                        {
+                            "certification": "M/12", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "RO", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "RS", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "SA", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-24T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "SE", 
+                    "release_dates": [
+                        {
+                            "certification": "11", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "SG", 
+                    "release_dates": [
+                        {
+                            "certification": "PG13", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "SI", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "SK", 
+                    "release_dates": [
+                        {
+                            "certification": "12", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "TH", 
+                    "release_dates": [
+                        {
+                            "certification": "G", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "TT", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "TW", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "UA", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "US", 
+                    "release_dates": [
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-15T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Los Angeles, California", 
+                            "type": 1
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-09-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-11-17T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Max", 
+                            "type": 4
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-10-31T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "4K Ultra HD / Blu-ray / DVD", 
+                            "type": 5
+                        }, 
+                        {
+                            "certification": "PG-13", 
+                            "descriptors": [], 
+                            "release_date": "2023-11-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "HBO", 
+                            "type": 6
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "VN", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "ZA", 
+                    "release_dates": [
+                        {
+                            "certification": "16", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }
+            ]
+        }, 
+        "imdb_id": "tt9362930", 
+        "credits": {
+            "cast": [
+                {
+                    "name": "Xolo Mariduena", 
+                    "gender": 2, 
+                    "popularity": 14.154999999999999, 
+                    "original_name": "Xolo Mariduena", 
+                    "order": 0, 
+                    "credit_id": "65123f648e2ba601019f9d44", 
+                    "adult": false, 
+                    "cast_id": 243, 
+                    "profile_path": "/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg", 
+                    "id": 1185997, 
+                    "known_for_department": "Acting", 
+                    "character": "Jaime Reyes / Blue Beetle"
+                }, 
+                {
+                    "name": "Bruna Marquezine", 
+                    "gender": 1, 
+                    "popularity": 12.691000000000001, 
+                    "original_name": "Bruna Marquezine", 
+                    "order": 1, 
+                    "credit_id": "62277fa42f791500645ca0cd", 
+                    "adult": false, 
+                    "cast_id": 11, 
+                    "profile_path": "/8BioFFRlNt6YZDwDVnzVeRg1Iny.jpg", 
+                    "id": 1622590, 
+                    "known_for_department": "Acting", 
+                    "character": "Jenny Kord"
+                }, 
+                {
+                    "name": "Susan Sarandon", 
+                    "gender": 1, 
+                    "popularity": 55.128999999999998, 
+                    "original_name": "Susan Sarandon", 
+                    "order": 2, 
+                    "credit_id": "62587acf09191b0065327af2", 
+                    "adult": false, 
+                    "cast_id": 19, 
+                    "profile_path": "/oHYYL8bNakAREaLUBtMul5uMG0A.jpg", 
+                    "id": 4038, 
+                    "known_for_department": "Acting", 
+                    "character": "Victoria Kord"
+                }, 
+                {
+                    "name": "Raoul Max Trujillo", 
+                    "gender": 2, 
+                    "popularity": 11.316000000000001, 
+                    "original_name": "Raoul Max Trujillo", 
+                    "order": 3, 
+                    "credit_id": "62587b48dd2589009b845ea3", 
+                    "adult": false, 
+                    "cast_id": 20, 
+                    "profile_path": "/dIfHIt1pgnYW9oCksc0DdoY5Mt5.jpg", 
+                    "id": 17688, 
+                    "known_for_department": "Acting", 
+                    "character": "Carapax"
+                }, 
+                {
+                    "name": "Belissa Escobedo", 
+                    "gender": 1, 
+                    "popularity": 17.231999999999999, 
+                    "original_name": "Belissa Escobedo", 
+                    "order": 4, 
+                    "credit_id": "62277fb3b76cbb0066dfca60", 
+                    "adult": false, 
+                    "cast_id": 12, 
+                    "profile_path": "/584tOsPVFbzq7GJxET5diOGZ8p0.jpg", 
+                    "id": 2381442, 
+                    "known_for_department": "Acting", 
+                    "character": "Milagros Reyes"
+                }, 
+                {
+                    "name": "Dami\u00e1n Alc\u00e1zar", 
+                    "gender": 2, 
+                    "popularity": 13.786, 
+                    "original_name": "Dami\u00e1n Alc\u00e1zar", 
+                    "order": 5, 
+                    "credit_id": "62353f15db72c000456bf40b", 
+                    "adult": false, 
+                    "cast_id": 17, 
+                    "profile_path": "/6IAlrZ2yXubmmVaRsF7fdaP3N7C.jpg", 
+                    "id": 7370, 
+                    "known_for_department": "Acting", 
+                    "character": "Alberto Reyes"
+                }, 
+                {
+                    "name": "Elpidia Carrillo", 
+                    "gender": 1, 
+                    "popularity": 13.448, 
+                    "original_name": "Elpidia Carrillo", 
+                    "order": 6, 
+                    "credit_id": "62353f060752880045957c9e", 
+                    "adult": false, 
+                    "cast_id": 16, 
+                    "profile_path": "/xWlHSiYShbx8Abd1XFUqZw5xZOO.jpg", 
+                    "id": 1102, 
+                    "known_for_department": "Acting", 
+                    "character": "Roc\u00edo Reyes"
+                }, 
+                {
+                    "name": "George Lopez", 
+                    "gender": 2, 
+                    "popularity": 10.836, 
+                    "original_name": "George Lopez", 
+                    "order": 7, 
+                    "credit_id": "62353eab8d77c4001bdd453d", 
+                    "adult": false, 
+                    "cast_id": 14, 
+                    "profile_path": "/nyVMk9bZJKJEmk3KHS7jJ1672yN.jpg", 
+                    "id": 41798, 
+                    "known_for_department": "Acting", 
+                    "character": "Rudy Reyes"
+                }, 
+                {
+                    "name": "Adriana Barraza", 
+                    "gender": 1, 
+                    "popularity": 6.7619999999999996, 
+                    "original_name": "Adriana Barraza", 
+                    "order": 8, 
+                    "credit_id": "62353ec334e152001cc649e4", 
+                    "adult": false, 
+                    "cast_id": 15, 
+                    "profile_path": "/1aE7wu22bdgVTa0PMKXbAOSLiZn.jpg", 
+                    "id": 270, 
+                    "known_for_department": "Acting", 
+                    "character": "Nana Reyes"
+                }, 
+                {
+                    "name": "Becky G", 
+                    "gender": 1, 
+                    "popularity": 17.731999999999999, 
+                    "original_name": "Becky G", 
+                    "order": 9, 
+                    "credit_id": "647e111b0e29a22bdfec9cb7", 
+                    "adult": false, 
+                    "cast_id": 56, 
+                    "profile_path": "/9wT0OYw4e708koAg1Xfbyx6mA62.jpg", 
+                    "id": 1529446, 
+                    "known_for_department": "Acting", 
+                    "character": "Khaji-Da (voice)"
+                }, 
+                {
+                    "name": "Harvey Guill\u00e9n", 
+                    "gender": 2, 
+                    "popularity": 12.823, 
+                    "original_name": "Harvey Guill\u00e9n", 
+                    "order": 10, 
+                    "credit_id": "62277fbf871b340071c19d2a", 
+                    "adult": false, 
+                    "cast_id": 13, 
+                    "profile_path": "/yiNBonobPwqMVweB02JWufzp2l9.jpg", 
+                    "id": 210172, 
+                    "known_for_department": "Acting", 
+                    "character": "Dr. Sanchez"
+                }, 
+                {
+                    "name": "Jorge Jimenez", 
+                    "gender": 2, 
+                    "popularity": 1.3879999999999999, 
+                    "original_name": "Jorge Jimenez", 
+                    "order": 11, 
+                    "credit_id": "64e15428a3b5e601d59e9ee0", 
+                    "adult": false, 
+                    "cast_id": 168, 
+                    "profile_path": "/hXg5nLmGbverLE1OR1VTpIr1lTX.jpg", 
+                    "id": 1333199, 
+                    "known_for_department": "Acting", 
+                    "character": "T\u00edo Chema"
+                }, 
+                {
+                    "name": "Eyra Ag\u00fcero Joubert", 
+                    "gender": 1, 
+                    "popularity": 1.228, 
+                    "original_name": "Eyra Ag\u00fcero Joubert", 
+                    "order": 12, 
+                    "credit_id": "64e15465e19de90100e900fd", 
+                    "adult": false, 
+                    "cast_id": 169, 
+                    "profile_path": null, 
+                    "id": 1326614, 
+                    "known_for_department": "Acting", 
+                    "character": "T\u00eda Maru"
+                }, 
+                {
+                    "name": "Gabrielle Ortiz", 
+                    "gender": 1, 
+                    "popularity": 2.677, 
+                    "original_name": "Gabrielle Ortiz", 
+                    "order": 13, 
+                    "credit_id": "6452c358d861af0138f37d8f", 
+                    "adult": false, 
+                    "cast_id": 54, 
+                    "profile_path": "/tDwB2JENDKS2Fr9GmBJbQDZtatk.jpg", 
+                    "id": 2557495, 
+                    "known_for_department": "Acting", 
+                    "character": "T\u00eda Letty"
+                }, 
+                {
+                    "name": "Chente Ydrach", 
+                    "gender": 2, 
+                    "popularity": 2.1219999999999999, 
+                    "original_name": "Chente Ydrach", 
+                    "order": 14, 
+                    "credit_id": "64de211aa3b5e6013900bb57", 
+                    "adult": false, 
+                    "cast_id": 128, 
+                    "profile_path": "/swxF5b0t4IibJb0Gtd40zYVTlhk.jpg", 
+                    "id": 1618538, 
+                    "known_for_department": "Acting", 
+                    "character": "Old Man in Airport"
+                }, 
+                {
+                    "name": "Modesto Lacen", 
+                    "gender": 2, 
+                    "popularity": 3.1349999999999998, 
+                    "original_name": "Modesto Lacen", 
+                    "order": 15, 
+                    "credit_id": "64de1fb6d100b614b0a519f1", 
+                    "adult": false, 
+                    "cast_id": 118, 
+                    "profile_path": "/t6Li2XdnKtTAAec2nlaxbZkGvDZ.jpg", 
+                    "id": 64326, 
+                    "known_for_department": "Acting", 
+                    "character": "General Crane"
+                }, 
+                {
+                    "name": "Osh\u00fan Ramirez", 
+                    "gender": 1, 
+                    "popularity": 3.1509999999999998, 
+                    "original_name": "Osh\u00fan Ramirez", 
+                    "order": 16, 
+                    "credit_id": "64de20e459e8a90139d6f6f8", 
+                    "adult": false, 
+                    "cast_id": 127, 
+                    "profile_path": null, 
+                    "id": 4220133, 
+                    "known_for_department": "Acting", 
+                    "character": "Nayeli"
+                }, 
+                {
+                    "name": "Brianna Quinn Lewis", 
+                    "gender": 1, 
+                    "popularity": 3.3450000000000002, 
+                    "original_name": "Brianna Quinn Lewis", 
+                    "order": 17, 
+                    "credit_id": "64dcc35c59e8a900ac07f76c", 
+                    "adult": false, 
+                    "cast_id": 117, 
+                    "profile_path": "/qejvhDjAsQ4wcx3yR60aQdwdoED.jpg", 
+                    "id": 4089996, 
+                    "known_for_department": "Acting", 
+                    "character": "Kord Receptionist"
+                }, 
+                {
+                    "name": "Tahj Vaughans", 
+                    "gender": 2, 
+                    "popularity": 2.5, 
+                    "original_name": "Tahj Vaughans", 
+                    "order": 18, 
+                    "credit_id": "64de1fc4d100b614b3005249", 
+                    "adult": false, 
+                    "cast_id": 119, 
+                    "profile_path": "/mZkJ4Fbx7Mqxm41o8igKNba3S8K.jpg", 
+                    "id": 1861836, 
+                    "known_for_department": "Acting", 
+                    "character": "Dude #1"
+                }, 
+                {
+                    "name": "Dante Gonzalez-Abreu", 
+                    "gender": 2, 
+                    "popularity": 1.5109999999999999, 
+                    "original_name": "Dante Gonzalez-Abreu", 
+                    "order": 19, 
+                    "credit_id": "64de1fd259e8a900ffff3267", 
+                    "adult": false, 
+                    "cast_id": 120, 
+                    "profile_path": null, 
+                    "id": 4220124, 
+                    "known_for_department": "Acting", 
+                    "character": "Dude #2"
+                }, 
+                {
+                    "name": "Jon Z", 
+                    "gender": 2, 
+                    "popularity": 3.0649999999999999, 
+                    "original_name": "Jon Z", 
+                    "order": 20, 
+                    "credit_id": "64de1fe2a3b5e600acc29a11", 
+                    "adult": false, 
+                    "cast_id": 121, 
+                    "profile_path": null, 
+                    "id": 4220125, 
+                    "known_for_department": "Acting", 
+                    "character": "Dude #3"
+                }, 
+                {
+                    "name": "Carlos Ponce", 
+                    "gender": 2, 
+                    "popularity": 6.0179999999999998, 
+                    "original_name": "Carlos Ponce", 
+                    "order": 21, 
+                    "credit_id": "64de203aa3b5e600e29c9e08", 
+                    "adult": false, 
+                    "cast_id": 122, 
+                    "profile_path": "/elNTDau1yinXHgWht9EInLDftxH.jpg", 
+                    "id": 62067, 
+                    "known_for_department": "Acting", 
+                    "character": "Bentley Owner"
+                }, 
+                {
+                    "name": "Franco Castan", 
+                    "gender": 2, 
+                    "popularity": 2.2109999999999999, 
+                    "original_name": "Franco Castan", 
+                    "order": 22, 
+                    "credit_id": "64e154bb37109700ffba6df2", 
+                    "adult": false, 
+                    "cast_id": 170, 
+                    "profile_path": "/sMhv8CmeWj0MPO9JkKqJokSbiao.jpg", 
+                    "id": 1416333, 
+                    "known_for_department": "Acting", 
+                    "character": "Security Tech #1"
+                }, 
+                {
+                    "name": "Perris Drew", 
+                    "gender": 2, 
+                    "popularity": 2.5030000000000001, 
+                    "original_name": "Perris Drew", 
+                    "order": 23, 
+                    "credit_id": "64e154c25ab81a00c5b7ac15", 
+                    "adult": false, 
+                    "cast_id": 171, 
+                    "profile_path": "/5aB9MOhVcfyRHbGxBbrkAI8LLs3.jpg", 
+                    "id": 3045119, 
+                    "known_for_department": "Acting", 
+                    "character": "Security Tech #2"
+                }, 
+                {
+                    "name": "Felipe Esparza", 
+                    "gender": 2, 
+                    "popularity": 5.6829999999999998, 
+                    "original_name": "Felipe Esparza", 
+                    "order": 24, 
+                    "credit_id": "64e154cf5ab81a00c5b7ac1a", 
+                    "adult": false, 
+                    "cast_id": 172, 
+                    "profile_path": "/5VLaNf2sWM4bhfqR7bRlOTqwvyx.jpg", 
+                    "id": 131787, 
+                    "known_for_department": "Acting", 
+                    "character": "Security Tech #3"
+                }, 
+                {
+                    "name": "Walter J. Buck", 
+                    "gender": 2, 
+                    "popularity": 1.117, 
+                    "original_name": "Walter J. Buck", 
+                    "order": 25, 
+                    "credit_id": "64e154dd2495ab0100855ec6", 
+                    "adult": false, 
+                    "cast_id": 173, 
+                    "profile_path": null, 
+                    "id": 4223963, 
+                    "known_for_department": "Acting", 
+                    "character": "Security Tech #4"
+                }, 
+                {
+                    "name": "Jackson Spidell", 
+                    "gender": 2, 
+                    "popularity": 9.4209999999999994, 
+                    "original_name": "Jackson Spidell", 
+                    "order": 26, 
+                    "credit_id": "64e154e7a3b5e601d9f00faf", 
+                    "adult": false, 
+                    "cast_id": 174, 
+                    "profile_path": "/7cozKHcmO4MOOViAMqE4FXd0Bmf.jpg", 
+                    "id": 1779512, 
+                    "known_for_department": "Acting", 
+                    "character": "Black Ops Leader"
+                }, 
+                {
+                    "name": "Esteban Ruiz", 
+                    "gender": 2, 
+                    "popularity": 0.70399999999999996, 
+                    "original_name": "Esteban Ruiz", 
+                    "order": 27, 
+                    "credit_id": "64e154fba3b5e601d59e9f0d", 
+                    "adult": false, 
+                    "cast_id": 175, 
+                    "profile_path": "/4VpSjERX3qZR8yfhykZ1wOULh9F.jpg", 
+                    "id": 1614324, 
+                    "known_for_department": "Acting", 
+                    "character": "Sebastian - Wall Guard #1"
+                }, 
+                {
+                    "name": "Marcus Nelson", 
+                    "gender": 2, 
+                    "popularity": 1.6319999999999999, 
+                    "original_name": "Marcus Nelson", 
+                    "order": 28, 
+                    "credit_id": "64e155942495ab00c68bedea", 
+                    "adult": false, 
+                    "cast_id": 176, 
+                    "profile_path": null, 
+                    "id": 3160209, 
+                    "known_for_department": "Acting", 
+                    "character": "Giovanni - Wall Guard #2"
+                }, 
+                {
+                    "name": "Isabella Aparicio", 
+                    "gender": 1, 
+                    "popularity": 1.1759999999999999, 
+                    "original_name": "Isabella Aparicio", 
+                    "order": 29, 
+                    "credit_id": "64de2057b77d4b114019b6e0", 
+                    "adult": false, 
+                    "cast_id": 123, 
+                    "profile_path": null, 
+                    "id": 4220128, 
+                    "known_for_department": "Acting", 
+                    "character": "Young Jenny Kord"
+                }, 
+                {
+                    "name": "Ayden Rivera", 
+                    "gender": 2, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Ayden Rivera", 
+                    "order": 30, 
+                    "credit_id": "64de20795ab81a00ad2011d4", 
+                    "adult": false, 
+                    "cast_id": 124, 
+                    "profile_path": null, 
+                    "id": 4220130, 
+                    "known_for_department": "Acting", 
+                    "character": "Kid Carapax"
+                }, 
+                {
+                    "name": "Xol Gonzalez", 
+                    "gender": 2, 
+                    "popularity": 1.8260000000000001, 
+                    "original_name": "Xol Gonzalez", 
+                    "order": 31, 
+                    "credit_id": "64de209c59e8a900c5a0baac", 
+                    "adult": false, 
+                    "cast_id": 125, 
+                    "profile_path": null, 
+                    "id": 4220131, 
+                    "known_for_department": "Acting", 
+                    "character": "Teen Carapax"
+                }, 
+                {
+                    "name": "Yuli Zorrilla", 
+                    "gender": 1, 
+                    "popularity": 1.673, 
+                    "original_name": "Yuli Zorrilla", 
+                    "order": 32, 
+                    "credit_id": "64de20beaaec7103fbea3771", 
+                    "adult": false, 
+                    "cast_id": 126, 
+                    "profile_path": "/u8KzPYJrD51fbpIe2ytbggpr6gv.jpg", 
+                    "id": 2723382, 
+                    "known_for_department": "Acting", 
+                    "character": "Carapax's Mom"
+                }, 
+                {
+                    "name": "Sergio Valente", 
+                    "gender": 2, 
+                    "popularity": 1.22, 
+                    "original_name": "Sergio Valente", 
+                    "order": 33, 
+                    "credit_id": "64e155e5da9ef200e5f25a6c", 
+                    "adult": false, 
+                    "cast_id": 177, 
+                    "profile_path": "/yJ41OAiAVqe7x3KZgoUO2DkVmhz.jpg", 
+                    "id": 1089007, 
+                    "known_for_department": "Acting", 
+                    "character": "Soldier"
+                }
+            ], 
+            "crew": [
+                {
+                    "name": "Michael Payne", 
+                    "gender": 2, 
+                    "popularity": 3.6059999999999999, 
+                    "original_name": "Michael Payne", 
+                    "department": "Sound", 
+                    "job": "Sound Effects Editor", 
+                    "adult": false, 
+                    "credit_id": "64e164bc5ab81a01391ab6b3", 
+                    "profile_path": null, 
+                    "id": 1597, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "David Farmer", 
+                    "gender": 2, 
+                    "popularity": 3.2229999999999999, 
+                    "original_name": "David Farmer", 
+                    "department": "Sound", 
+                    "job": "Sound Designer", 
+                    "adult": false, 
+                    "credit_id": "64e164975ab81a00ad21524f", 
+                    "profile_path": "/oYNchEjc32GucUPvXAHMXajk3xJ.jpg", 
+                    "id": 3504, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "K.C. Hodenfield", 
+                    "gender": 0, 
+                    "popularity": 3.532, 
+                    "original_name": "K.C. Hodenfield", 
+                    "department": "Production", 
+                    "job": "Co-Producer", 
+                    "adult": false, 
+                    "credit_id": "64cfd74f85090f01445bb859", 
+                    "profile_path": null, 
+                    "id": 5545, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "K.C. Hodenfield", 
+                    "gender": 0, 
+                    "popularity": 3.532, 
+                    "original_name": "K.C. Hodenfield", 
+                    "department": "Directing", 
+                    "job": "First Assistant Director", 
+                    "adult": false, 
+                    "credit_id": "63ec2fea813cb60096aa6f23", 
+                    "profile_path": null, 
+                    "id": 5545, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Craig Alpert", 
+                    "gender": 2, 
+                    "popularity": 4.8399999999999999, 
+                    "original_name": "Craig Alpert", 
+                    "department": "Editing", 
+                    "job": "Editor", 
+                    "adult": false, 
+                    "credit_id": "62c02f6f924ce60059cd3afe", 
+                    "profile_path": "/bYDRvNYRtQW5H9qEqimbJDudcXt.jpg", 
+                    "id": 6742, 
+                    "known_for_department": "Editing"
+                }, 
+                {
+                    "name": "Steve Ditko", 
+                    "gender": 2, 
+                    "popularity": 6.2750000000000004, 
+                    "original_name": "Steve Ditko", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16abb2495ab00c68bff8b", 
+                    "profile_path": "/liZhKuugdqrSCYMzggzyhYRbfou.jpg", 
+                    "id": 7625, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Christopher Moriana", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Christopher Moriana", 
+                    "department": "Sound", 
+                    "job": "Foley Artist", 
+                    "adult": false, 
+                    "credit_id": "64e03a40a3b5e601d63a475d", 
+                    "profile_path": null, 
+                    "id": 9440, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Julian Ashby", 
+                    "gender": 0, 
+                    "popularity": 11.662000000000001, 
+                    "original_name": "Julian Ashby", 
+                    "department": "Art", 
+                    "job": "Art Direction", 
+                    "adult": false, 
+                    "credit_id": "64e162e8aaec7103fbeb7787", 
+                    "profile_path": null, 
+                    "id": 9818, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Jon Billington", 
+                    "gender": 2, 
+                    "popularity": 2.7440000000000002, 
+                    "original_name": "Jon Billington", 
+                    "department": "Art", 
+                    "job": "Production Design", 
+                    "adult": false, 
+                    "credit_id": "62c02fb6325a5100c3a486f1", 
+                    "profile_path": "/3wMaenFPT4rhJuPKJcE49eH7WGk.jpg", 
+                    "id": 9819, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Tami Treadwell", 
+                    "gender": 1, 
+                    "popularity": 1.708, 
+                    "original_name": "Tami Treadwell", 
+                    "department": "Sound", 
+                    "job": "ADR Mixer", 
+                    "adult": false, 
+                    "credit_id": "64e1643fe19de900adfd241e", 
+                    "profile_path": null, 
+                    "id": 13173, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Tony Lamberti", 
+                    "gender": 2, 
+                    "popularity": 2.7429999999999999, 
+                    "original_name": "Tony Lamberti", 
+                    "department": "Sound", 
+                    "job": "Sound Effects Editor", 
+                    "adult": false, 
+                    "credit_id": "64e164aa37109700c51f2272", 
+                    "profile_path": null, 
+                    "id": 13179, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "David Siegel", 
+                    "gender": 2, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "David Siegel", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16ada2495ab013a0897dd", 
+                    "profile_path": null, 
+                    "id": 14753, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Mayes C. Rubeo", 
+                    "gender": 0, 
+                    "popularity": 2.1850000000000001, 
+                    "original_name": "Mayes C. Rubeo", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Costume Design", 
+                    "adult": false, 
+                    "credit_id": "6482d27ac9dbf9013a05befe", 
+                    "profile_path": null, 
+                    "id": 17675, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Jack Kirby", 
+                    "gender": 2, 
+                    "popularity": 12.27, 
+                    "original_name": "Jack Kirby", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16ac2e19de9011d5e928b", 
+                    "profile_path": "/ihhR019gL1WrXdSQNJITAY6dont.jpg", 
+                    "id": 18866, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Jennifer M. Gentile", 
+                    "gender": 1, 
+                    "popularity": 1.952, 
+                    "original_name": "Jennifer M. Gentile", 
+                    "department": "Art", 
+                    "job": "Set Decoration", 
+                    "adult": false, 
+                    "credit_id": "63ec2f92699fb7009e3d18cd", 
+                    "profile_path": null, 
+                    "id": 33673, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "John Rogers", 
+                    "gender": 2, 
+                    "popularity": 1.8979999999999999, 
+                    "original_name": "John Rogers", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16a72da9ef200c859446c", 
+                    "profile_path": "/6VxilKl6oIlxiyet26LabZIW8mG.jpg", 
+                    "id": 19535, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Garrett Grant", 
+                    "gender": 0, 
+                    "popularity": 1.708, 
+                    "original_name": "Garrett Grant", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "6434752622af3e00d5a7926b", 
+                    "profile_path": null, 
+                    "id": 29206, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Walter Hamada", 
+                    "gender": 2, 
+                    "popularity": 5.2519999999999998, 
+                    "original_name": "Walter Hamada", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "6366d57be7c097007aeb708d", 
+                    "profile_path": "/cykm5UtrpVYMY6gc5CfFt6eXZXG.jpg", 
+                    "id": 47365, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Peter Safran", 
+                    "gender": 2, 
+                    "popularity": 4.4690000000000003, 
+                    "original_name": "Peter Safran", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "65bb8baa459ad6017a6c5721", 
+                    "profile_path": "/fi7kdDDUdNrn5K6vmLkLrLarQQs.jpg", 
+                    "id": 52259, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Geo Corvera", 
+                    "gender": 2, 
+                    "popularity": 1.22, 
+                    "original_name": "Geo Corvera", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba2985090f00c87ce7e0", 
+                    "profile_path": "/6Q3PcNIyKIbaW6EPAGiZttQJCw5.jpg", 
+                    "id": 53254, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Will Eisner", 
+                    "gender": 2, 
+                    "popularity": 1.607, 
+                    "original_name": "Will Eisner", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16a915ab81a00ad2155ae", 
+                    "profile_path": null, 
+                    "id": 83875, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Kelvin McIlwain", 
+                    "gender": 0, 
+                    "popularity": 0.97999999999999998, 
+                    "original_name": "Kelvin McIlwain", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Supervisor", 
+                    "adult": false, 
+                    "credit_id": "643475a022af3e01139725ce", 
+                    "profile_path": null, 
+                    "id": 92471, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Kimberly Jones", 
+                    "gender": 0, 
+                    "popularity": 1.96, 
+                    "original_name": "Kimberly Jones", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Makeup Department Head", 
+                    "adult": false, 
+                    "credit_id": "64e038f7371097011c53d1ec", 
+                    "profile_path": null, 
+                    "id": 74322, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Cully Hamner", 
+                    "gender": 0, 
+                    "popularity": 0.998, 
+                    "original_name": "Cully Hamner", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16a7caaec7103f7e43590", 
+                    "profile_path": null, 
+                    "id": 123097, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Michelle Rose", 
+                    "gender": 1, 
+                    "popularity": 1.9430000000000001, 
+                    "original_name": "Michelle Rose", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb91e303c85013a14d86c", 
+                    "profile_path": "/rrbWOv23N8wI93HSVE1Ml3Qu0cb.jpg", 
+                    "id": 123169, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "J.J. Perry", 
+                    "gender": 2, 
+                    "popularity": 4.3719999999999999, 
+                    "original_name": "J.J. Perry", 
+                    "department": "Directing", 
+                    "job": "Second Unit Director", 
+                    "adult": false, 
+                    "credit_id": "6462960e532acb01195990bb", 
+                    "profile_path": "/57assDPZceZ4x7YWrkPE5FqVn1f.jpg", 
+                    "id": 131532, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Len Wein", 
+                    "gender": 2, 
+                    "popularity": 2.4929999999999999, 
+                    "original_name": "Len Wein", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16ac9076ce800e313a940", 
+                    "profile_path": "/jA38DskVXNIryKgPgc9Tc3GyaGH.jpg", 
+                    "id": 173658, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Whit Norris", 
+                    "gender": 2, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Whit Norris", 
+                    "department": "Sound", 
+                    "job": "Production Sound Mixer", 
+                    "adult": false, 
+                    "credit_id": "64e163d9da9ef200e5f265d8", 
+                    "profile_path": null, 
+                    "id": 548441, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Dan Didio", 
+                    "gender": 2, 
+                    "popularity": 2.335, 
+                    "original_name": "Dan Didio", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16aace19de9013a28a6ce", 
+                    "profile_path": null, 
+                    "id": 938688, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Darren Sunny Warkentin", 
+                    "gender": 2, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Darren Sunny Warkentin", 
+                    "department": "Sound", 
+                    "job": "Supervising Sound Editor", 
+                    "adult": false, 
+                    "credit_id": "64e03a5a5ab81a01391a4058", 
+                    "profile_path": null, 
+                    "id": 1031764, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Andrew DeCristofaro", 
+                    "gender": 0, 
+                    "popularity": 1.4550000000000001, 
+                    "original_name": "Andrew DeCristofaro", 
+                    "department": "Sound", 
+                    "job": "Supervising Sound Editor", 
+                    "adult": false, 
+                    "credit_id": "64e03a1b076ce800e3132a43", 
+                    "profile_path": null, 
+                    "id": 1031811, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "John Rickard", 
+                    "gender": 0, 
+                    "popularity": 2.8010000000000002, 
+                    "original_name": "John Rickard", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "61bbe67b54a0980042e9660d", 
+                    "profile_path": null, 
+                    "id": 1116283, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Zev Foreman", 
+                    "gender": 2, 
+                    "popularity": 2.867, 
+                    "original_name": "Zev Foreman", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "64347503391b9c11e1494667", 
+                    "profile_path": null, 
+                    "id": 1128684, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Airon Armstrong", 
+                    "gender": 2, 
+                    "popularity": 10.01, 
+                    "original_name": "Airon Armstrong", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba74614c6d00ff3118e0", 
+                    "profile_path": "/cVOMBcU6qFsT7tpo4QjKrCRJ7oW.jpg", 
+                    "id": 1142261, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Jeremy Marinas", 
+                    "gender": 2, 
+                    "popularity": 2.7709999999999999, 
+                    "original_name": "Jeremy Marinas", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9b2303c85011dd3b335", 
+                    "profile_path": "/9TwJxsHeCp99V1eGXFFwitPcQb6.jpg", 
+                    "id": 1188571, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Eduardo Mariota", 
+                    "gender": 0, 
+                    "popularity": 0.83999999999999997, 
+                    "original_name": "Eduardo Mariota", 
+                    "department": "Camera", 
+                    "job": "Camera Operator", 
+                    "adult": false, 
+                    "credit_id": "64e4dd2f5258ae012ca37906", 
+                    "profile_path": null, 
+                    "id": 1190482, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Keith Giffen", 
+                    "gender": 2, 
+                    "popularity": 3.1699999999999999, 
+                    "original_name": "Keith Giffen", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16a43e19de900adfd27bd", 
+                    "profile_path": "/rOhA9DEKB7fHtLeT6gfwbt3KI4n.jpg", 
+                    "id": 1222509, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "John Dixon", 
+                    "gender": 2, 
+                    "popularity": 3.3809999999999998, 
+                    "original_name": "John Dixon", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba184d6791011c174081", 
+                    "profile_path": "/5aHPScnn7icFDPHhBSV1fggmtNZ.jpg", 
+                    "id": 1259516, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Efka Kvaraciejus", 
+                    "gender": 2, 
+                    "popularity": 6.3979999999999997, 
+                    "original_name": "Efka Kvaraciejus", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e167a34a52f8011e1e5cc6", 
+                    "profile_path": "/xC12DoEHB9h3jJQ5YrJ1WSoLEWs.jpg", 
+                    "id": 1272901, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Roberto G\u00f3mez", 
+                    "gender": 2, 
+                    "popularity": 3.7010000000000001, 
+                    "original_name": "Roberto G\u00f3mez", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16b39076ce8011d159435", 
+                    "profile_path": null, 
+                    "id": 1302532, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Chris Terhune", 
+                    "gender": 0, 
+                    "popularity": 4.2690000000000001, 
+                    "original_name": "Chris Terhune", 
+                    "department": "Sound", 
+                    "job": "Sound Designer", 
+                    "adult": false, 
+                    "credit_id": "64e03a4d5ab81a00ffc216b2", 
+                    "profile_path": null, 
+                    "id": 1338484, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Sarah Swick", 
+                    "gender": 0, 
+                    "popularity": 1.8560000000000001, 
+                    "original_name": "Sarah Swick", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Producer", 
+                    "adult": false, 
+                    "credit_id": "64e4df851feac100fe5ad09d", 
+                    "profile_path": null, 
+                    "id": 1352973, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Luis Galdames", 
+                    "gender": 2, 
+                    "popularity": 1.5529999999999999, 
+                    "original_name": "Luis Galdames", 
+                    "department": "Sound", 
+                    "job": "Sound Effects Editor", 
+                    "adult": false, 
+                    "credit_id": "64e03a29b77d4b1141f9ac3a", 
+                    "profile_path": null, 
+                    "id": 1360098, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Lee Gilmore", 
+                    "gender": 2, 
+                    "popularity": 2.246, 
+                    "original_name": "Lee Gilmore", 
+                    "department": "Sound", 
+                    "job": "Supervising Sound Effects Editor", 
+                    "adult": false, 
+                    "credit_id": "64e164ce4a52f800c7a32d28", 
+                    "profile_path": null, 
+                    "id": 1360099, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Jwaundace Candece", 
+                    "gender": 1, 
+                    "popularity": 4.1219999999999999, 
+                    "original_name": "Jwaundace Candece", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba596d4c97010d508da9", 
+                    "profile_path": null, 
+                    "id": 1370799, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Kristen McGary", 
+                    "gender": 0, 
+                    "popularity": 0.74099999999999999, 
+                    "original_name": "Kristen McGary", 
+                    "department": "Art", 
+                    "job": "Set Decoration Buyer", 
+                    "adult": false, 
+                    "credit_id": "64e166222495ab00ae835f18", 
+                    "profile_path": null, 
+                    "id": 1378196, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Russell Earl", 
+                    "gender": 0, 
+                    "popularity": 1.1319999999999999, 
+                    "original_name": "Russell Earl", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Supervisor", 
+                    "adult": false, 
+                    "credit_id": "64e4deac594c94011c34eef9", 
+                    "profile_path": null, 
+                    "id": 1379990, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Gianni Biasetti Jr.", 
+                    "gender": 2, 
+                    "popularity": 1.6459999999999999, 
+                    "original_name": "Gianni Biasetti Jr.", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba55d9f4a603b8757e88", 
+                    "profile_path": "/frt102sL0yaSl51pTv3hWj5NQAY.jpg", 
+                    "id": 1386320, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Will Files", 
+                    "gender": 2, 
+                    "popularity": 19.789999999999999, 
+                    "original_name": "Will Files", 
+                    "department": "Sound", 
+                    "job": "Sound Designer", 
+                    "adult": false, 
+                    "credit_id": "64e1648fe19de90100e90c43", 
+                    "profile_path": null, 
+                    "id": 1389133, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Will Files", 
+                    "gender": 2, 
+                    "popularity": 19.789999999999999, 
+                    "original_name": "Will Files", 
+                    "department": "Sound", 
+                    "job": "Sound Re-Recording Mixer", 
+                    "adult": false, 
+                    "credit_id": "64e164eb37109700c51f2299", 
+                    "profile_path": null, 
+                    "id": 1389133, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Jody Blose", 
+                    "gender": 0, 
+                    "popularity": 1.897, 
+                    "original_name": "Jody Blose", 
+                    "department": "Directing", 
+                    "job": "Script Supervisor", 
+                    "adult": false, 
+                    "credit_id": "63ec3079813cb600dc07154f", 
+                    "profile_path": null, 
+                    "id": 1389138, 
+                    "known_for_department": "Directing"
+                }, 
+                {
+                    "name": "Mark Paterson", 
+                    "gender": 0, 
+                    "popularity": 1.96, 
+                    "original_name": "Mark Paterson", 
+                    "department": "Sound", 
+                    "job": "Sound Re-Recording Mixer", 
+                    "adult": false, 
+                    "credit_id": "64e164f537109700ac456d04", 
+                    "profile_path": null, 
+                    "id": 1395709, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Alyson Dee Moore", 
+                    "gender": 1, 
+                    "popularity": 2.613, 
+                    "original_name": "Alyson Dee Moore", 
+                    "department": "Sound", 
+                    "job": "Foley Artist", 
+                    "adult": false, 
+                    "credit_id": "64e16461076ce800c6427334", 
+                    "profile_path": null, 
+                    "id": 1397823, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Rob King", 
+                    "gender": 2, 
+                    "popularity": 2.3919999999999999, 
+                    "original_name": "Rob King", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9d2d9f4a603b6c891bd", 
+                    "profile_path": null, 
+                    "id": 1399638, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Chad Wiebe", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Chad Wiebe", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Supervisor", 
+                    "adult": false, 
+                    "credit_id": "64e4dfccc3c89100c681041d", 
+                    "profile_path": null, 
+                    "id": 1399865, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "George Lee", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "George Lee", 
+                    "department": "Art", 
+                    "job": "Set Designer", 
+                    "adult": false, 
+                    "credit_id": "64e03ade076ce8011d152145", 
+                    "profile_path": null, 
+                    "id": 1400555, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Angelo Palazzo", 
+                    "gender": 2, 
+                    "popularity": 2.3330000000000002, 
+                    "original_name": "Angelo Palazzo", 
+                    "department": "Sound", 
+                    "job": "Sound Effects Editor", 
+                    "adult": false, 
+                    "credit_id": "64e164b3e19de900c68beb2b", 
+                    "profile_path": null, 
+                    "id": 1401135, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Bruce Tanis", 
+                    "gender": 2, 
+                    "popularity": 2.9319999999999999, 
+                    "original_name": "Bruce Tanis", 
+                    "department": "Sound", 
+                    "job": "Foley Supervisor", 
+                    "adult": false, 
+                    "credit_id": "64e165e1076ce8013a29f687", 
+                    "profile_path": null, 
+                    "id": 1406389, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Jon Valera", 
+                    "gender": 2, 
+                    "popularity": 6.8159999999999998, 
+                    "original_name": "Jon Valera", 
+                    "department": "Crew", 
+                    "job": "Stunt Coordinator", 
+                    "adult": false, 
+                    "credit_id": "64ceb941d9f4a603b796f576", 
+                    "profile_path": "/kvcBOZCEMrHLwfsb7kUBDPl0AMk.jpg", 
+                    "id": 1427715, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Jeri Baker", 
+                    "gender": 0, 
+                    "popularity": 2.6539999999999999, 
+                    "original_name": "Jeri Baker", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Hair Department Head", 
+                    "adult": false, 
+                    "credit_id": "64e16686b77d4b1143495cd5", 
+                    "profile_path": null, 
+                    "id": 1442097, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Eric Townsend", 
+                    "gender": 0, 
+                    "popularity": 2.1019999999999999, 
+                    "original_name": "Eric Townsend", 
+                    "department": "Art", 
+                    "job": "Set Dresser", 
+                    "adult": false, 
+                    "credit_id": "649af4de0e5aba00ffc3c805", 
+                    "profile_path": null, 
+                    "id": 1451255, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Marian Green", 
+                    "gender": 1, 
+                    "popularity": 3.6669999999999998, 
+                    "original_name": "Marian Green", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9e1fa27f400c50af809", 
+                    "profile_path": "/zQmlJ1hMRMLjzK78vAjEbxDYuM2.jpg", 
+                    "id": 1456721, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Ellen Lampl", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Ellen Lampl", 
+                    "department": "Art", 
+                    "job": "Graphic Designer", 
+                    "adult": false, 
+                    "credit_id": "64e163b2b77d4b1141fa1c82", 
+                    "profile_path": null, 
+                    "id": 1463327, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Daniel Graham", 
+                    "gender": 0, 
+                    "popularity": 2.653, 
+                    "original_name": "Daniel Graham", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9f2549dda00c53eeb25", 
+                    "profile_path": null, 
+                    "id": 1463668, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Jay Pelissier", 
+                    "gender": 0, 
+                    "popularity": 1.8660000000000001, 
+                    "original_name": "Jay Pelissier", 
+                    "department": "Art", 
+                    "job": "Supervising Art Director", 
+                    "adult": false, 
+                    "credit_id": "63ec2f54813cb600dc07132a", 
+                    "profile_path": null, 
+                    "id": 1493864, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "\u00c1ngel Manuel Soto", 
+                    "gender": 2, 
+                    "popularity": 4.0860000000000003, 
+                    "original_name": "\u00c1ngel Manuel Soto", 
+                    "department": "Directing", 
+                    "job": "Director", 
+                    "adult": false, 
+                    "credit_id": "60353737e786870040d25f6c", 
+                    "profile_path": "/7lu6zFhXB1Na5ANy2pPTIERaAhi.jpg", 
+                    "id": 1500758, 
+                    "known_for_department": "Directing"
+                }, 
+                {
+                    "name": "Chelsea Ellis Bloch", 
+                    "gender": 1, 
+                    "popularity": 2.6320000000000001, 
+                    "original_name": "Chelsea Ellis Bloch", 
+                    "department": "Production", 
+                    "job": "Casting", 
+                    "adult": false, 
+                    "credit_id": "63ec2eda1b7294007c49dd47", 
+                    "profile_path": null, 
+                    "id": 1510872, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Susan Reilly LeHane", 
+                    "gender": 0, 
+                    "popularity": 0.73099999999999998, 
+                    "original_name": "Susan Reilly LeHane", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Makeup Artist", 
+                    "adult": false, 
+                    "credit_id": "64e0391fe19de9013a28272c", 
+                    "profile_path": null, 
+                    "id": 1517176, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Season Kent", 
+                    "gender": 1, 
+                    "popularity": 1.7, 
+                    "original_name": "Season Kent", 
+                    "department": "Sound", 
+                    "job": "Music Supervisor", 
+                    "adult": false, 
+                    "credit_id": "64821713e375c000acc41e81", 
+                    "profile_path": "/xJHOwAJVwaBVyQTMSkCm23ZfGeW.jpg", 
+                    "id": 1529990, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Mark Hawker", 
+                    "gender": 2, 
+                    "popularity": 1.55, 
+                    "original_name": "Mark Hawker", 
+                    "department": "Visual Effects", 
+                    "job": "Special Effects Supervisor", 
+                    "adult": false, 
+                    "credit_id": "63ec30a2f92532009d92bebe", 
+                    "profile_path": null, 
+                    "id": 1530712, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Bobby Jordan", 
+                    "gender": 2, 
+                    "popularity": 3.3109999999999999, 
+                    "original_name": "Bobby Jordan", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9bc4d6791011c17406a", 
+                    "profile_path": "/tOFBAfy0LnrRqLscwZPeLYM0VnZ.jpg", 
+                    "id": 1544399, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Matthew Austin Murray", 
+                    "gender": 2, 
+                    "popularity": 1.8260000000000001, 
+                    "original_name": "Matthew Austin Murray", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb98bfa27f40139163cfa", 
+                    "profile_path": null, 
+                    "id": 1544403, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Oliver Schulz", 
+                    "gender": 0, 
+                    "popularity": 1.3799999999999999, 
+                    "original_name": "Oliver Schulz", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Supervisor", 
+                    "adult": false, 
+                    "credit_id": "64e4df6d63e6fb011d0e487b", 
+                    "profile_path": null, 
+                    "id": 1548416, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Robert Wilson", 
+                    "gender": 2, 
+                    "popularity": 4.0099999999999998, 
+                    "original_name": "Robert Wilson", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Key Hair Stylist", 
+                    "adult": false, 
+                    "credit_id": "64e166bfe19de900e34398e4", 
+                    "profile_path": null, 
+                    "id": 1548530, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Edward T. Hanley", 
+                    "gender": 2, 
+                    "popularity": 0.69799999999999995, 
+                    "original_name": "Edward T. Hanley", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Costume Supervisor", 
+                    "adult": false, 
+                    "credit_id": "64e039ee076ce8011d1520be", 
+                    "profile_path": null, 
+                    "id": 1550064, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Kevin Cerchiai", 
+                    "gender": 0, 
+                    "popularity": 1.756, 
+                    "original_name": "Kevin Cerchiai", 
+                    "department": "Sound", 
+                    "job": "Boom Operator", 
+                    "adult": false, 
+                    "credit_id": "63ec30c51b7294008e15f4d7", 
+                    "profile_path": null, 
+                    "id": 1562008, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Angel Pastrana", 
+                    "gender": 1, 
+                    "popularity": 0.61799999999999999, 
+                    "original_name": "Angel Pastrana", 
+                    "department": "Camera", 
+                    "job": "Grip", 
+                    "adult": false, 
+                    "credit_id": "64e4dd6263e6fb0100500333", 
+                    "profile_path": null, 
+                    "id": 1570787, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Katrin Arndt", 
+                    "gender": 1, 
+                    "popularity": 1.3200000000000001, 
+                    "original_name": "Katrin Arndt", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Producer", 
+                    "adult": false, 
+                    "credit_id": "64e4de7bc3c89100e35ea7e4", 
+                    "profile_path": null, 
+                    "id": 1574097, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Malcolm Humphreys", 
+                    "gender": 0, 
+                    "popularity": 1.6559999999999999, 
+                    "original_name": "Malcolm Humphreys", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Supervisor", 
+                    "adult": false, 
+                    "credit_id": "64e4ded406f984010c6df85d", 
+                    "profile_path": null, 
+                    "id": 1575736, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Gareth Dunnet-Alcocer", 
+                    "gender": 2, 
+                    "popularity": 4.165, 
+                    "original_name": "Gareth Dunnet-Alcocer", 
+                    "department": "Writing", 
+                    "job": "Writer", 
+                    "adult": false, 
+                    "credit_id": "63ec2e681f3e60007fb5aa37", 
+                    "profile_path": "/4WdVtBGBaS0hIapSpFbDKLhLFr9.jpg", 
+                    "id": 1578121, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Bobby Krlic", 
+                    "gender": 2, 
+                    "popularity": 3.778, 
+                    "original_name": "Bobby Krlic", 
+                    "department": "Sound", 
+                    "job": "Original Music Composer", 
+                    "adult": false, 
+                    "credit_id": "642e1e67158c8501031fc8b8", 
+                    "profile_path": "/edyQ97jkTRbWBARUaB31ghl4mMT.jpg", 
+                    "id": 1580941, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Marisol Roncali", 
+                    "gender": 1, 
+                    "popularity": 4.8789999999999996, 
+                    "original_name": "Marisol Roncali", 
+                    "department": "Production", 
+                    "job": "Casting", 
+                    "adult": false, 
+                    "credit_id": "63ec2ef2813cb60079425376", 
+                    "profile_path": null, 
+                    "id": 1608766, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Jared Losano", 
+                    "gender": 0, 
+                    "popularity": 1.6279999999999999, 
+                    "original_name": "Jared Losano", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e16978b77d4b1142605aec", 
+                    "profile_path": null, 
+                    "id": 1635212, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Pawel Pogorzelski", 
+                    "gender": 2, 
+                    "popularity": 4.6100000000000003, 
+                    "original_name": "Pawel Pogorzelski", 
+                    "department": "Camera", 
+                    "job": "Director of Photography", 
+                    "adult": false, 
+                    "credit_id": "61f76863e2bca800efdf6e63", 
+                    "profile_path": "/mCUSXTkDMmJaX4FoQ7adjIcJaOu.jpg", 
+                    "id": 1650351, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Juan Cervantes", 
+                    "gender": 0, 
+                    "popularity": 1.96, 
+                    "original_name": "Juan Cervantes", 
+                    "department": "Art", 
+                    "job": "Set Dresser", 
+                    "adult": false, 
+                    "credit_id": "64e03aa2371097011c53d30a", 
+                    "profile_path": null, 
+                    "id": 1693343, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Maya Santandrea", 
+                    "gender": 1, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Maya Santandrea", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e167782495ab011dd464b1", 
+                    "profile_path": "/zPWqVw9Kje3BvqnQb9qpnpeRJeL.jpg", 
+                    "id": 1711856, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Amanda Bianchi", 
+                    "gender": 0, 
+                    "popularity": 1.095, 
+                    "original_name": "Amanda Bianchi", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Key Makeup Artist", 
+                    "adult": false, 
+                    "credit_id": "64e1670aa3b5e601da48ee88", 
+                    "profile_path": null, 
+                    "id": 1715153, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Caleb Spillyards", 
+                    "gender": 2, 
+                    "popularity": 4.7560000000000002, 
+                    "original_name": "Caleb Spillyards", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb937d9f4a603bafa5996", 
+                    "profile_path": "/5r7Q82C3g8CCIR2Eew6gc2oWSK2.jpg", 
+                    "id": 1717376, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Jason Oliver", 
+                    "gender": 2, 
+                    "popularity": 4.5629999999999997, 
+                    "original_name": "Jason Oliver", 
+                    "department": "Sound", 
+                    "job": "ADR Mixer", 
+                    "adult": false, 
+                    "credit_id": "64e16438da9ef200c859409f", 
+                    "profile_path": null, 
+                    "id": 1760572, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Darrin Mann", 
+                    "gender": 0, 
+                    "popularity": 3.2909999999999999, 
+                    "original_name": "Darrin Mann", 
+                    "department": "Sound", 
+                    "job": "Foley Mixer", 
+                    "adult": false, 
+                    "credit_id": "64e03a36b77d4b1141f9ac40", 
+                    "profile_path": null, 
+                    "id": 1760573, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Renae Moneymaker", 
+                    "gender": 1, 
+                    "popularity": 5.5659999999999998, 
+                    "original_name": "Renae Moneymaker", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64cea61f85090f00c87ce318", 
+                    "profile_path": "/k96lYjDhLJbhIDLjmxcOxCcHumW.jpg", 
+                    "id": 1768007, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Richard Marrero", 
+                    "gender": 2, 
+                    "popularity": 2.0550000000000002, 
+                    "original_name": "Richard Marrero", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e167b5da9ef2011fe47216", 
+                    "profile_path": "/dkyrndpFfzJolEmvVKHb6lwQeGC.jpg", 
+                    "id": 1797602, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Bobby Hernandez", 
+                    "gender": 2, 
+                    "popularity": 1.9099999999999999, 
+                    "original_name": "Bobby Hernandez", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e167575ab81a00e25c2f47", 
+                    "profile_path": "/z2QZ5YSHxhHOKYSGuRqanICNkXU.jpg", 
+                    "id": 1813752, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Jeffrey Roy", 
+                    "gender": 0, 
+                    "popularity": 3.0579999999999998, 
+                    "original_name": "Jeffrey Roy", 
+                    "department": "Sound", 
+                    "job": "ADR Mixer", 
+                    "adult": false, 
+                    "credit_id": "64e16446a3b5e601d59eac5e", 
+                    "profile_path": null, 
+                    "id": 1818190, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Danya Bateman", 
+                    "gender": 1, 
+                    "popularity": 26.068000000000001, 
+                    "original_name": "Danya Bateman", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba66fa27f40139163d27", 
+                    "profile_path": "/zm8g9IYRwh60NGMfPcpwnprZjTc.jpg", 
+                    "id": 1825134, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Colton Comans", 
+                    "gender": 0, 
+                    "popularity": 2.2959999999999998, 
+                    "original_name": "Colton Comans", 
+                    "department": "Art", 
+                    "job": "Set Dresser", 
+                    "adult": false, 
+                    "credit_id": "64e03aace19de900c68b7218", 
+                    "profile_path": null, 
+                    "id": 1825652, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Michelle Cort\u00e9s", 
+                    "gender": 1, 
+                    "popularity": 2.5339999999999998, 
+                    "original_name": "Michelle Cort\u00e9s", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba386d4c97010d508d9e", 
+                    "profile_path": "/uP0qpUWb3oK3Whlx7BjFd59oxQn.jpg", 
+                    "id": 1830688, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Ross Kohnstam", 
+                    "gender": 0, 
+                    "popularity": 2.2650000000000001, 
+                    "original_name": "Ross Kohnstam", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9a685090f01445b36f6", 
+                    "profile_path": "/obU47dDIs42MRoG6SLtYni1dToo.jpg", 
+                    "id": 1870912, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Anis Cheurfa", 
+                    "gender": 2, 
+                    "popularity": 3.633, 
+                    "original_name": "Anis Cheurfa", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba4cd9f4a603b6c891e1", 
+                    "profile_path": "/sToFORAIVPHffNHKcsIYjEISMv0.jpg", 
+                    "id": 1900168, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Clement Zveguintzoff", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Clement Zveguintzoff", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Producer", 
+                    "adult": false, 
+                    "credit_id": "64e4dff463e6fb00c6f20f52", 
+                    "profile_path": null, 
+                    "id": 1957333, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Ricky Aguirre", 
+                    "gender": 0, 
+                    "popularity": 1.5660000000000001, 
+                    "original_name": "Ricky Aguirre", 
+                    "department": "Art", 
+                    "job": "Art Direction", 
+                    "adult": false, 
+                    "credit_id": "63ec2f04813cb60084b2b135", 
+                    "profile_path": null, 
+                    "id": 2021211, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Nathan Krochmal", 
+                    "gender": 0, 
+                    "popularity": 1.855, 
+                    "original_name": "Nathan Krochmal", 
+                    "department": "Art", 
+                    "job": "Art Direction", 
+                    "adult": false, 
+                    "credit_id": "63ec2f298e8702008640ed66", 
+                    "profile_path": null, 
+                    "id": 2026825, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Monica Lopez Aleman", 
+                    "gender": 1, 
+                    "popularity": 3.9580000000000002, 
+                    "original_name": "Monica Lopez Aleman", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb8e96d4c9700cb7dccc1", 
+                    "profile_path": "/4TZp3UapzlaHjuwCfLbNQ56XHTC.jpg", 
+                    "id": 2047762, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "JT Franchuk", 
+                    "gender": 1, 
+                    "popularity": 1.669, 
+                    "original_name": "JT Franchuk", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Hairstylist", 
+                    "adult": false, 
+                    "credit_id": "64e038e6aaec7103f7e3c1ae", 
+                    "profile_path": null, 
+                    "id": 2056252, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Miguel-Andres Garcia", 
+                    "gender": 2, 
+                    "popularity": 2.5720000000000001, 
+                    "original_name": "Miguel-Andres Garcia", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9fe6d4c97012e8ade54", 
+                    "profile_path": "/efvnUP6UlXiOdZDA6Yod71uP8AU.jpg", 
+                    "id": 2062055, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Kristi Lugo", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Kristi Lugo", 
+                    "department": "Production", 
+                    "job": "Casting Associate", 
+                    "adult": false, 
+                    "credit_id": "64e4dd99c3c89100c6810318", 
+                    "profile_path": null, 
+                    "id": 2069486, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Addy Steigerwalt", 
+                    "gender": 0, 
+                    "popularity": 1.1759999999999999, 
+                    "original_name": "Addy Steigerwalt", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Set Costumer", 
+                    "adult": false, 
+                    "credit_id": "64e03a06e19de90100e89b69", 
+                    "profile_path": null, 
+                    "id": 2092975, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Brittanie Cruz", 
+                    "gender": 0, 
+                    "popularity": 1.96, 
+                    "original_name": "Brittanie Cruz", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Makeup Artist", 
+                    "adult": false, 
+                    "credit_id": "64e038cf37109700c51eb8e8", 
+                    "profile_path": null, 
+                    "id": 2121116, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Alice S. Kim", 
+                    "gender": 0, 
+                    "popularity": 0.97999999999999998, 
+                    "original_name": "Alice S. Kim", 
+                    "department": "Production", 
+                    "job": "Co-Producer", 
+                    "adult": false, 
+                    "credit_id": "64e162c6aaec7103fa48c6f6", 
+                    "profile_path": null, 
+                    "id": 2138579, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Holly Dowell", 
+                    "gender": 1, 
+                    "popularity": 2.9649999999999999, 
+                    "original_name": "Holly Dowell", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba07fa27f400c50af817", 
+                    "profile_path": "/zwnrOAdqZOHvmcCSOTMJ3rifAjM.jpg", 
+                    "id": 2178720, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Arielle Ness-Cohn", 
+                    "gender": 0, 
+                    "popularity": 1.9450000000000001, 
+                    "original_name": "Arielle Ness-Cohn", 
+                    "department": "Art", 
+                    "job": "Art Direction", 
+                    "adult": false, 
+                    "credit_id": "63ec2f3f1f3e6000a1c548bd", 
+                    "profile_path": null, 
+                    "id": 2258647, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Blanca Rosa Rosario", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Blanca Rosa Rosario", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb90c303c85013a14d865", 
+                    "profile_path": null, 
+                    "id": 2423013, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Jenin Gonzalez", 
+                    "gender": 2, 
+                    "popularity": 4.3700000000000001, 
+                    "original_name": "Jenin Gonzalez", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9ed6d4c9700ec578bf0", 
+                    "profile_path": "/4GQPEUpfKdb5gY47KcVbflHmNjb.jpg", 
+                    "id": 2434231, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Galen Vaisman", 
+                    "gender": 0, 
+                    "popularity": 2.6930000000000001, 
+                    "original_name": "Galen Vaisman", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "6434751fa1353300d4f669ef", 
+                    "profile_path": null, 
+                    "id": 2475246, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Jacqueline Bell", 
+                    "gender": 0, 
+                    "popularity": 1.0920000000000001, 
+                    "original_name": "Jacqueline Bell", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Key Hair Stylist", 
+                    "adult": false, 
+                    "credit_id": "64e038b9a3b5e601d875212b", 
+                    "profile_path": null, 
+                    "id": 2492753, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Chris Cortner", 
+                    "gender": 0, 
+                    "popularity": 1.96, 
+                    "original_name": "Chris Cortner", 
+                    "department": "Art", 
+                    "job": "Set Designer", 
+                    "adult": false, 
+                    "credit_id": "64e03ab7b77d4b11425ff02e", 
+                    "profile_path": null, 
+                    "id": 2583980, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Stephanie L. Allen", 
+                    "gender": 0, 
+                    "popularity": 1.175, 
+                    "original_name": "Stephanie L. Allen", 
+                    "department": "Art", 
+                    "job": "Set Decoration Buyer", 
+                    "adult": false, 
+                    "credit_id": "64e03a89e19de9013a28281c", 
+                    "profile_path": null, 
+                    "id": 2584002, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Maegan Robinson", 
+                    "gender": 0, 
+                    "popularity": 3.2549999999999999, 
+                    "original_name": "Maegan Robinson", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Set Costumer", 
+                    "adult": false, 
+                    "credit_id": "64e039fb5ab81a00ad20e76c", 
+                    "profile_path": null, 
+                    "id": 2690280, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Lenny Cruz", 
+                    "gender": 0, 
+                    "popularity": 1.9139999999999999, 
+                    "original_name": "Lenny Cruz", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba24303c8500ade3fc19", 
+                    "profile_path": null, 
+                    "id": 2722089, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Michael D. Jenkins", 
+                    "gender": 2, 
+                    "popularity": 1.7789999999999999, 
+                    "original_name": "Michael D. Jenkins", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9c14d679100e2403e98", 
+                    "profile_path": null, 
+                    "id": 2735941, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Emma Sparer", 
+                    "gender": 1, 
+                    "popularity": 1.788, 
+                    "original_name": "Emma Sparer", 
+                    "department": "Art", 
+                    "job": "Set Designer", 
+                    "adult": false, 
+                    "credit_id": "64e1637e5ab81a00e25c2c47", 
+                    "profile_path": null, 
+                    "id": 2782661, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Justin Ortiz", 
+                    "gender": 0, 
+                    "popularity": 1.645, 
+                    "original_name": "Justin Ortiz", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb97d6d4c9700afadb69c", 
+                    "profile_path": null, 
+                    "id": 2816790, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Christopher M. Bauer", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Christopher M. Bauer", 
+                    "department": "Camera", 
+                    "job": "Grip", 
+                    "adult": false, 
+                    "credit_id": "64e4dd0606f984014e66c4e1", 
+                    "profile_path": null, 
+                    "id": 2836764, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Tony Vo", 
+                    "gender": 0, 
+                    "popularity": 2.827, 
+                    "original_name": "Tony Vo", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb94e549dda013932927c", 
+                    "profile_path": null, 
+                    "id": 2860254, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Cara Marie Chooljian", 
+                    "gender": 1, 
+                    "popularity": 7.7679999999999998, 
+                    "original_name": "Cara Marie Chooljian", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba3c303c8500c6137855", 
+                    "profile_path": "/asHSe4lKKd0Yow5L3T4Twjlps0A.jpg", 
+                    "id": 2899647, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Emely Cartagena", 
+                    "gender": 0, 
+                    "popularity": 1.788, 
+                    "original_name": "Emely Cartagena", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e16765a3b5e601d63ac7f3", 
+                    "profile_path": null, 
+                    "id": 2902440, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Diem Ngo", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Diem Ngo", 
+                    "department": "Art", 
+                    "job": "Assistant Art Director", 
+                    "adult": false, 
+                    "credit_id": "64e03af5aaec7103fcfde770", 
+                    "profile_path": null, 
+                    "id": 2909029, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Ryan Wilk", 
+                    "gender": 0, 
+                    "popularity": 0.98299999999999998, 
+                    "original_name": "Ryan Wilk", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Producer", 
+                    "adult": false, 
+                    "credit_id": "64e4dfdbe0ca7f013a9850fe", 
+                    "profile_path": null, 
+                    "id": 2976492, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Alec Back", 
+                    "gender": 2, 
+                    "popularity": 0.97999999999999998, 
+                    "original_name": "Alec Back", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba62614c6d00e2bcc51d", 
+                    "profile_path": null, 
+                    "id": 3057436, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Margaret Ditre", 
+                    "gender": 1, 
+                    "popularity": 1.325, 
+                    "original_name": "Margaret Ditre", 
+                    "department": "Art", 
+                    "job": "Set Designer", 
+                    "adult": false, 
+                    "credit_id": "64e03ac1b77d4b1141f9ac96", 
+                    "profile_path": null, 
+                    "id": 3062786, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Samuel Tremblay", 
+                    "gender": 0, 
+                    "popularity": 1.8560000000000001, 
+                    "original_name": "Samuel Tremblay", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects", 
+                    "adult": false, 
+                    "credit_id": "64e4dfa95258ae00eaa259c0", 
+                    "profile_path": null, 
+                    "id": 3107577, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "March\u00e9 Day", 
+                    "gender": 1, 
+                    "popularity": 1.556, 
+                    "original_name": "March\u00e9 Day", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba14d9f4a603b6c891d2", 
+                    "profile_path": null, 
+                    "id": 3119216, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Stephen Grum", 
+                    "gender": 0, 
+                    "popularity": 3.8420000000000001, 
+                    "original_name": "Stephen Grum", 
+                    "department": "Lighting", 
+                    "job": "Gaffer", 
+                    "adult": false, 
+                    "credit_id": "64e4dd1506f984014e66c4eb", 
+                    "profile_path": null, 
+                    "id": 3122273, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Stephen Grum", 
+                    "gender": 0, 
+                    "popularity": 3.8420000000000001, 
+                    "original_name": "Stephen Grum", 
+                    "department": "Lighting", 
+                    "job": "Chief Lighting Technician", 
+                    "adult": false, 
+                    "credit_id": "64e16a02a3b5e601d875a111", 
+                    "profile_path": null, 
+                    "id": 3122273, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Arian Nikjeh", 
+                    "gender": 0, 
+                    "popularity": 1.139, 
+                    "original_name": "Arian Nikjeh", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Producer", 
+                    "adult": false, 
+                    "credit_id": "64e152b55ab81a011c2f438a", 
+                    "profile_path": null, 
+                    "id": 3166598, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Tini Wider", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Tini Wider", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Producer", 
+                    "adult": false, 
+                    "credit_id": "64e4dfbfe0ca7f01006fc8a1", 
+                    "profile_path": null, 
+                    "id": 3292110, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "William Tang", 
+                    "gender": 2, 
+                    "popularity": 1.96, 
+                    "original_name": "William Tang", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb94785090f00e796c5d4", 
+                    "profile_path": null, 
+                    "id": 3322720, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Kade Pittman", 
+                    "gender": 2, 
+                    "popularity": 1.464, 
+                    "original_name": "Kade Pittman", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e1699de19de900c68beecd", 
+                    "profile_path": null, 
+                    "id": 3322723, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Artie Contreras", 
+                    "gender": 0, 
+                    "popularity": 1.9670000000000001, 
+                    "original_name": "Artie Contreras", 
+                    "department": "Art", 
+                    "job": "Art Direction", 
+                    "adult": false, 
+                    "credit_id": "63ec2f151b7294008e15f17b", 
+                    "profile_path": null, 
+                    "id": 3322737, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Joe Gill", 
+                    "gender": 0, 
+                    "popularity": 1.6399999999999999, 
+                    "original_name": "Joe Gill", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16ab4076ce8011d1593f8", 
+                    "profile_path": null, 
+                    "id": 3340944, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Paris Cullins", 
+                    "gender": 2, 
+                    "popularity": 1.258, 
+                    "original_name": "Paris Cullins", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16a8b5ab81a00c5b7bc38", 
+                    "profile_path": null, 
+                    "id": 3348333, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Erika Keck", 
+                    "gender": 0, 
+                    "popularity": 0.75900000000000001, 
+                    "original_name": "Erika Keck", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9c5d9f4a603b4a0195f", 
+                    "profile_path": null, 
+                    "id": 3546499, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Erin Haus", 
+                    "gender": 0, 
+                    "popularity": 1.806, 
+                    "original_name": "Erin Haus", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb9d66d4c97012e8ade46", 
+                    "profile_path": null, 
+                    "id": 3616280, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "James Schembri", 
+                    "gender": 2, 
+                    "popularity": 1.9370000000000001, 
+                    "original_name": "James Schembri", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects Producer", 
+                    "adult": false, 
+                    "credit_id": "64e4df5a06f98400ae4740f6", 
+                    "profile_path": null, 
+                    "id": 3650884, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Jaden Ponce", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Jaden Ponce", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e1696c5ab81a00ad215506", 
+                    "profile_path": null, 
+                    "id": 3695659, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Natasha I. Nieves", 
+                    "gender": 0, 
+                    "popularity": 1.3120000000000001, 
+                    "original_name": "Natasha I. Nieves", 
+                    "department": "Camera", 
+                    "job": "Grip", 
+                    "adult": false, 
+                    "credit_id": "64e4dd46c3c891011d9ccee6", 
+                    "profile_path": null, 
+                    "id": 3757536, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Yolande Thame", 
+                    "gender": 0, 
+                    "popularity": 1.6140000000000001, 
+                    "original_name": "Yolande Thame", 
+                    "department": "Art", 
+                    "job": "Set Designer", 
+                    "adult": false, 
+                    "credit_id": "64e03b03b77d4b113e0728a1", 
+                    "profile_path": null, 
+                    "id": 3785729, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Ben White", 
+                    "gender": 2, 
+                    "popularity": 1.9319999999999999, 
+                    "original_name": "Ben White", 
+                    "department": "Directing", 
+                    "job": "Second Assistant Director", 
+                    "adult": false, 
+                    "credit_id": "63ec30448e8702007a1a476c", 
+                    "profile_path": null, 
+                    "id": 3790206, 
+                    "known_for_department": "Directing"
+                }, 
+                {
+                    "name": "Anna Elisa Mackowiak", 
+                    "gender": 0, 
+                    "popularity": 2.2389999999999999, 
+                    "original_name": "Anna Elisa Mackowiak", 
+                    "department": "Production", 
+                    "job": "Production Supervisor", 
+                    "adult": false, 
+                    "credit_id": "63ec2fcc1f3e6000a1c549da", 
+                    "profile_path": null, 
+                    "id": 3921100, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Michelle Andrea Adams", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Michelle Andrea Adams", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba6f303c8500e3388ce2", 
+                    "profile_path": null, 
+                    "id": 3961339, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Diego Davila-Rivera", 
+                    "gender": 0, 
+                    "popularity": 1.2729999999999999, 
+                    "original_name": "Diego Davila-Rivera", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceba2dfa27f4011c84c764", 
+                    "profile_path": null, 
+                    "id": 4090188, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Kyle Murillo", 
+                    "gender": 0, 
+                    "popularity": 1.5529999999999999, 
+                    "original_name": "Kyle Murillo", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb987549dda011c27ce09", 
+                    "profile_path": null, 
+                    "id": 4164736, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Rusty Grimes II", 
+                    "gender": 0, 
+                    "popularity": 1.27, 
+                    "original_name": "Rusty Grimes II", 
+                    "department": "Art", 
+                    "job": "Set Dresser", 
+                    "adult": false, 
+                    "credit_id": "64e03ace5ab81a00ffc216fb", 
+                    "profile_path": null, 
+                    "id": 4194255, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Nicole Diane Rios", 
+                    "gender": 0, 
+                    "popularity": 0.83999999999999997, 
+                    "original_name": "Nicole Diane Rios", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64e1678d5ab81a00c5b7ba8f", 
+                    "profile_path": null, 
+                    "id": 4199440, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Jewelianna Ramos-Ortiz", 
+                    "gender": 1, 
+                    "popularity": 1.96, 
+                    "original_name": "Jewelianna Ramos-Ortiz", 
+                    "department": "Crew", 
+                    "job": "Stunts", 
+                    "adult": false, 
+                    "credit_id": "64ceb96a614c6d00acb19775", 
+                    "profile_path": "/4HyaEY6yHuwnfXkQhObmswWM0WO.jpg", 
+                    "id": 4199450, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Mollie Ennis", 
+                    "gender": 0, 
+                    "popularity": 2.2519999999999998, 
+                    "original_name": "Mollie Ennis", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Makeup Artist", 
+                    "adult": false, 
+                    "credit_id": "64e038db5ab81a00c5b73aca", 
+                    "profile_path": null, 
+                    "id": 4222746, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Tina Cianfaro Watson", 
+                    "gender": 0, 
+                    "popularity": 1.788, 
+                    "original_name": "Tina Cianfaro Watson", 
+                    "department": "Art", 
+                    "job": "Set Decoration Buyer", 
+                    "adult": false, 
+                    "credit_id": "64e03b2ae19de9011d5e1ef1", 
+                    "profile_path": null, 
+                    "id": 4222760, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Aaron Kelly", 
+                    "gender": 0, 
+                    "popularity": 2.0699999999999998, 
+                    "original_name": "Aaron Kelly", 
+                    "department": "Art", 
+                    "job": "Assistant Art Director", 
+                    "adult": false, 
+                    "credit_id": "64e1632b076ce800e313a3b9", 
+                    "profile_path": null, 
+                    "id": 4224008, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Sara Corral", 
+                    "gender": 0, 
+                    "popularity": 3.2229999999999999, 
+                    "original_name": "Sara Corral", 
+                    "department": "Art", 
+                    "job": "Graphic Designer", 
+                    "adult": false, 
+                    "credit_id": "64e163aa076ce800adceb0d1", 
+                    "profile_path": null, 
+                    "id": 4224012, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Mike Norton", 
+                    "gender": 0, 
+                    "popularity": 2.6909999999999998, 
+                    "original_name": "Mike Norton", 
+                    "department": "Crew", 
+                    "job": "Thanks", 
+                    "adult": false, 
+                    "credit_id": "64e16aa5b77d4b1143495f28", 
+                    "profile_path": null, 
+                    "id": 4224050, 
+                    "known_for_department": "Crew"
+                }
+            ]
+        }, 
+        "adult": false, 
+        "external_ids": {
+            "instagram_id": "bluebeetle", 
+            "facebook_id": "DCBlueBeetle", 
+            "wikidata_id": "Q107808351", 
+            "twitter_id": "bluebeetle", 
+            "imdb_id": "tt9362930"
+        }, 
+        "backdrop_path": "/xzdOIL7261CWehsHOk3lnP0xqam.jpg", 
+        "production_companies": [
+            {
+                "origin_country": "US", 
+                "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png", 
+                "id": 174, 
+                "name": "Warner Bros. Pictures"
+            }, 
+            {
+                "origin_country": "US", 
+                "logo_path": "/S74cHHbIrdmb5M51Pft72Uo9Gz.png", 
+                "id": 11565, 
+                "name": "The Safran Company"
+            }, 
+            {
+                "origin_country": "US", 
+                "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png", 
+                "id": 128064, 
+                "name": "DC Films"
+            }
+        ], 
+        "release_date": "2023-08-16", 
+        "popularity": 302.20400000000001, 
+        "original_title": "Blue Beetle", 
+        "budget": 104000000, 
+        "vote_average": 6.8730000000000002, 
+        "runtime": 128
+    }
+}

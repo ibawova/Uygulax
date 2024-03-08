@@ -1,0 +1,8 @@
+<settings version="2">
+    <setting id="email" default="true"></setting>
+    <setting id="guest_token">1310495042KG1jDVar6xMjp3Ah3E5</setting>
+    <setting id="last_active_time" default="true"></setting>
+    <setting id="signed">eyJkYXRhIjoie1widGltZVwiOjE2NzEyODUyMTIxMzIsXCJ2YWxpZFVudGlsXCI6MTY3MTI4NTgxMjEzMixcImlwc1wiOltcIjM3LjIwMS4xOTkuMTYxXCIsXCIzNy4yMDEuMTk5LjE2MVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcInZhdm9vXCIsXCJ2ZXJzaW9uXCI6XCIyLjJcIixcInNlcml2Y2VcIjpcIjEuMi4yNlwiLFwib2tcIjpmYWxzZX0sXCJ1dWlkXCI6XCJKYUtaWkp4MC90ME0yYnR4UDk1eFRSZm42OVdDQ3I3UngycXQ5Uzd2NytZPVwifSIsInNpZ25hdHVyZSI6ImtlU25JNm5vaFpZWUNpcmtyN3N0WVpZRWRXT1pvbEsxQU5WR2xHTk5pZHpDVm9RcTk2TWtIS1VxQTZDeGpsU0ZGR1ZOWkJNYWFTWW8yeE03b0xSc0k5RzRsbkt2SEl5NUhQcURTRWdIaGxScVMwaE85QWZyK1ZYaHh3ZXAyRXJjT0R3YXdqSERkVkxFekVGajgrUU5SbFRSNVBtV1M3enlkeVZMM1hMb3NYQT0ifQ==</setting>
+    <setting id="token">1310495042KG1jDVar6xMjp3Ah3E5</setting>
+    <setting id="window_state" default="true"></setting>
+</settings>

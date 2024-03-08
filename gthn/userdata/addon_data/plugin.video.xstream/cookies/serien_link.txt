@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __ddg1=DfqM4jeBdrXN8VG8HAyw; path="/"; domain=".serien.link"; path_spec; domain_dot; expires="2022-05-27 20:56:36Z"; HttpOnly=None; version=0
+Set-Cookie3: __ddgid=WSxoDSdjDlaB1WNR; path="/"; domain=".serien.link"; path_spec; domain_dot; expires="2022-05-27 20:56:42Z"; HttpOnly=None; version=0
+Set-Cookie3: __ddgmark=52h2mLV1m6EUCbkX; path="/"; domain=".serien.link"; path_spec; domain_dot; expires="2021-05-28 20:56:42Z"; HttpOnly=None; version=0

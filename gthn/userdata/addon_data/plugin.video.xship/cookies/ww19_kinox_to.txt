@@ -1,0 +1,6 @@
+#LWP-Cookies-2.0
+Set-Cookie3: PHPSESSID=3tqrfu2k1it5kab1290h3mugd4; path="/"; domain="ww19.kinox.to"; path_spec; discard; version=0
+Set-Cookie3: kc1=1; path="/"; domain="ww19.kinox.to"; expires="2024-02-13 11:42:12Z"; version=0
+Set-Cookie3: urr4=1; path="/"; domain="ww19.kinox.to"; expires="2024-02-13 11:40:17Z"; version=0
+Set-Cookie3: kc1=1; path="/Stream"; domain="ww19.kinox.to"; expires="2024-02-13 11:42:12Z"; version=0
+Set-Cookie3: urr4=1; path="/Stream"; domain="ww19.kinox.to"; expires="2024-02-13 11:40:17Z"; version=0

@@ -1,0 +1,850 @@
+{
+    "sigValidUntil": 1708429134, 
+    "value": {
+        "poster_path": "/bPZjm6YQAthGgYUdGSu3EAz6PMA.jpg", 
+        "production_countries": [
+            {
+                "iso_3166_1": "KR", 
+                "name": "South Korea"
+            }
+        ], 
+        "revenue": 0, 
+        "overview": "Ein t\u00f6dliches Erdbeben hat Seoul in eine gesetzlose Ein\u00f6de verwandelt. Hier will ein unerschrockener J\u00e4ger eine Jugendliche retten, die von einem verr\u00fcckten Arzt entf\u00fchrt wurde.", 
+        "video": false, 
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 4458, 
+                    "name": "post-apocalyptic future"
+                }, 
+                {
+                    "id": 3521, 
+                    "name": "earthquake"
+                }, 
+                {
+                    "id": 185457, 
+                    "name": "badlands"
+                }, 
+                {
+                    "id": 288474, 
+                    "name": "based on webcomic or webtoon"
+                }, 
+                {
+                    "id": 290327, 
+                    "name": "seoul, south korea"
+                }
+            ]
+        }, 
+        "id": 933131, 
+        "genres": [
+            {
+                "id": 878, 
+                "name": "Science Fiction"
+            }, 
+            {
+                "id": 28, 
+                "name": "Action"
+            }, 
+            {
+                "id": 18, 
+                "name": "Drama"
+            }
+        ], 
+        "videos": {
+            "results": []
+        }, 
+        "title": "Badland Hunters", 
+        "tagline": "", 
+        "vote_count": 306, 
+        "homepage": "", 
+        "belongs_to_collection": {
+            "backdrop_path": "/9iJi448p9cvnpnLN7C0jBFjSseX.jpg", 
+            "poster_path": "/l4emA6jN9YQxhdpoZ4IThpMofc6.jpg", 
+            "id": 1196130, 
+            "name": "\ucf58\ud06c\ub9ac\ud2b8 \uc720\ub2c8\ubc84\uc2a4"
+        }, 
+        "original_language": "ko", 
+        "status": "Released", 
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko", 
+                "english_name": "Korean", 
+                "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            }
+        ], 
+        "release_dates": {
+            "results": [
+                {
+                    "iso_3166_1": "DE", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Netflix", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "GB", 
+                    "release_dates": [
+                        {
+                            "certification": "18", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-25T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Netflix", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "KR", 
+                    "release_dates": [
+                        {
+                            "certification": "18", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-25T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Songpa, Seoul", 
+                            "type": 1
+                        }, 
+                        {
+                            "certification": "18", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Netflix", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "MX", 
+                    "release_dates": [
+                        {
+                            "certification": "B-15", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Netflix", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PR", 
+                    "release_dates": [
+                        {
+                            "certification": "R", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Netflix", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "RO", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "SG", 
+                    "release_dates": [
+                        {
+                            "certification": "M18", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Netflix", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "TR", 
+                    "release_dates": [
+                        {
+                            "certification": "18+", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Netflix", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "US", 
+                    "release_dates": [
+                        {
+                            "certification": "R", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "Netflix", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "VN", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2024-01-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }
+            ]
+        }, 
+        "imdb_id": "tt29722855", 
+        "credits": {
+            "cast": [
+                {
+                    "name": "Ma Dong-seok", 
+                    "gender": 2, 
+                    "popularity": 46.121000000000002, 
+                    "original_name": "Ma Dong-seok", 
+                    "order": 0, 
+                    "credit_id": "61f812d6bb1057001dad691f", 
+                    "adult": false, 
+                    "cast_id": 3, 
+                    "profile_path": "/zt1vx7FesNA4x6mTZtyzu2uco8E.jpg", 
+                    "id": 1024395, 
+                    "known_for_department": "Acting", 
+                    "character": "Nam-san"
+                }, 
+                {
+                    "name": "Lee Hee-jun", 
+                    "gender": 2, 
+                    "popularity": 24.879000000000001, 
+                    "original_name": "Lee Hee-jun", 
+                    "order": 1, 
+                    "credit_id": "6200880f326ec10067e4a713", 
+                    "adult": false, 
+                    "cast_id": 5, 
+                    "profile_path": "/4slyXnHbKgzmeyJNetBSORgDDEF.jpg", 
+                    "id": 1046863, 
+                    "known_for_department": "Acting", 
+                    "character": "Yang Gi-su"
+                }, 
+                {
+                    "name": "Lee Jun-young", 
+                    "gender": 2, 
+                    "popularity": 21.445, 
+                    "original_name": "Lee Jun-young", 
+                    "order": 2, 
+                    "credit_id": "61f812c6dcf875008aca3f9c", 
+                    "adult": false, 
+                    "cast_id": 1, 
+                    "profile_path": "/41ZqSutUfV3F2aZUNUqVmpDuyXN.jpg", 
+                    "id": 1904058, 
+                    "known_for_department": "Acting", 
+                    "character": "Choi Ji-wan"
+                }, 
+                {
+                    "name": "Roh Jeong-eui", 
+                    "gender": 1, 
+                    "popularity": 19.795999999999999, 
+                    "original_name": "Roh Jeong-eui", 
+                    "order": 3, 
+                    "credit_id": "61f812ca0c4c16001af9fe47", 
+                    "adult": false, 
+                    "cast_id": 2, 
+                    "profile_path": "/ijbjqMVsipJnmxkXSC0OIgJ5jY8.jpg", 
+                    "id": 1257587, 
+                    "known_for_department": "Acting", 
+                    "character": "Han Su-na"
+                }, 
+                {
+                    "name": "Ahn Ji-hye", 
+                    "gender": 1, 
+                    "popularity": 8.6560000000000006, 
+                    "original_name": "Ahn Ji-hye", 
+                    "order": 4, 
+                    "credit_id": "65955cd6ea37e0089c4b86cb", 
+                    "adult": false, 
+                    "cast_id": 23, 
+                    "profile_path": "/4cRUKo02kg4SYDyVWcUIlNt2IxT.jpg", 
+                    "id": 2121601, 
+                    "known_for_department": "Acting", 
+                    "character": "Lee Eun-ho"
+                }, 
+                {
+                    "name": "Park Ji-hoon", 
+                    "gender": 2, 
+                    "popularity": 2.8809999999999998, 
+                    "original_name": "Park Ji-hoon", 
+                    "order": 5, 
+                    "credit_id": "65b49ca9b1131f018d28dad9", 
+                    "adult": false, 
+                    "cast_id": 26, 
+                    "profile_path": "/5JUoEXIzVgHWEIgpW0GdQt68w4k.jpg", 
+                    "id": 2378978, 
+                    "known_for_department": "Acting", 
+                    "character": "Kwon Sang-sa"
+                }, 
+                {
+                    "name": "Jang Young-nam", 
+                    "gender": 1, 
+                    "popularity": 18.942, 
+                    "original_name": "Jang Young-nam", 
+                    "order": 6, 
+                    "credit_id": "63e9019e63aad2008f85f343", 
+                    "adult": false, 
+                    "cast_id": 8, 
+                    "profile_path": "/u0hl8WSswFhKVaKwaMAERU0xUJk.jpg", 
+                    "id": 93996, 
+                    "known_for_department": "Acting", 
+                    "character": "teacher"
+                }, 
+                {
+                    "name": "Park Hyo-joon", 
+                    "gender": 2, 
+                    "popularity": 6.8070000000000004, 
+                    "original_name": "Park Hyo-joon", 
+                    "order": 7, 
+                    "credit_id": "659379ba6aa8e061abec23c8", 
+                    "adult": false, 
+                    "cast_id": 16, 
+                    "profile_path": "/ybvsKqzVS4qPnczayKMH8QyclbI.jpg", 
+                    "id": 1310821, 
+                    "known_for_department": "Acting", 
+                    "character": "\"Tiger\""
+                }, 
+                {
+                    "name": "Seong Byeong-suk", 
+                    "gender": 1, 
+                    "popularity": 9.1140000000000008, 
+                    "original_name": "Seong Byeong-suk", 
+                    "order": 8, 
+                    "credit_id": "659379bf51a64e0271f54ad4", 
+                    "adult": false, 
+                    "cast_id": 17, 
+                    "profile_path": "/cFVOqICCoXVgdBTip1ZwgGlXqw2.jpg", 
+                    "id": 496935, 
+                    "known_for_department": "Acting", 
+                    "character": "Su-na's grandmother"
+                }, 
+                {
+                    "name": "Jung Young-ju", 
+                    "gender": 1, 
+                    "popularity": 7.1959999999999997, 
+                    "original_name": "Jung Young-ju", 
+                    "order": 9, 
+                    "credit_id": "65937acf51a64e02e2f51f8c", 
+                    "adult": false, 
+                    "cast_id": 18, 
+                    "profile_path": "/oPHCzElm0I0cR6sB1WTutvtKAtI.jpg", 
+                    "id": 2463266, 
+                    "known_for_department": "Acting", 
+                    "character": ""
+                }, 
+                {
+                    "name": "Lee Han-joo", 
+                    "gender": 1, 
+                    "popularity": 4.0140000000000002, 
+                    "original_name": "Lee Han-joo", 
+                    "order": 10, 
+                    "credit_id": "6572e2d7945c2000c9f0de16", 
+                    "adult": false, 
+                    "cast_id": 9, 
+                    "profile_path": "/mzacdh0UONnjlJ1EuoMsH8GaL0U.jpg", 
+                    "id": 3950834, 
+                    "known_for_department": "Acting", 
+                    "character": "Ju-ye"
+                }, 
+                {
+                    "name": "Kim Young-sun", 
+                    "gender": 1, 
+                    "popularity": 7.0819999999999999, 
+                    "original_name": "Kim Young-sun", 
+                    "order": 11, 
+                    "credit_id": "62dd43bc5ca7040b28558d92", 
+                    "adult": false, 
+                    "cast_id": 7, 
+                    "profile_path": "/iXAsncrUmI183e6osPzHxV6tNh4.jpg", 
+                    "id": 147853, 
+                    "known_for_department": "Acting", 
+                    "character": "Ju-ye's mother"
+                }
+            ], 
+            "crew": [
+                {
+                    "name": "Jo Hwa-seong", 
+                    "gender": 2, 
+                    "popularity": 1.98, 
+                    "original_name": "Jo Hwa-seong", 
+                    "department": "Art", 
+                    "job": "Production Design", 
+                    "adult": false, 
+                    "credit_id": "65b622bd60c51d0184d22a19", 
+                    "profile_path": null, 
+                    "id": 38017, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Kim Suk-won", 
+                    "gender": 2, 
+                    "popularity": 1.8109999999999999, 
+                    "original_name": "Kim Suk-won", 
+                    "department": "Sound", 
+                    "job": "Sound Supervisor", 
+                    "adult": false, 
+                    "credit_id": "65b6234f0d2944014a5a9318", 
+                    "profile_path": "/z3NVHBTmrqSZLUkEdIPsV34b4fD.jpg", 
+                    "id": 43565, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Nam Na-young", 
+                    "gender": 1, 
+                    "popularity": 1.52, 
+                    "original_name": "Nam Na-young", 
+                    "department": "Editing", 
+                    "job": "Editor", 
+                    "adult": false, 
+                    "credit_id": "65b62332afe22400e638f9f4", 
+                    "profile_path": null, 
+                    "id": 79570, 
+                    "known_for_department": "Editing"
+                }, 
+                {
+                    "name": "Jung Do-ahn", 
+                    "gender": 2, 
+                    "popularity": 1.806, 
+                    "original_name": "Jung Do-ahn", 
+                    "department": "Visual Effects", 
+                    "job": "Special Effects Supervisor", 
+                    "adult": false, 
+                    "credit_id": "65b6230658efd3017ccb6e1f", 
+                    "profile_path": null, 
+                    "id": 554400, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Ma Dong-seok", 
+                    "gender": 2, 
+                    "popularity": 46.121000000000002, 
+                    "original_name": "Ma Dong-seok", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65b6224412425c018349f4f2", 
+                    "profile_path": "/zt1vx7FesNA4x6mTZtyzu2uco8E.jpg", 
+                    "id": 1024395, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Ma Dong-seok", 
+                    "gender": 2, 
+                    "popularity": 46.121000000000002, 
+                    "original_name": "Ma Dong-seok", 
+                    "department": "Writing", 
+                    "job": "Adaptation", 
+                    "adult": false, 
+                    "credit_id": "65b62264afe22400e638f9b5", 
+                    "profile_path": "/zt1vx7FesNA4x6mTZtyzu2uco8E.jpg", 
+                    "id": 1024395, 
+                    "known_for_department": "Acting"
+                }, 
+                {
+                    "name": "Song Hyun-suk", 
+                    "gender": 0, 
+                    "popularity": 1.9059999999999999, 
+                    "original_name": "Song Hyun-suk", 
+                    "department": "Lighting", 
+                    "job": "Lighting Director", 
+                    "adult": false, 
+                    "credit_id": "65b28398dbf14401849c57d9", 
+                    "profile_path": null, 
+                    "id": 1284295, 
+                    "known_for_department": "Lighting"
+                }, 
+                {
+                    "name": "Byun Bong-sun", 
+                    "gender": 0, 
+                    "popularity": 1.365, 
+                    "original_name": "Byun Bong-sun", 
+                    "department": "Camera", 
+                    "job": "Director of Photography", 
+                    "adult": false, 
+                    "credit_id": "65937c42ce4ddc6d907e7e19", 
+                    "profile_path": null, 
+                    "id": 1294085, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Jung Gun", 
+                    "gender": 0, 
+                    "popularity": 1.03, 
+                    "original_name": "Jung Gun", 
+                    "department": "Sound", 
+                    "job": "Production Sound Mixer", 
+                    "adult": false, 
+                    "credit_id": "65b622ae12425c018349f538", 
+                    "profile_path": null, 
+                    "id": 2161246, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Choi Won-ki", 
+                    "gender": 0, 
+                    "popularity": 0.69699999999999995, 
+                    "original_name": "Choi Won-ki", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "65b6228860c51d0148d0e733", 
+                    "profile_path": null, 
+                    "id": 2188285, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Nam Ji-soo", 
+                    "gender": 1, 
+                    "popularity": 0.67700000000000005, 
+                    "original_name": "Nam Ji-soo", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Costume Design", 
+                    "adult": false, 
+                    "credit_id": "65b622dbb6cff1017cf7b6a8", 
+                    "profile_path": null, 
+                    "id": 2297809, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Nam Ji-soo", 
+                    "gender": 1, 
+                    "popularity": 0.67700000000000005, 
+                    "original_name": "Nam Ji-soo", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Makeup & Hair", 
+                    "adult": false, 
+                    "credit_id": "65b622e60d294401645aab6c", 
+                    "profile_path": null, 
+                    "id": 2297809, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Pi Dae-seong", 
+                    "gender": 2, 
+                    "popularity": 1.337, 
+                    "original_name": "Pi Dae-seong", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Special Effects Makeup Artist", 
+                    "adult": false, 
+                    "credit_id": "65b623210d294401645aaba2", 
+                    "profile_path": null, 
+                    "id": 2423462, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Lee Hye-min", 
+                    "gender": 0, 
+                    "popularity": 0.996, 
+                    "original_name": "Lee Hye-min", 
+                    "department": "Editing", 
+                    "job": "Digital Intermediate", 
+                    "adult": false, 
+                    "credit_id": "65b62389f6596f0184ffbbdb", 
+                    "profile_path": null, 
+                    "id": 2499541, 
+                    "known_for_department": "Editing"
+                }, 
+                {
+                    "name": "Park Gyu-bin", 
+                    "gender": 0, 
+                    "popularity": 1.4419999999999999, 
+                    "original_name": "Park Gyu-bin", 
+                    "department": "Art", 
+                    "job": "Production Design", 
+                    "adult": false, 
+                    "credit_id": "65b622c8afe22401843a236f", 
+                    "profile_path": null, 
+                    "id": 2523904, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Kim Dong-wook", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Kim Dong-wook", 
+                    "department": "Sound", 
+                    "job": "Original Music Composer", 
+                    "adult": false, 
+                    "credit_id": "65b62348b6cff10149f68a7d", 
+                    "profile_path": null, 
+                    "id": 2549661, 
+                    "known_for_department": "Sound"
+                }, 
+                {
+                    "name": "Ha Mi-ra", 
+                    "gender": 0, 
+                    "popularity": 0.70299999999999996, 
+                    "original_name": "Ha Mi-ra", 
+                    "department": "Editing", 
+                    "job": "Editor", 
+                    "adult": false, 
+                    "credit_id": "65b62339b6cff1017cf7b6fe", 
+                    "profile_path": null, 
+                    "id": 2759482, 
+                    "known_for_department": "Editing"
+                }, 
+                {
+                    "name": "Heo Myeong-haeng", 
+                    "gender": 2, 
+                    "popularity": 5.641, 
+                    "original_name": "Heo Myeong-haeng", 
+                    "department": "Directing", 
+                    "job": "Director", 
+                    "adult": false, 
+                    "credit_id": "61f812ebb6abc4001cc9428b", 
+                    "profile_path": "/l08CuexUYW8iZgLm864N9qzDmmY.jpg", 
+                    "id": 2879867, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Heo Myeong-haeng", 
+                    "gender": 2, 
+                    "popularity": 5.641, 
+                    "original_name": "Heo Myeong-haeng", 
+                    "department": "Crew", 
+                    "job": "Martial Arts Choreographer", 
+                    "adult": false, 
+                    "credit_id": "65b622f258efd30163cb2242", 
+                    "profile_path": "/l08CuexUYW8iZgLm864N9qzDmmY.jpg", 
+                    "id": 2879867, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Kim Bo-tong", 
+                    "gender": 2, 
+                    "popularity": 2.6560000000000001, 
+                    "original_name": "Kim Bo-tong", 
+                    "department": "Writing", 
+                    "job": "Writer", 
+                    "adult": false, 
+                    "credit_id": "65937c30fc31d371ac46bd3c", 
+                    "profile_path": null, 
+                    "id": 3181065, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Byun Seung-min", 
+                    "gender": 2, 
+                    "popularity": 3.2120000000000002, 
+                    "original_name": "Byun Seung-min", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65b2838fa802360186af0b42", 
+                    "profile_path": "/nNRZzfolAKyvn7agsUbSvPcG9mq.jpg", 
+                    "id": 3221839, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Yoon Seong-min", 
+                    "gender": 0, 
+                    "popularity": 1.03, 
+                    "original_name": "Yoon Seong-min", 
+                    "department": "Crew", 
+                    "job": "Martial Arts Choreographer", 
+                    "adult": false, 
+                    "credit_id": "65b622fb6e0d72018448ca7c", 
+                    "profile_path": null, 
+                    "id": 3567980, 
+                    "known_for_department": "Crew"
+                }, 
+                {
+                    "name": "Kim Dong-gyun", 
+                    "gender": 2, 
+                    "popularity": 1.732, 
+                    "original_name": "Kim Dong-gyun", 
+                    "department": "Writing", 
+                    "job": "Original Story", 
+                    "adult": false, 
+                    "credit_id": "62dd4235dc1cb4006758d818", 
+                    "profile_path": null, 
+                    "id": 3635671, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Kim Chang-hoon", 
+                    "gender": 2, 
+                    "popularity": 0.59999999999999998, 
+                    "original_name": "Kim Chang-hoon", 
+                    "department": "Writing", 
+                    "job": "Adaptation", 
+                    "adult": false, 
+                    "credit_id": "65b623be60c51d0184d22aec", 
+                    "profile_path": "/czLxUfNTOBU6yvClGnihQuJsilX.jpg", 
+                    "id": 3715927, 
+                    "known_for_department": "Directing"
+                }, 
+                {
+                    "name": "Kwak Jae-min", 
+                    "gender": 0, 
+                    "popularity": 3.4820000000000002, 
+                    "original_name": "Kwak Jae-min", 
+                    "department": "Writing", 
+                    "job": "Writer", 
+                    "adult": false, 
+                    "credit_id": "65937c36f5f1c576f9018759", 
+                    "profile_path": null, 
+                    "id": 3770513, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Choi Byeong-hwan", 
+                    "gender": 0, 
+                    "popularity": 0.60699999999999998, 
+                    "original_name": "Choi Byeong-hwan", 
+                    "department": "Production", 
+                    "job": "Executive Producer", 
+                    "adult": false, 
+                    "credit_id": "65b622372faf4d0163dcee54", 
+                    "profile_path": null, 
+                    "id": 4078371, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Seol Ha-un", 
+                    "gender": 0, 
+                    "popularity": 1.208, 
+                    "original_name": "Seol Ha-un", 
+                    "department": "Costume & Make-Up", 
+                    "job": "Special Effects Makeup Artist", 
+                    "adult": false, 
+                    "credit_id": "65b62328f6596f0184ffbb9c", 
+                    "profile_path": null, 
+                    "id": 4109602, 
+                    "known_for_department": "Costume & Make-Up"
+                }, 
+                {
+                    "name": "Kang Shin-hong", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Kang Shin-hong", 
+                    "department": "Art", 
+                    "job": "Props", 
+                    "adult": false, 
+                    "credit_id": "65b622d0f6596f0149fe85f4", 
+                    "profile_path": null, 
+                    "id": 4206853, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Lee Hyun-gyu", 
+                    "gender": 0, 
+                    "popularity": 1.222, 
+                    "original_name": "Lee Hyun-gyu", 
+                    "department": "Camera", 
+                    "job": "Key Grip", 
+                    "adult": false, 
+                    "credit_id": "65b622a512425c0162495591", 
+                    "profile_path": null, 
+                    "id": 4504303, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Im Jong-hyeok", 
+                    "gender": 0, 
+                    "popularity": 1.96, 
+                    "original_name": "Im Jong-hyeok", 
+                    "department": "Visual Effects", 
+                    "job": "Special Effects Supervisor", 
+                    "adult": false, 
+                    "credit_id": "65b62316f6596f0184ffbb91", 
+                    "profile_path": null, 
+                    "id": 4504304, 
+                    "known_for_department": "Visual Effects"
+                }, 
+                {
+                    "name": "Choi Su-im", 
+                    "gender": 0, 
+                    "popularity": 0.69399999999999995, 
+                    "original_name": "Choi Su-im", 
+                    "department": "Production", 
+                    "job": "Line Producer", 
+                    "adult": false, 
+                    "credit_id": "65b6236512425c014748b298", 
+                    "profile_path": null, 
+                    "id": 4504306, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Yuk Gwan-woo", 
+                    "gender": 0, 
+                    "popularity": 1.2749999999999999, 
+                    "original_name": "Yuk Gwan-woo", 
+                    "department": "Visual Effects", 
+                    "job": "Visual Effects", 
+                    "adult": false, 
+                    "credit_id": "65b6237f12425c018349f5f0", 
+                    "profile_path": null, 
+                    "id": 4504307, 
+                    "known_for_department": "Visual Effects"
+                }
+            ]
+        }, 
+        "adult": false, 
+        "external_ids": {
+            "instagram_id": null, 
+            "facebook_id": null, 
+            "wikidata_id": "Q123469290", 
+            "twitter_id": null, 
+            "imdb_id": "tt29722855"
+        }, 
+        "backdrop_path": "/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg", 
+        "production_companies": [
+            {
+                "origin_country": "KR", 
+                "logo_path": "/Aq35mXuZv7lhPm8a60YKRaB9Vek.png", 
+                "id": 127541, 
+                "name": "Climax Studios"
+            }, 
+            {
+                "origin_country": "KR", 
+                "logo_path": null, 
+                "id": 159339, 
+                "name": "Nova Film"
+            }, 
+            {
+                "origin_country": "KR", 
+                "logo_path": null, 
+                "id": 129217, 
+                "name": "Big Punch Pictures"
+            }, 
+            {
+                "origin_country": "KR", 
+                "logo_path": "/ghFZAt4edln0M7BzDExyYMzUGX1.png", 
+                "id": 7819, 
+                "name": "Lotte Entertainment"
+            }
+        ], 
+        "release_date": "2024-01-26", 
+        "popularity": 2655.1120000000001, 
+        "original_title": "\ud669\uc57c", 
+        "budget": 0, 
+        "vote_average": 6.7750000000000004, 
+        "runtime": 109
+    }
+}

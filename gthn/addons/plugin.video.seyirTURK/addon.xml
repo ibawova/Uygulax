@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.seyirTURK"
+       name="NahroKeyif"
+       version="3.66.4"
+       provider-name="">
+	<requires>
+		<import addon="script.module.requests"/>
+	</requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="seyirTURK.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<assets>   
+		<icon>icon.png</icon>
+		<fanart>Fanart.jpg</fanart>
+		<screenshot>resources/media/screenshot00000.png</screenshot>
+		<screenshot>resources/media/screenshot00001.png</screenshot>
+		<screenshot>resources/media/screenshot00002.png</screenshot>
+	</assets>
+			<summary></summary>
+		<description></description>
+		<platform>all</platform>
+		<license></license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+  </extension>
+
+
+</addon>

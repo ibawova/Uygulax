@@ -1,0 +1,1005 @@
+{
+    "sigValidUntil": 1708429135, 
+    "value": {
+        "poster_path": "/6S2ZVPL2ff2hhwtkyNslMNHZUgX.jpg", 
+        "production_countries": [
+            {
+                "iso_3166_1": "GB", 
+                "name": "United Kingdom"
+            }, 
+            {
+                "iso_3166_1": "US", 
+                "name": "United States of America"
+            }
+        ], 
+        "revenue": 0, 
+        "overview": "Das Fotografenpaar Anne und Patrick Caulder setzt eine mysteri\u00f6se Verkettung von Ereignissen in Gang, als sie zusammen mit ihrem jungen Sohne Lukas an Board des ber\u00fchmten und geschichtstr\u00e4chtigen Passagierschiffes Queen Mary kommen. Diese scheinen irgendwie in Verbindung zur Vergangenheit des Schiffes zu stehen, in der offenbar zahlreiche dunkle Geheimnisse verborgen sind. Pl\u00f6tzlich findet sich die Familie also inmitten schrecklichen Terrors wieder und muss mit der sich St\u00fcck f\u00fcr St\u00fcck offenbarenden Wahrheit umgehen: Der glamour\u00f6sen Geschichte des Luxusdampfers liegt jede Menge Gewalt zugrunde...", 
+        "video": false, 
+        "keywords": {
+            "keywords": []
+        }, 
+        "id": 977013, 
+        "genres": [
+            {
+                "id": 27, 
+                "name": "Horror"
+            }, 
+            {
+                "id": 53, 
+                "name": "Thriller"
+            }
+        ], 
+        "videos": {
+            "results": [
+                {
+                    "name": "Offizieller Trailer #2", 
+                    "iso_3166_1": "DE", 
+                    "official": true, 
+                    "site": "YouTube", 
+                    "iso_639_1": "de", 
+                    "published_at": "2023-11-08T10:33:26.000Z", 
+                    "key": "M_Q_l9jLSHo", 
+                    "type": "Trailer", 
+                    "id": "654df8732866fa108c045058", 
+                    "size": 1080
+                }, 
+                {
+                    "name": "Offizieller Trailer", 
+                    "iso_3166_1": "DE", 
+                    "official": true, 
+                    "site": "YouTube", 
+                    "iso_639_1": "de", 
+                    "published_at": "2023-09-08T09:10:24.000Z", 
+                    "key": "6W-hjer1Wb4", 
+                    "type": "Trailer", 
+                    "id": "650151baffc9de0edf6138b6", 
+                    "size": 1080
+                }
+            ]
+        }, 
+        "title": "The Queen Mary", 
+        "tagline": "Dieses Schiff verl\u00e4sst du nie", 
+        "vote_count": 98, 
+        "homepage": "", 
+        "belongs_to_collection": null, 
+        "original_language": "en", 
+        "status": "Released", 
+        "spoken_languages": [
+            {
+                "iso_639_1": "en", 
+                "english_name": "English", 
+                "name": "English"
+            }
+        ], 
+        "release_dates": {
+            "results": [
+                {
+                    "iso_3166_1": "AE", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-24T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "AU", 
+                    "release_dates": [
+                        {
+                            "certification": "MA 15+", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "BR", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-12-14T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "CA", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-29T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "CH", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-10-26T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "CL", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-12-07T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "DE", 
+                    "release_dates": [
+                        {
+                            "certification": "16", 
+                            "descriptors": [], 
+                            "release_date": "2023-12-28T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "GB", 
+                    "release_dates": [
+                        {
+                            "certification": "18", 
+                            "descriptors": [], 
+                            "release_date": "2023-10-09T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "IT", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-07-19T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "KW", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-24T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "KZ", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-03T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "MX", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-10-30T00:00:00.000Z", 
+                            "iso_639_1": "es", 
+                            "note": "", 
+                            "type": 1
+                        }, 
+                        {
+                            "certification": "B-15", 
+                            "descriptors": [], 
+                            "release_date": "2023-11-23T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "PH", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-09T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "RU", 
+                    "release_dates": [
+                        {
+                            "certification": "16+", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-03T00:00:00.000Z", 
+                            "iso_639_1": "ru", 
+                            "note": "\u0412\u043e\u043b\u044c\u0433\u0430", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "SG", 
+                    "release_dates": [
+                        {
+                            "certification": "M18", 
+                            "descriptors": [], 
+                            "release_date": "2023-09-21T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "TH", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-09-21T00:00:00.000Z", 
+                            "iso_639_1": "th", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "TW", 
+                    "release_dates": [
+                        {
+                            "certification": "18+", 
+                            "descriptors": [], 
+                            "release_date": "2023-07-21T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 3
+                        }
+                    ]
+                }, 
+                {
+                    "iso_3166_1": "US", 
+                    "release_dates": [
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 2
+                        }, 
+                        {
+                            "certification": "", 
+                            "descriptors": [], 
+                            "release_date": "2023-08-18T00:00:00.000Z", 
+                            "iso_639_1": "", 
+                            "note": "", 
+                            "type": 4
+                        }
+                    ]
+                }
+            ]
+        }, 
+        "imdb_id": "tt3463938", 
+        "credits": {
+            "cast": [
+                {
+                    "name": "Alice Eve", 
+                    "gender": 1, 
+                    "popularity": 45.841999999999999, 
+                    "original_name": "Alice Eve", 
+                    "order": 0, 
+                    "credit_id": "6284133b56b9f700679d86c6", 
+                    "adult": false, 
+                    "cast_id": 13, 
+                    "profile_path": "/tJUSx0Cw7pCnRsCWbGTX2POiTKM.jpg", 
+                    "id": 59860, 
+                    "known_for_department": "Acting", 
+                    "character": "Anne Caulder"
+                }, 
+                {
+                    "name": "Joel Fry", 
+                    "gender": 2, 
+                    "popularity": 35.048000000000002, 
+                    "original_name": "Joel Fry", 
+                    "order": 1, 
+                    "credit_id": "628413440d5d85456263ed79", 
+                    "adult": false, 
+                    "cast_id": 14, 
+                    "profile_path": "/4nEKEWJpaTHncCTv6zeP98V0qGI.jpg", 
+                    "id": 54811, 
+                    "known_for_department": "Acting", 
+                    "character": "Patrick Caulder"
+                }, 
+                {
+                    "name": "Nell Hudson", 
+                    "gender": 1, 
+                    "popularity": 5.7759999999999998, 
+                    "original_name": "Nell Hudson", 
+                    "order": 2, 
+                    "credit_id": "63f3e1cd524978007cb90438", 
+                    "adult": false, 
+                    "cast_id": 15, 
+                    "profile_path": "/AjJmr3aoRSPmi97Le6jwhXJEhTq.jpg", 
+                    "id": 1626572, 
+                    "known_for_department": "Acting", 
+                    "character": "Gwen Ratch"
+                }, 
+                {
+                    "name": "Angus Wright", 
+                    "gender": 2, 
+                    "popularity": 4.1210000000000004, 
+                    "original_name": "Angus Wright", 
+                    "order": 3, 
+                    "credit_id": "63f3e1f015376c0078195a12", 
+                    "adult": false, 
+                    "cast_id": 16, 
+                    "profile_path": "/7VOW55b8WF0eyFJiCjiBXSRA5mG.jpg", 
+                    "id": 933640, 
+                    "known_for_department": "Acting", 
+                    "character": "Victor"
+                }, 
+                {
+                    "name": "Jim Piddock", 
+                    "gender": 2, 
+                    "popularity": 6.415, 
+                    "original_name": "Jim Piddock", 
+                    "order": 4, 
+                    "credit_id": "63f3e208a6725400a3a3ed89", 
+                    "adult": false, 
+                    "cast_id": 17, 
+                    "profile_path": "/kcEcWZVNkF1h9LQr5N60vViVZxu.jpg", 
+                    "id": 120560, 
+                    "known_for_department": "Acting", 
+                    "character": "Captain Carradine"
+                }, 
+                {
+                    "name": "Dorian Lough", 
+                    "gender": 2, 
+                    "popularity": 7.2210000000000001, 
+                    "original_name": "Dorian Lough", 
+                    "order": 5, 
+                    "credit_id": "63f3e21b524978009e78e314", 
+                    "adult": false, 
+                    "cast_id": 18, 
+                    "profile_path": "/YLo7MQpYB5YZU1ue7Uela19rE2.jpg", 
+                    "id": 1221067, 
+                    "known_for_department": "Acting", 
+                    "character": "Captain Bittner"
+                }, 
+                {
+                    "name": "William Shockley", 
+                    "gender": 2, 
+                    "popularity": 11.978, 
+                    "original_name": "William Shockley", 
+                    "order": 6, 
+                    "credit_id": "63f3e2304a4bfc00b2fa9f30", 
+                    "adult": false, 
+                    "cast_id": 19, 
+                    "profile_path": "/lOcuXGETGWR8kVQMgjan1jOT13a.jpg", 
+                    "id": 156029, 
+                    "known_for_department": "Acting", 
+                    "character": "Deck Officer Brooks"
+                }, 
+                {
+                    "name": "Tim Downie", 
+                    "gender": 2, 
+                    "popularity": 8.2289999999999992, 
+                    "original_name": "Tim Downie", 
+                    "order": 7, 
+                    "credit_id": "64b6600ee0ca7f00ae772380", 
+                    "adult": false, 
+                    "cast_id": 21, 
+                    "profile_path": "/reyrUHA8M5iFLY3rxRfZD9Ap98S.jpg", 
+                    "id": 1010912, 
+                    "known_for_department": "Acting", 
+                    "character": "Lieutenant Gibson"
+                }, 
+                {
+                    "name": "Lenny Rush", 
+                    "gender": 2, 
+                    "popularity": 3.121, 
+                    "original_name": "Lenny Rush", 
+                    "order": 8, 
+                    "credit_id": "64b6603478570e00c6d5eff6", 
+                    "adult": false, 
+                    "cast_id": 22, 
+                    "profile_path": "/8x77KBpeFDLxjCZtU4DmGCkb8i9.jpg", 
+                    "id": 2451415, 
+                    "known_for_department": "Acting", 
+                    "character": "Lukas Caulder"
+                }, 
+                {
+                    "name": "Alfredo Tavares", 
+                    "gender": 2, 
+                    "popularity": 7.3179999999999996, 
+                    "original_name": "Alfredo Tavares", 
+                    "order": 9, 
+                    "credit_id": "64b6603ee0ca7f00ae77239b", 
+                    "adult": false, 
+                    "cast_id": 23, 
+                    "profile_path": "/4yj29kZbTWj5yPGwoxk650Bm1F2.jpg", 
+                    "id": 2317714, 
+                    "known_for_department": "Acting", 
+                    "character": "Lifeboat's Man"
+                }, 
+                {
+                    "name": "Mark Silverman", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Mark Silverman", 
+                    "order": 10, 
+                    "credit_id": "64b66047e0ca7f01253eeaa1", 
+                    "adult": false, 
+                    "cast_id": 24, 
+                    "profile_path": null, 
+                    "id": 1423228, 
+                    "known_for_department": "Acting", 
+                    "character": "Queen Mary PA Announcer"
+                }, 
+                {
+                    "name": "Joelle Koissi", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Joelle Koissi", 
+                    "order": 11, 
+                    "credit_id": "64b66059ac416101391d24a1", 
+                    "adult": false, 
+                    "cast_id": 26, 
+                    "profile_path": null, 
+                    "id": 1403650, 
+                    "known_for_department": "Acting", 
+                    "character": "Tour guide"
+                }, 
+                {
+                    "name": "Wil Coban", 
+                    "gender": 2, 
+                    "popularity": 4.5289999999999999, 
+                    "original_name": "Wil Coban", 
+                    "order": 12, 
+                    "credit_id": "64b66062e0ca7f010698ffa1", 
+                    "adult": false, 
+                    "cast_id": 27, 
+                    "profile_path": "/73REwJckTBMNJoiGIrrGhcCdTqf.jpg", 
+                    "id": 1815694, 
+                    "known_for_department": "Acting", 
+                    "character": "David Ratch"
+                }, 
+                {
+                    "name": "Gabi Kerr", 
+                    "gender": 0, 
+                    "popularity": 0.98399999999999999, 
+                    "original_name": "Gabi Kerr", 
+                    "order": 13, 
+                    "credit_id": "64b6606a0bb076012d599001", 
+                    "adult": false, 
+                    "cast_id": 28, 
+                    "profile_path": "/61qzNpyM53bOCVOpUjSLdcDajf4.jpg", 
+                    "id": 4168269, 
+                    "known_for_department": "Acting", 
+                    "character": "Teenage Girl (Snow White)"
+                }, 
+                {
+                    "name": "Sophia Dunn-Walker", 
+                    "gender": 0, 
+                    "popularity": 0.59999999999999998, 
+                    "original_name": "Sophia Dunn-Walker", 
+                    "order": 14, 
+                    "credit_id": "64b6607237806200ad162f88", 
+                    "adult": false, 
+                    "cast_id": 29, 
+                    "profile_path": null, 
+                    "id": 2889304, 
+                    "known_for_department": "Acting", 
+                    "character": "Lady in White"
+                }, 
+                {
+                    "name": "Russell MacLeod", 
+                    "gender": 2, 
+                    "popularity": 2.052, 
+                    "original_name": "Russell MacLeod", 
+                    "order": 15, 
+                    "credit_id": "64b6607aac416101391d24b9", 
+                    "adult": false, 
+                    "cast_id": 30, 
+                    "profile_path": null, 
+                    "id": 1340727, 
+                    "known_for_department": "Crew", 
+                    "character": "Ray Stoker"
+                }, 
+                {
+                    "name": "Tiffany Ashton", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Tiffany Ashton", 
+                    "order": 16, 
+                    "credit_id": "64b66089ac416100e2407ccb", 
+                    "adult": false, 
+                    "cast_id": 31, 
+                    "profile_path": null, 
+                    "id": 2840023, 
+                    "known_for_department": "Sound", 
+                    "character": "Grand Ballroom Singer"
+                }, 
+                {
+                    "name": "Marios Gavrilis", 
+                    "gender": 2, 
+                    "popularity": 1.1739999999999999, 
+                    "original_name": "Marios Gavrilis", 
+                    "order": 17, 
+                    "credit_id": "64b6609037806200c588a537", 
+                    "adult": false, 
+                    "cast_id": 32, 
+                    "profile_path": "/hoeluMNmubWovEZSfvzYCsCMqJE.jpg", 
+                    "id": 3248316, 
+                    "known_for_department": "Acting", 
+                    "character": "German Commander"
+                }, 
+                {
+                    "name": "Florrie Wilkinson", 
+                    "gender": 0, 
+                    "popularity": 0.624, 
+                    "original_name": "Florrie Wilkinson", 
+                    "order": 18, 
+                    "credit_id": "64b660980bb07600eb2a6973", 
+                    "adult": false, 
+                    "cast_id": 33, 
+                    "profile_path": null, 
+                    "id": 2669197, 
+                    "known_for_department": "Acting", 
+                    "character": "Jackie Ratch"
+                }, 
+                {
+                    "name": "Chase Drews", 
+                    "gender": 0, 
+                    "popularity": 1.679, 
+                    "original_name": "Chase Drews", 
+                    "order": 19, 
+                    "credit_id": "64b660aa3780620139086122", 
+                    "adult": false, 
+                    "cast_id": 34, 
+                    "profile_path": null, 
+                    "id": 3708098, 
+                    "known_for_department": "Acting", 
+                    "character": "Tour Guide"
+                }, 
+                {
+                    "name": "Matthew David McCarthy", 
+                    "gender": 2, 
+                    "popularity": 2.915, 
+                    "original_name": "Matthew David McCarthy", 
+                    "order": 20, 
+                    "credit_id": "64b660b337806200e2acbcf0", 
+                    "adult": false, 
+                    "cast_id": 35, 
+                    "profile_path": null, 
+                    "id": 1502443, 
+                    "known_for_department": "Acting", 
+                    "character": "Dinner Guest"
+                }, 
+                {
+                    "name": "Ricky Bevins", 
+                    "gender": 0, 
+                    "popularity": 1.3799999999999999, 
+                    "original_name": "Ricky Bevins", 
+                    "order": 21, 
+                    "credit_id": "64b660baac416100e2407cec", 
+                    "adult": false, 
+                    "cast_id": 36, 
+                    "profile_path": null, 
+                    "id": 4168271, 
+                    "known_for_department": "Acting", 
+                    "character": "Tourist"
+                }, 
+                {
+                    "name": "Maddison Nixon", 
+                    "gender": 0, 
+                    "popularity": 0.59999999999999998, 
+                    "original_name": "Maddison Nixon", 
+                    "order": 22, 
+                    "credit_id": "64b660c5ac416100c5331e90", 
+                    "adult": false, 
+                    "cast_id": 37, 
+                    "profile_path": null, 
+                    "id": 4168272, 
+                    "known_for_department": "Acting", 
+                    "character": "Ginger Rogers"
+                }, 
+                {
+                    "name": "Cory Dagg", 
+                    "gender": 2, 
+                    "popularity": 4.0640000000000001, 
+                    "original_name": "Cory Dagg", 
+                    "order": 23, 
+                    "credit_id": "64b660cb3780620139086136", 
+                    "adult": false, 
+                    "cast_id": 38, 
+                    "profile_path": null, 
+                    "id": 1235805, 
+                    "known_for_department": "Acting", 
+                    "character": "Communications Naval Officer"
+                }, 
+                {
+                    "name": "Ross Cullum", 
+                    "gender": 0, 
+                    "popularity": 1.96, 
+                    "original_name": "Ross Cullum", 
+                    "order": 24, 
+                    "credit_id": "64b660db378062011c8ccb6e", 
+                    "adult": false, 
+                    "cast_id": 39, 
+                    "profile_path": null, 
+                    "id": 2113751, 
+                    "known_for_department": "Acting", 
+                    "character": "Maitre'D"
+                }, 
+                {
+                    "name": "Brooke Chanel", 
+                    "gender": 0, 
+                    "popularity": 1.3799999999999999, 
+                    "original_name": "Brooke Chanel", 
+                    "order": 25, 
+                    "credit_id": "64b660e5378062013908614a", 
+                    "adult": false, 
+                    "cast_id": 40, 
+                    "profile_path": null, 
+                    "id": 4168273, 
+                    "known_for_department": "Acting", 
+                    "character": "Panicked Guest"
+                }, 
+                {
+                    "name": "Wesley Alfvin", 
+                    "gender": 0, 
+                    "popularity": 0.72799999999999998, 
+                    "original_name": "Wesley Alfvin", 
+                    "order": 26, 
+                    "credit_id": "64b660ef78570e00e33c9b20", 
+                    "adult": false, 
+                    "cast_id": 41, 
+                    "profile_path": null, 
+                    "id": 4168275, 
+                    "known_for_department": "Acting", 
+                    "character": "Fred Astaire"
+                }, 
+                {
+                    "name": "Luca Barbarossa", 
+                    "gender": 2, 
+                    "popularity": 0.76600000000000001, 
+                    "original_name": "Luca Barbarossa", 
+                    "order": 27, 
+                    "credit_id": "64b660fbe0ca7f01442baeed", 
+                    "adult": false, 
+                    "cast_id": 42, 
+                    "profile_path": "/k9bqgp5Hv8WJQSOtl4lqmzD4KT1.jpg", 
+                    "id": 3271644, 
+                    "known_for_department": "Acting", 
+                    "character": "Prisoner"
+                }, 
+                {
+                    "name": "Adam Grayson", 
+                    "gender": 0, 
+                    "popularity": 0.72599999999999998, 
+                    "original_name": "Adam Grayson", 
+                    "order": 28, 
+                    "credit_id": "64b661030e4fc851a0f4ed23", 
+                    "adult": false, 
+                    "cast_id": 43, 
+                    "profile_path": null, 
+                    "id": 1806303, 
+                    "known_for_department": "Acting", 
+                    "character": "Chief Engineer"
+                }, 
+                {
+                    "name": "Alan Booty", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Alan Booty", 
+                    "order": 29, 
+                    "credit_id": "64b6611078570e00c6d5f03f", 
+                    "adult": false, 
+                    "cast_id": 44, 
+                    "profile_path": null, 
+                    "id": 2251205, 
+                    "known_for_department": "Acting", 
+                    "character": "Mr. Howe"
+                }, 
+                {
+                    "name": "Michael Trauffer", 
+                    "gender": 0, 
+                    "popularity": 0.60499999999999998, 
+                    "original_name": "Michael Trauffer", 
+                    "order": 30, 
+                    "credit_id": "64b6611de0ca7f00c8cfd103", 
+                    "adult": false, 
+                    "cast_id": 45, 
+                    "profile_path": null, 
+                    "id": 4168279, 
+                    "known_for_department": "Acting", 
+                    "character": "German Soldier"
+                }
+            ], 
+            "crew": [
+                {
+                    "name": "Nigel Sinclair", 
+                    "gender": 2, 
+                    "popularity": 1.0660000000000001, 
+                    "original_name": "Nigel Sinclair", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "62841255fb3f61312e1e8643", 
+                    "profile_path": null, 
+                    "id": 12234, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Jason Newmark", 
+                    "gender": 2, 
+                    "popularity": 0.65200000000000002, 
+                    "original_name": "Jason Newmark", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "6284122e93bd690050b051c3", 
+                    "profile_path": null, 
+                    "id": 41845, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Lars Sylvest", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Lars Sylvest", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "6284126256b9f700a6a6a436", 
+                    "profile_path": null, 
+                    "id": 61095, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Isaac Bauman", 
+                    "gender": 2, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Isaac Bauman", 
+                    "department": "Camera", 
+                    "job": "Director of Photography", 
+                    "adult": false, 
+                    "credit_id": "6284128193bd690099b3989c", 
+                    "profile_path": "/pfOvYoyaTOyiDk4TtmmFrT4qIIY.jpg", 
+                    "id": 1116311, 
+                    "known_for_department": "Camera"
+                }, 
+                {
+                    "name": "Gary Shore", 
+                    "gender": 2, 
+                    "popularity": 1.9099999999999999, 
+                    "original_name": "Gary Shore", 
+                    "department": "Directing", 
+                    "job": "Director", 
+                    "adult": false, 
+                    "credit_id": "62840ebfcd204600660b9314", 
+                    "profile_path": "/5GGr9a5RUkOdRJrJtfG3LRhpMGr.jpg", 
+                    "id": 1167470, 
+                    "known_for_department": "Directing"
+                }, 
+                {
+                    "name": "Gary Shore", 
+                    "gender": 2, 
+                    "popularity": 1.9099999999999999, 
+                    "original_name": "Gary Shore", 
+                    "department": "Writing", 
+                    "job": "Writer", 
+                    "adult": false, 
+                    "credit_id": "628411646d9fe83492bd5126", 
+                    "profile_path": "/5GGr9a5RUkOdRJrJtfG3LRhpMGr.jpg", 
+                    "id": 1167470, 
+                    "known_for_department": "Directing"
+                }, 
+                {
+                    "name": "Colin Campbell", 
+                    "gender": 2, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Colin Campbell", 
+                    "department": "Editing", 
+                    "job": "Editor", 
+                    "adult": false, 
+                    "credit_id": "62841327fd140b300c13441d", 
+                    "profile_path": null, 
+                    "id": 1425664, 
+                    "known_for_department": "Editing"
+                }, 
+                {
+                    "name": "Thorsten Schumacher", 
+                    "gender": 2, 
+                    "popularity": 1.0189999999999999, 
+                    "original_name": "Thorsten Schumacher", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "62841248e004a60066048d0d", 
+                    "profile_path": null, 
+                    "id": 1531843, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Nicholas Ferrall", 
+                    "gender": 0, 
+                    "popularity": 1.419, 
+                    "original_name": "Nicholas Ferrall", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "6284121b8d77c40050754943", 
+                    "profile_path": null, 
+                    "id": 1609380, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Brett Tomberlin", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Brett Tomberlin", 
+                    "department": "Production", 
+                    "job": "Producer", 
+                    "adult": false, 
+                    "credit_id": "6284126f0859b40066ef576a", 
+                    "profile_path": null, 
+                    "id": 2104554, 
+                    "known_for_department": "Production"
+                }, 
+                {
+                    "name": "Christine Brandt", 
+                    "gender": 0, 
+                    "popularity": 1.702, 
+                    "original_name": "Christine Brandt", 
+                    "department": "Art", 
+                    "job": "Production Design", 
+                    "adult": false, 
+                    "credit_id": "64862f05d2b20900ad3d0160", 
+                    "profile_path": null, 
+                    "id": 3397212, 
+                    "known_for_department": "Art"
+                }, 
+                {
+                    "name": "Tom Vaughan", 
+                    "gender": 2, 
+                    "popularity": 2.1779999999999999, 
+                    "original_name": "Tom Vaughan", 
+                    "department": "Writing", 
+                    "job": "Writer", 
+                    "adult": false, 
+                    "credit_id": "628410fadcf875334e5025f4", 
+                    "profile_path": null, 
+                    "id": 3553771, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Tom Vaughan", 
+                    "gender": 2, 
+                    "popularity": 2.1779999999999999, 
+                    "original_name": "Tom Vaughan", 
+                    "department": "Production", 
+                    "job": "Co-Producer", 
+                    "adult": false, 
+                    "credit_id": "6284123afd140b300ec5a286", 
+                    "profile_path": null, 
+                    "id": 3553771, 
+                    "known_for_department": "Writing"
+                }, 
+                {
+                    "name": "Stephen Oliver", 
+                    "gender": 0, 
+                    "popularity": 1.3999999999999999, 
+                    "original_name": "Stephen Oliver", 
+                    "department": "Writing", 
+                    "job": "Writer", 
+                    "adult": false, 
+                    "credit_id": "659d41067fcab3014a3d47d7", 
+                    "profile_path": null, 
+                    "id": 4472065, 
+                    "known_for_department": "Writing"
+                }
+            ]
+        }, 
+        "adult": false, 
+        "external_ids": {
+            "instagram_id": null, 
+            "facebook_id": null, 
+            "wikidata_id": "Q108809531", 
+            "twitter_id": null, 
+            "imdb_id": "tt3463938"
+        }, 
+        "backdrop_path": "/t2D8aSCB7Dp3kBznVjPnecCxwqX.jpg", 
+        "production_companies": [
+            {
+                "origin_country": "US", 
+                "logo_path": "/bEnOf6B2GsW15f1NRg3Ao5Xw2Av.png", 
+                "id": 53972, 
+                "name": "White Horse Pictures"
+            }, 
+            {
+                "origin_country": "", 
+                "logo_path": null, 
+                "id": 96645, 
+                "name": "Imagination Design Works"
+            }, 
+            {
+                "origin_country": "GB", 
+                "logo_path": null, 
+                "id": 31787, 
+                "name": "Creativity Capital"
+            }, 
+            {
+                "origin_country": "LU", 
+                "logo_path": null, 
+                "id": 140607, 
+                "name": "Trinity Media Financing"
+            }, 
+            {
+                "origin_country": "GB", 
+                "logo_path": "/lNSXnoZxWcqSFbjI62A7aRGZOPa.png", 
+                "id": 5505, 
+                "name": "Fulwell 73 Productions"
+            }, 
+            {
+                "origin_country": "IE", 
+                "logo_path": "/mXIIBoW52i57FF2oyFtfaDE5De6.png", 
+                "id": 114482, 
+                "name": "BCP Asset Management"
+            }
+        ], 
+        "release_date": "2023-07-19", 
+        "popularity": 273.69999999999999, 
+        "original_title": "Haunting of the Queen Mary", 
+        "budget": 0, 
+        "vote_average": 5.2699999999999996, 
+        "runtime": 125
+    }
+}

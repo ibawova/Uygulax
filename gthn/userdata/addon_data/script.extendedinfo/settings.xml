@@ -1,0 +1,8 @@
+<settings version="2">
+    <setting id="alt_browser_layout">true</setting>
+    <setting id="autoplay_trailer">true</setting>
+    <setting id="include_adults" default="true">false</setting>
+    <setting id="LanguageID">de</setting>
+    <setting id="netflix_view">true</setting>
+    <setting id="tmdb_api" default="true"></setting>
+</settings>

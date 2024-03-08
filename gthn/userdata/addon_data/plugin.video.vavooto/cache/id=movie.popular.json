@@ -1,0 +1,956 @@
+{
+    "sigValidUntil": 1707899933, 
+    "value": {
+        "data": [
+            {
+                "director": [], 
+                "genres": [
+                    "Science Fiction", 
+                    "Action", 
+                    "Drama"
+                ], 
+                "description": "Ein t\u00f6dliches Erdbeben hat Seoul in eine gesetzlose Ein\u00f6de verwandelt. Hier will ein unerschrockener J\u00e4ger eine Jugendliche retten, die von einem verr\u00fcckten Arzt entf\u00fchrt wurde.", 
+                "poster": "https://image.tmdb.org/t/p/original/bPZjm6YQAthGgYUdGSu3EAz6PMA.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-26", 
+                "originalName": "\ud669\uc57c", 
+                "id": "movie.933131", 
+                "backdrop": "https://image.tmdb.org/t/p/original/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg", 
+                "name": "Badland Hunters"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Drama"
+                ], 
+                "description": "Damit er das geteilte Sorgerecht f\u00fcr seine Tochter beh\u00e4lt, l\u00e4sst ein verzweifelter MMA-K\u00e4mpfer einen wichtigen Kampf sausen und eilt quer durch Berlin zu ihrer Geburtstagsparty.", 
+                "poster": "https://image.tmdb.org/t/p/original/aD666IiuBDU57KvpujqzduLgWDe.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-19", 
+                "originalName": "60 Minuten", 
+                "id": "movie.1212073", 
+                "backdrop": "https://image.tmdb.org/t/p/original/unvtbkgxh47BewQ8pENvdOdme0r.jpg", 
+                "name": "60 Minuten"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Kom\u00f6die", 
+                    "Familie", 
+                    "Fantasy"
+                ], 
+                "description": "Bereits in jungen Jahren tr\u00e4umt Willy Wonka von seinem eigenen Schokoladengesch\u00e4ft. Doch Schaum wie so manch anderer Traum ist das nicht. Mit dem Laden ist es ihm sehr ernst. Deshalb hat er auch viel Zeit damit verbracht, um die Welt zu reisen und an verschiedensten Orten seine Techniken zu verbessern. Doch bevor alles \u00fcberhaupt richtig in Gang kommen kann, ist es schon fast wieder aus mit dem Traum vom eigenen Laden. Denn das m\u00e4chtige Schokoladenkartell legt dem exzentrischen Wonka jede Menge Steine in den Weg. Aber ohne die Erlaubnis des Kartells geht nun mal leider gar nichts, die Ladent\u00fcr muss verschlossen bleiben. Aber Wonka l\u00e4sst sich auch davon nicht unterkriegen. Er sprudelt regelrecht vor Ideen, wie er seine schokoladigen Leckereien trotzdem unters Volk bringen kann. Alleine ist er dabei auch nicht. Die kleine Noodle ist ebenfalls mit dabei. Au\u00dferdem kann Wonka auf die Unterst\u00fctzung der skurrilen Oompa Loompas setzen.", 
+                "poster": "https://image.tmdb.org/t/p/original/arTBeE8zOq3KESQCRqQNtcVV69h.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-06", 
+                "originalName": "Wonka", 
+                "id": "movie.787699", 
+                "backdrop": "https://image.tmdb.org/t/p/original/yyFc8Iclt2jxPmLztbP617xXllT.jpg", 
+                "name": "Wonka"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Science Fiction", 
+                    "Abenteuer", 
+                    "Action"
+                ], 
+                "description": "Als die Pflicht sie zu einem anomalen Wurmloch ruft, das ein Kree-Revolution\u00e4r ausgel\u00f6st hat, werden die Kr\u00e4fte von Carol Danvers (Captain Marvel), Kamala Khan (Ms. Marvel), ein Superfan Jersey Citys, und Carols Nichte, die S.A.B.E.R.-Astronautin Captain Monica Rambeau, vereint. Das ungleiche Trio muss als \u201eThe Marvels\u201c das Universum retten.", 
+                "poster": "https://image.tmdb.org/t/p/original/teznEaxqAlMGBSIHYS8v9PAbHZD.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-08", 
+                "originalName": "The Marvels", 
+                "id": "movie.609681", 
+                "backdrop": "https://image.tmdb.org/t/p/original/criPrxkTggCra1jch49jsiSeXo1.jpg", 
+                "name": "The Marvels"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Kom\u00f6die", 
+                    "Krimi"
+                ], 
+                "description": "Cyrus Whitaker (Kevin Hart) ist Kopf einer international operierenden Gangsterbande, die sich auf spektakul\u00e4re Raub\u00fcberf\u00e4lle spezialisiert hat. Als er eines Tages Besuch von seiner Ex-Freundin Abby Gladwell (Gugu Mbatha-Raw) erh\u00e4lt, ahnt er zun\u00e4chst nichts B\u00f6ses. Doch Abby er\u00f6ffnet ihm, dass sie nun Bundesagentin ist und ihm und seinen Komplizen lange Gef\u00e4ngnisstrafen f\u00fcr ihre Taten drohen. Sie bietet ihm allerdings schnell einen Deal an, mit dem er der Haft entgehen kann: Die Gang soll im Auftrag des FBI Gold im Wert von einer halben Milliarde Dollar stehlen, das zu einer Terrorzelle bef\u00f6rdert werden soll, die einen verheerenden Anschlag plant. Schwierig genug, doch der wahre Haken an der Sache ist, dass die Barren im Rumpf eines Passagierflugzeugs von London nach Z\u00fcrich transportiert werden. Cyrus nimmt widerstrebend an und t\u00fcftelt mit seinen Kumpanen in Windeseile einen Plan aus, um die halsbrecherische Mission zu erf\u00fcllen.", 
+                "poster": "https://image.tmdb.org/t/p/original/tzEh1WzicfysZ2L1vgOXNnWsR6E.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-10", 
+                "originalName": "Lift", 
+                "id": "movie.955916", 
+                "backdrop": "https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg", 
+                "name": "Lift"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Thriller", 
+                    "Drama"
+                ], 
+                "description": "Mr. Clay hat sich auf den ersten Blick ganz der Imkerei verschrieben hat. Doch als seine Nachbarin bei einer Telefon-Abzocke um ihr ganzes Erspartes erleichtert wird und sich daraufhin das Leben nimmt, m\u00fcssen seine Bienen zur\u00fcckstehen. Denn nun ist einzig und allein die Rache sein Fokus. Auch wenn er jeden Finger jedes Beteiligten einzeln abtrennen muss, er wird nicht stoppen, bis er die ganze f\u00fcr die Scams verantwortliche Organisation zerst\u00f6rt hat. Schnell stellt er auf seinem Rachefeldzug jedoch fast, dass die Betr\u00fcger m\u00e4chtiger als zun\u00e4chst vermutet sind. Doch auch seine Gegner m\u00fcssen bald schmerzlichst lernen, dass sie es hier nicht mit einem einfachen Imker, sondern einem ehemaligen Spezialagenten einer mysteri\u00f6sen Organisation, die den Namen \u201eBeekeepers\u201c tr\u00e4gt, zu tun haben...", 
+                "poster": "https://image.tmdb.org/t/p/original/yiN5E3vGNIGZFPVb6kwlPFfdUCA.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-10", 
+                "originalName": "The Beekeeper", 
+                "id": "movie.866398", 
+                "backdrop": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg", 
+                "name": "The Beekeeper"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Abenteuer", 
+                    "Fantasy"
+                ], 
+                "description": "Als eine uralte Macht entfesselt wird, muss sich Aquaman auf ein schwieriges B\u00fcndnis mit einem ungew\u00f6hnlichen Verb\u00fcndeten einlassen, um Atlantis und die Welt vor der unumkehrbaren Zerst\u00f6rung zu bewahren.", 
+                "poster": "https://image.tmdb.org/t/p/original/p9pdXjNEPUs3TmgzOpaWTNPFIWP.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-20", 
+                "originalName": "Aquaman and the Lost Kingdom", 
+                "id": "movie.572802", 
+                "backdrop": "https://image.tmdb.org/t/p/original/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg", 
+                "name": "Aquaman: Lost Kingdom"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Action", 
+                    "Abenteuer", 
+                    "Kom\u00f6die", 
+                    "Familie"
+                ], 
+                "description": "Eine Entenfamilie versucht, ihren \u00fcberf\u00fcrsorglichen Vater Mack davon zu \u00fcberzeugen, den Urlaub ihres Lebens zu machen, der sie von Neuengland \u00fcber New York City bis hin zu den Bahamas f\u00fchrt. Denn f\u00fcr Mutter Pam kann es nicht so weitergehen, st\u00e4ndig der gleiche Teich und keine Abwechslung in ihrem Alltag. Und auch Teenie-Sohn Dax und seine kleine Schwester wollen etwas von der Welt sehen. Aber wie vom Vater bef\u00fcrchtet, besteht die Reise nicht nur aus gem\u00fctlichem Fliegen und viel Sonne. Die kleine Familie st\u00f6\u00dft auf dem Weg auch auf einige Hindernisse wie Unwetter und ihnen unbekannte Vogelarten. Trotz dieser Widrigkeiten entdeckten die Enten ihren Mut und ihren Entdeckergeist und erfahren so, dass die gr\u00f6\u00dften Abenteuer im Leben auch immer einen Schritt aus der eigenen Komfortzone bedeuten.", 
+                "poster": "https://image.tmdb.org/t/p/original/yfDlOwiFFyKUvwmIgutqsHLBF4o.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-06", 
+                "originalName": "Migration", 
+                "id": "movie.940551", 
+                "backdrop": "https://image.tmdb.org/t/p/original/meyhnvssZOPPjud4F1CjOb4snET.jpg", 
+                "name": "Raus aus dem Teich"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Familie", 
+                    "Fantasy", 
+                    "Abenteuer"
+                ], 
+                "description": "Asha (Stimme im Original: Ariana DeBose), ein 17 Jahre altes sowie durch und durch optimistisches M\u00e4dchen mit einem scharfen Verstand und einer gro\u00dfen Hingabe an ihre Lieben, lebt im sogenannten K\u00f6nigreich der W\u00fcnsche, in dem tats\u00e4chlich buchst\u00e4blich jeder Wunsch in Erf\u00fcllung gehen kann. In einem Moment der Verzweiflung schickt sie einen Wunsch in Richtung Himmel, der von einer kosmischen Kraft beantwortet wird: einem kleinen Ball aus unendlicher Energie namens Star (Alan Tudyk). Obwohl Star ein kleiner Unruhestifter ist, begibt er sich mit Asha und ihrer Ziege Valentino (auch Alan Tudyk) auf eine abenteuerliche Reise durch unterschiedliche Welten, um ihre Gemeinschaft zu retten. Gemeinsam stellen sie sich mit dem b\u00f6sen K\u00f6nig Magnifico (Chris Pine) dem gr\u00f6\u00dften aller Feinde und beweisen, dass der Wunsch einer entschlossenen Person in Verbindung mit der Magie der Sterne Wunder bewirken kann...", 
+                "poster": "https://image.tmdb.org/t/p/original/atzu3qKX14DpwobGLbZjsLsqRKE.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-13", 
+                "originalName": "Wish", 
+                "id": "movie.1022796", 
+                "backdrop": "https://image.tmdb.org/t/p/original/ehumsuIBbgAe1hg343oszCLrAfI.jpg", 
+                "name": "Wish"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Drama", 
+                    "Science Fiction", 
+                    "Action"
+                ], 
+                "description": "Jahre bevor er der tyrannische Pr\u00e4sident von Panem werden w\u00fcrde, ist der 18-j\u00e4hrige Coriolanus Snow die letzte Hoffnung f\u00fcr seine verblassende Abstammung, eine einst stolze Familie, die in einem Nachkriegskapitol in Ungnade gefallen ist. Da die 10. j\u00e4hrlichen Hungerspiele immer n\u00e4her r\u00fccken, ist der junge Snow alarmiert, als er als Mentor f\u00fcr Lucy Gray Baird eingesetzt wird, die M\u00e4dchenehrung aus dem verarmten Distrikt 12. Aber nachdem Lucy Gray die ganze Aufmerksamkeit von Panem auf sich gezogen hat, indem sie w\u00e4hrend der Erntezeremonie trotzig singt, glaubt Snow, dass er in der Lage sein k\u00f6nnte, die Chancen zu ihren Gunsten zu wenden. Snow und Lucy vereinen ihren Instinkt f\u00fcr Selbstdarstellung und ihr neu entdecktes politisches Geschick. Ihr \u00dcberlebensrennen gegen die Zeit beginnt, um letztendlich zu enth\u00fcllen, wer ein Singvogel und wer eine Schlange ist.", 
+                "poster": "https://image.tmdb.org/t/p/original/qgHE7tTrDLknCuldxpRjnBuGc5J.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-15", 
+                "originalName": "The Hunger Games: The Ballad of Songbirds & Snakes", 
+                "id": "movie.695721", 
+                "backdrop": "https://image.tmdb.org/t/p/original/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg", 
+                "name": "Die Tribute von Panem - The Ballad of Songbirds and Snakes"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Kom\u00f6die"
+                ], 
+                "description": "Dan Morgan ist vieles: Hingebungsvoller Ehemann, liebender Vater und sehr erfolgreicher Autoverk\u00e4ufer. Er ist aber auch ein ehemaliger Attent\u00e4ter. Als ihn seine Vergangenheit einholt, ist er gezwungen, seine v\u00f6llig ahnungslose Familie auf einen Roadtrip mitzunehmen, der seinesgleichen sucht.", 
+                "poster": "https://image.tmdb.org/t/p/original/9yRoQ8cRfJjsZHRq1Oud3eDzWIY.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-14", 
+                "originalName": "The Family Plan", 
+                "id": "movie.1029575", 
+                "backdrop": "https://image.tmdb.org/t/p/original/r9oTasGQofvkQY5vlUXglneF64Z.jpg", 
+                "name": "The Family Plan"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Science Fiction", 
+                    "Drama", 
+                    "Action"
+                ], 
+                "description": "Vor Jahren strandete Kora (Sofia Boutella) in einem Raumschiff auf dem Mond Veldt irgendwo am Rande des Universums. Die Einheimischen nahmen sie freundlich auf, bef\u00fcrchteten aber schon immer, dass Kora von einer Welt stammt, mit der sie lieber niemals Kontakt haben w\u00fcrden. Sie sollen Recht behalten, denn eines Tages taucht der grausame Admiral Noble (Ed Skrein) auf, ein Abgesandter des tyrannischen Imperium-Herrschers Balisarius (Fra Fee), der Veldt unterjochen und ausbeuten m\u00f6chte, wie er es schon auf vielen weiteren Planeten und Monden zuvor getan hat. Doch die Invasoren haben ihre Rechnung ohne die k\u00e4mpferische Kora gemacht, die urspr\u00fcnglich aus ihren eigenen Reihen stammt. Gemeinsam mit dem kriegerisch g\u00e4nzlich unerfahrenen Bauern Gunnar (Michiel Huisman) bricht sie zu verschiedenen Nachbargestirnen auf, um die dortigen Bewohner davon zu \u00fcberzeugen, sich einer Rebellion gegen das Imperium anzuschlie\u00dfen.", 
+                "poster": "https://image.tmdb.org/t/p/original/AcVoxtYpS44n35BFfJdO6E3ozmU.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-15", 
+                "originalName": "Rebel Moon - Part One: A Child of Fire", 
+                "id": "movie.848326", 
+                "backdrop": "https://image.tmdb.org/t/p/original/sRLC052ieEzkQs9dEtPMfFxYkej.jpg", 
+                "name": "Rebel Moon - Teil 1: Kind des Feuers"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Thriller"
+                ], 
+                "description": "Ein Terror-Anschlag droht. Es sind nur noch 90 Minuten, um ihn zu stoppen. Der gefangene Terrorist Amin Mansur ist der Schl\u00fcssel. Doch daf\u00fcr muss ihn Navy Seal Jake Harris nach Washington bringen. Der Elitesoldat, der gerade erst die brenzligen Ereignisse in einer Geheimeinrichtung in Polen \u00fcberstanden hat, findet sich so schnell im n\u00e4chsten adrenalingetriebenen \u00dcberlebenskampf wieder. Denn Terroristen st\u00fcrmen den Flughafen und bringen ihn unter ihre Kontrolle. Irgendwie muss Harris mit seinem Gefangenen im Schlepptau entkommen. Denn bald wird sich zeigen, dass er nicht auf Hilfe von au\u00dfen hoffen kann.\r Sequel zum ohne sichtbaren Schnitt gedrehten Action-Kracher \u201eOne Shot\u201c.", 
+                "poster": "https://image.tmdb.org/t/p/original/ohdzJYj7WWmH8IpfOAINDhxmW9x.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-12", 
+                "originalName": "One More Shot", 
+                "id": "movie.1214314", 
+                "backdrop": "https://image.tmdb.org/t/p/original/ay0PJQZizDXk0pzhoGX4v7K9h7A.jpg", 
+                "name": "One More Shot"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Action", 
+                    "Abenteuer", 
+                    "Familie", 
+                    "Fantasy"
+                ], 
+                "description": "Tom ist ein normaler Junge, der sich pl\u00f6tzlich in einer f\u00fcr ihn neuen Welt wiederfindet, als sich herausstellt, dass seine exzentrische Gro\u00dfmutter, mit der er in San Franciscos Chinatown lebt, die H\u00fcterin des Ph\u00f6nix-Eies ist. Nachdem seine Gro\u00dfmutter w\u00e4hrend eines Kampfes ums Leben kommt und in einem Geisterkarren entf\u00fchrt wird, muss Tom bei einem ungew\u00f6hnlichen Mentor \u2013 einem Tiger namens Mr. Hu \u2013 in die Lehre gehen, um uralte Magie zu erlernen und der neue Besch\u00fctzer des Eies zu werden. Er verb\u00fcndet sich mit einer Gruppe von anderen, die ihre menschliche Gestalt in exotischer Kreaturen verwandeln k\u00f6nnen, die jeweils ein anderes Zeichen des chinesischen Tierkreises darstellen. Gemeinsam nehmen sie mit ihren besonderen F\u00e4higkeiten den Kampf gegen eine globale Bedrohung auf.", 
+                "poster": "https://image.tmdb.org/t/p/original/y9gBpTicAHNdXxZHUGudNtMjROZ.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-02-02", 
+                "originalName": "The Tiger's Apprentice", 
+                "id": "movie.598387", 
+                "backdrop": "https://image.tmdb.org/t/p/original/acpFrSmVLnTNAIuHxnZArkC3dwU.jpg", 
+                "name": "Die Legende des Tigers"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Kom\u00f6die", 
+                    "Liebesfilm"
+                ], 
+                "description": "Emma hat einen wundervollen Ehemann und zwei Kinder in einem Vorort von New Jersey. Aber sie f\u00fchrt auch ein geheimes Leben als Auftragskillerin \u2013 ein Geheimnis, hinter das ihr Mann David kommt, als die beiden beschlie\u00dfen, ihre Ehe mit einem kleinen Rollenspiel aufzupeppen und sich in einem Hotel vergn\u00fcgen wollen. Denn dort trachten dunkle Gestalten nach Emmas Leben. Um ihre Familie nicht in Gefahr zu bringen, nimmt sie die Beine in die Hand und flieht nach Berlin. Dort will sie sich ihren Verfolgern stellen. So einfach ist das jedoch nicht, denn David ist ihr hinterhergereist und steckt deshalb pl\u00f6tzlich selbst mit mitten im Chaos.", 
+                "poster": "https://image.tmdb.org/t/p/original/oI7b0ruxc5M7dqnU4amkVP0HUB0.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-04", 
+                "originalName": "Role Play", 
+                "id": "movie.848187", 
+                "backdrop": "https://image.tmdb.org/t/p/original/yl2GfeCaPoxChcGyM5p7vYp1CKS.jpg", 
+                "name": "Role Play"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Thriller"
+                ], 
+                "name": "The Bricklayer", 
+                "poster": "https://image.tmdb.org/t/p/original/36pYugctLa70NmwMEgXTR1G31Kq.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-14", 
+                "originalName": "The Bricklayer", 
+                "id": "movie.927107", 
+                "backdrop": "https://image.tmdb.org/t/p/original/47SVqaO02doJ06tOmrjiWDkwU3T.jpg"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Abenteuer", 
+                    "Thriller", 
+                    "Krimi", 
+                    "Drama"
+                ], 
+                "description": "Vom legend\u00e4ren Regisseur John Woo und dem Produzenten von John Wick kommt diese d\u00fcstere Rachegeschichte eines gequ\u00e4lten Vaters (Joel Kinnaman) der mit ansehen muss, wie sein kleiner Sohn stirbt, als er an Heiligabend in das Kreuzfeuer einer Bande ger\u00e4t. W\u00e4hrend er sich von einer Wunde erholt, die ihn seine Stimme kostet, macht er die Rache zu seiner Lebensaufgabe und beginnt ein hartes Trainingsprogramm, um den Tod seines Sohnes zu r\u00e4chen.", 
+                "poster": "https://image.tmdb.org/t/p/original/grsmso8W2aos5u7OEMBEwqVuzsR.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-30", 
+                "originalName": "Silent Night", 
+                "id": "movie.891699", 
+                "backdrop": "https://image.tmdb.org/t/p/original/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg", 
+                "name": "Silent Night - Stumme Rache"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Thriller"
+                ], 
+                "name": "The Painter", 
+                "poster": "https://image.tmdb.org/t/p/original/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-05", 
+                "originalName": "The Painter", 
+                "id": "movie.1211957", 
+                "backdrop": "https://image.tmdb.org/t/p/original/6OnoMgGFuZ921eV8v8yEyXoag19.jpg"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Familie", 
+                    "Kom\u00f6die", 
+                    "Fantasy"
+                ], 
+                "description": "Ein Junge mit lebhafter Fantasie stellt sich auf einer unvergesslichen Reise durch die Nacht mit seinem neuen Freund \u2013 einem l\u00e4chelnden Riesen namens Dunkel \u2013 seinen \u00c4ngsten.", 
+                "poster": "https://image.tmdb.org/t/p/original/g3wgFBfefln7x0mZBETRVn6vySP.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-02-02", 
+                "originalName": "Orion and the Dark", 
+                "id": "movie.1139829", 
+                "backdrop": "https://image.tmdb.org/t/p/original/zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg", 
+                "name": "Orion und das Dunkel"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Kom\u00f6die"
+                ], 
+                "description": "Um f\u00fcr seine Familie da zu sein, hat Mason Pettis (John Cena) seine Karriere bei den Rangers der US-Army auf Eis gelegt. Jetzt verdient er sich seine Br\u00f6tchen als Anwalt \u2013 aber das auch nur mehr schlecht als recht. Auch seine Ehe hat schon einmal bessere Tage gesehen. Doch dann wird er in Versuchung gef\u00fchrt: Ein alter Kamerad hat einen interessanten Job im Angebot. Er schl\u00e4gt ein und arbeitet fortan als Sicherheitskraft f\u00fcr die Investigativjournalistin Claire Wellington (Alison Brie). Diese Ma\u00dfnahme scheint notwendig geworden zu sein, nachdem sie den s\u00fcdamerikanischen Despoten Venegas (Juan Pablo Raba) im Interview gegrillt hat. Doch Petit ist kaum aus dem Flugzeug gestiegen, da inszeniert das Milit\u00e4r einen brutalen Coup. Pl\u00f6tzlich geht es also um Leben und Tod und f\u00fcr Petit, Wellington und Venegas bleibt wohl nur die Flucht in den Dschungel. Die drei m\u00fcssen gegen Natur, Armee und sich selbst k\u00e4mpfen, um in dieser lebensfeindlichen Umgebung zu \u00fcberleben.", 
+                "poster": "https://image.tmdb.org/t/p/original/qLlDXvCRlqMpz5THtYg54XlvuPR.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-10-05", 
+                "originalName": "Freelance", 
+                "id": "movie.897087", 
+                "backdrop": "https://image.tmdb.org/t/p/original/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg", 
+                "name": "Freelance"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Historie", 
+                    "Kriegsfilm", 
+                    "Action", 
+                    "Drama"
+                ], 
+                "description": "Ein pers\u00f6nlicher Einblick in das Leben und den schnellen Aufstieg des franz\u00f6sischen Heerf\u00fchrers zum Kaiser. Die Geschichte wird mit Blick auf die ungesunde, instabile Beziehung von Napoleon zu seiner Frau und einzigen wahren Liebe Josephine erz\u00e4hlt.", 
+                "poster": "https://image.tmdb.org/t/p/original/1y1uLayrfqLcywpCgHPeTwNCIoy.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-22", 
+                "originalName": "Napoleon", 
+                "id": "movie.753342", 
+                "backdrop": "https://image.tmdb.org/t/p/original/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg", 
+                "name": "Napoleon"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Krimi", 
+                    "Thriller", 
+                    "Action"
+                ], 
+                "name": "Palido - Revenge will find you", 
+                "poster": "https://image.tmdb.org/t/p/original/35Uef7fz9ctYbJLXbJBCqvtttEQ.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-24", 
+                "originalName": "Due Justice", 
+                "id": "movie.982940", 
+                "backdrop": "https://image.tmdb.org/t/p/original/1BFLsVxE1NzCIwicfOPtzzB4Kxh.jpg"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Abenteuer", 
+                    "Thriller"
+                ], 
+                "description": "Der brutale Terrorist Rahmat will sich in einer libyschen Chemie-Waffenfabrik von Gaddafi Z\u00fcnder f\u00fcr eine Atombombe unter den Nagel rei\u00dfen. Der CIA-Agent Marsh schick daraufhin die bis an die Z\u00e4hne bewaffneten Expendables von Barney Ross los, um dem \u00dcbelt\u00e4ter das Handwerk zu legen. F\u00fcr Ross ist der Auftrag pers\u00f6nlich motiviert, da Rahmat Auftraggeber das Phantom Ozelot sein soll, welches der S\u00f6ldner-Boss schon seit \u00fcber zwei Jahrzehnten jagt. Doch der Einsatz in Libyen endet in einer Katastrophe. Rahmat kann nicht nur mit den Z\u00fcndern entkommen, auch Lee Christmas fliegt aus dem Team, weil er f\u00fcr das Scheitern der Mission verantwortlich gemacht wird. W\u00e4hrend die Expendables nun auf junges Blut bauen, ausgerechnet unter der Leitung von Christmas' Freundin Gina, macht sich die britische Kampfmaschine auf eigene Faust auf den Weg, den Dritten Weltkrieg zu verhindern.", 
+                "poster": "https://image.tmdb.org/t/p/original/p1TCV7St44sjwunaGSQ73vdFFkS.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-09-15", 
+                "originalName": "Expend4bles", 
+                "id": "movie.299054", 
+                "backdrop": "https://image.tmdb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg", 
+                "name": "The Expendables 4"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Drama", 
+                    "Historie"
+                ], 
+                "description": "Als dem Physiker Julius Robert Oppenheimer w\u00e4hrend des Zweiten Weltkriegs die wissenschaftliche Leitung des Manhattan-Projekts \u00fcbertragen wird, k\u00f6nnen er und seine Ehefrau Kitty sich nicht vorstellen, welche Auswirkungen Oppenheimers Arbeit nicht nur auf ihr Leben, sondern auf die ganze Welt haben wird. Im Los Alamos National Laboratory in New Mexico sollen er und sein Team unter der Aufsicht von Lt. Leslie Groves eine Nuklearwaffe entwickeln\u00a0\u2013 was ihnen auch gelingt. Oppenheimer wird zum \u201eVater der Atombombe\u201c ausgerufen, doch dass seine t\u00f6dliche Erfindung bald folgenschwer in Hiroshima und Nagasaki eingesetzt wird, l\u00e4sst Oppenheimer Abstand von dem Projekt nehmen. Als der Krieg zu Ende geht, setzt sich Robert Oppenheimer als Berater der US-amerikanischen Atomenergiebeh\u00f6rde, die von Lewis Strauss mitbegr\u00fcndet wurde, f\u00fcr eine internationale Kontrolle von Kernenergie und gegen ein nukleares Wettr\u00fcsten ein\u00a0\u2013 und ger\u00e4t ins Visier des FBI.", 
+                "poster": "https://image.tmdb.org/t/p/original/9AiHV08v8RyyuHcO5wuTaTXBxfe.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-07-19", 
+                "originalName": "Oppenheimer", 
+                "id": "movie.872585", 
+                "backdrop": "https://image.tmdb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg", 
+                "name": "Oppenheimer"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Kom\u00f6die", 
+                    "Liebesfilm"
+                ], 
+                "description": "Bea und Ben wirken wie das perfekte Paar. Aber nach einem tollen ersten Date geschieht etwas, das ihre gl\u00fchend hei\u00dfe Anziehungskraft zu Eis erstarren l\u00e4sst. Doch dann treffen sie unerwartet wieder aufeinander, als beide an einer Hochzeit in Australien teilnehmen. Also tun sie, was jeder reife Erwachsene tun w\u00fcrde \u2013 sie geben vor, ein Paar zu sein.", 
+                "poster": "https://image.tmdb.org/t/p/original/rmwyNfdTKWc5DKdgztCy2Etc1HM.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-21", 
+                "originalName": "Anyone But You", 
+                "id": "movie.1072790", 
+                "backdrop": "https://image.tmdb.org/t/p/original/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg", 
+                "name": "Wo die L\u00fcge hinf\u00e4llt"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Horror"
+                ], 
+                "description": "Nachdem ein junges Paar in einem Diner am Stra\u00dfenrand Fleisch bestellt haben, werden sie gekidnappt und von ihren Peinigern wie Farmtiere behandelt\u2026", 
+                "poster": "https://image.tmdb.org/t/p/original/7nPMR3QU5vl7cEmB1LE6O6yliCg.jpg", 
+                "writer": [], 
+                "releaseDate": "2019-04-19", 
+                "originalName": "The Farm", 
+                "id": "movie.517764", 
+                "backdrop": "https://image.tmdb.org/t/p/original/7Bl98JC4kGe62ORuFIsFtWtcIA2.jpg", 
+                "name": "The Farm"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Drama", 
+                    "Historie"
+                ], 
+                "description": "Am 13. Oktober 1972 st\u00fcrzt der Flug 571 der uruguayischen Luftwaffe, der eine Rugbymannschaft nach Chile bringen sollte, auf einen Gletscher im Herzen der Anden.", 
+                "poster": "https://image.tmdb.org/t/p/original/n4q8a3Kt0264lZ05fHr3wjeAJzO.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-13", 
+                "originalName": "La sociedad de la nieve", 
+                "id": "movie.906126", 
+                "backdrop": "https://image.tmdb.org/t/p/original/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg", 
+                "name": "Die Schneegesellschaft"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Thriller", 
+                    "Action", 
+                    "Drama"
+                ], 
+                "description": "Die 28-ja\u0308hrige Rucksacktouristin Malina erwacht orientierungslos in einem verriegelten Kofferraum. Mit ihrem Handy als einzige Verbindung zur Au\u00dfenwelt f\u00fchrt die intelligente, junge Frau einen verzweifelten Kampf ums U\u0308berleben, wa\u0308hrend das Fahrzeug unaufhaltsam einem schrecklichen Geheimnis entgegenrast.", 
+                "poster": "https://image.tmdb.org/t/p/original/sQ2FqmB98T8bAjhYHa3DIf2TS4H.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-24", 
+                "originalName": "Trunk: Locked In", 
+                "id": "movie.1183905", 
+                "backdrop": "https://image.tmdb.org/t/p/original/lVoHnqwfkDv4GHktEewBguhiNRn.jpg", 
+                "name": "Trunk: Locked In"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Abenteuer", 
+                    "Fantasy"
+                ], 
+                "description": "Ein kleiner Junge namens Mahito sehnt sich nach seiner Mutter wagt sich in eine Welt, die von den Lebenden und den Toten geteilt wird. Dort findet der Tod ein Ende, und das Leben findet einen neuen Anfang.", 
+                "poster": "https://image.tmdb.org/t/p/original/evG7UFxDdzWxSGDqOBJX2yJuC7j.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-07-14", 
+                "originalName": "\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b", 
+                "id": "movie.508883", 
+                "backdrop": "https://image.tmdb.org/t/p/original/a0GM57AnJtNi7lMOCamniiyV10W.jpg", 
+                "name": "Der Junge und der Reiher"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Abenteuer", 
+                    "Science Fiction"
+                ], 
+                "description": "Inmitten eines k\u00fcnftigen Krieges zwischen der Menschheit und den Kr\u00e4ften der k\u00fcnstlichen Intelligenz wird Joshua, ein abgekl\u00e4rter ehemaliger Special-Forces-Agent, der um seine verschwundene Frau trauert, rekrutiert, um den Creator zu jagen und zu t\u00f6ten. Der Creator, ein schwer fassbarer Architekt einer fortschrittlichen KI, entwickelte eine mysteri\u00f6se Waffe, die den Krieg zwar beenden kann, aber gleichzeitig auch die Menschheit komplett ausl\u00f6schen w\u00fcrde. Joshua und sein Team bestehend aus Elite-Agenten, durchqueren die feindlichen Linien und dringen in das dunkle Herz des von der KI besetzten Territoriums\u00a0\u2026 Nur um herauszufinden, dass die weltver\u00e4ndernde Waffe, die er zerst\u00f6ren soll, eine KI in Form eines kleinen Kindes ist.", 
+                "poster": "https://image.tmdb.org/t/p/original/lRAPk7DkuqRvBSKCjfMiprBN7hu.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-09-27", 
+                "originalName": "The Creator", 
+                "id": "movie.670292", 
+                "backdrop": "https://image.tmdb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg", 
+                "name": "The Creator"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Fantasy", 
+                    "Horror"
+                ], 
+                "name": "The Exorcism of Hannah Stevenson", 
+                "poster": "https://image.tmdb.org/t/p/original/so05qY0sDY0348bRg0tK9tSnnEq.jpg", 
+                "writer": [], 
+                "releaseDate": "2022-03-14", 
+                "originalName": "The Exorcism of Hannah Stevenson", 
+                "id": "movie.949567", 
+                "backdrop": "https://image.tmdb.org/t/p/original/iKVkmyDKUHOS7r0fkF7sWLArCsv.jpg"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Thriller", 
+                    "Krimi"
+                ], 
+                "description": "Robert McCall plagt das eigene Gewissen. Als Auftragsm\u00f6rder f\u00fcr die eigene Regierung hat er in der Vergangenheit viele Dinge tun m\u00fcssen, die er nun nicht mehr mit seinen Wertevorstellungen \u00fcbereinbringen kann. Im Killer-Ruhestand versuchte er deshalb immer wieder die Waage damit auszugleichen, Gerechtigkeit f\u00fcr die Unterdr\u00fcckten zu schaffen. Doch auch das scheint mittlerweile hinter McCall zu liegen, als er aus den USA auswandert und ein neues Leben im malerischen S\u00fcditalien beginnt. Doch schnell wird ihm klar, dass auch dort finstere M\u00e4chte das Sagen haben und aus dem Verborgenen heraus selbst die Strippen seiner neuen Freunde ziehen. Sein Geduldsfaden rei\u00dft endg\u00fcltig, als es pl\u00f6tzlich mehrere Tote gibt. Um seine Freunde vor dem gleichen Schicksal zu bewahren, muss er noch einmal aufmunitionieren und auf altbekannte Methoden zur\u00fcckgreifen. Denn hinter alledem steckt die Mafia.", 
+                "poster": "https://image.tmdb.org/t/p/original/6StOen1aNmVTnu31Atj6bWxorQZ.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-08-30", 
+                "originalName": "The Equalizer 3", 
+                "id": "movie.926393", 
+                "backdrop": "https://image.tmdb.org/t/p/original/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg", 
+                "name": "The Equalizer 3 - The Final Chapter"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Science Fiction", 
+                    "Liebesfilm", 
+                    "Kom\u00f6die"
+                ], 
+                "description": "Eine junge Frau namens Bella Baxter (Emma Stone) wird von dem unkonventionellen Wissenschaftler Dr. Godwin Baxter (Willem Dafoe) zur\u00fcck ins Leben gebracht. Unter F\u00fchrung des brillanten Wissenschaftlers begibt sich Bella auf eine Reise zu sich selbst, immer auf der Suche nach der Lebenserfahrung, die ihr bisher fehlt. Sie trifft dabei unter anderem auf Duncan Wedderburn (Mark Ruffalo), einen Anwalt, der ihr die Welt jenseits der Wissenschaft zeigt und mit ihr ein wildes Abenteuer \u00fcber mehrere Kontinente hinweg erlebt. Aber auch Baxters Student Max McCandless (Ramy Youssef) Leben \u00e4ndern sich pl\u00f6tzlich, als er auf Bella trifft und von ihr regelrecht mit- und aus seinem beh\u00fcteten Leben herausgerissen wird. Bella entdeckt St\u00fcck f\u00fcr St\u00fcck ihre Leidenschaft f\u00fcr soziale Gerechtigkeit und Befreiung und kann sich so auch ihrer eigenen Zw\u00e4nge entledigen, Vorurteile hinter sich lassen und sich immer und immer mehr ausleben.", 
+                "poster": "https://image.tmdb.org/t/p/original/jKyb0MKinNDbHF7WlBP4CE4KPAM.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-12-07", 
+                "originalName": "Poor Things", 
+                "id": "movie.792307", 
+                "backdrop": "https://image.tmdb.org/t/p/original/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg", 
+                "name": "Poor Things"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Abenteuer", 
+                    "Science Fiction"
+                ], 
+                "description": "Als eine neue Bedrohung auftaucht, die in der Lage ist, den gesamten Planeten zu zerst\u00f6ren, m\u00fcssen sich Optimus Prime und die Autobots mit einer m\u00e4chtigen Fraktion, den Maximals, zusammentun. Da das Schicksal der Menschheit auf dem Spiel steht, werden die Menschen Noah und Elena alles tun, um den Transformers in der ultimativen Schlacht zur Rettung der Erde zu helfen.", 
+                "poster": "https://image.tmdb.org/t/p/original/t87CjXc2GGWG5b3VEUKaKBWwjps.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-06-06", 
+                "originalName": "Transformers: Rise of the Beasts", 
+                "id": "movie.667538", 
+                "backdrop": "https://image.tmdb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg", 
+                "name": "Transformers: Aufstieg der Bestien"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Drama", 
+                    "Historie"
+                ], 
+                "description": "Der junge Rickey Hill (Jesse Berry) w\u00e4chst in \u00e4rmlichen Verh\u00e4ltnissen in einer texanischen Kleinstadt auf und zeigt eine au\u00dfergew\u00f6hnliche F\u00e4higkeit, einen Baseball zu schlagen, obwohl er aufgrund einer degenerativen Wirbels\u00e4ulenerkrankung mit Beinschienen belastet ist. Sein strenger, pastoraler Vater James (Dennis Quaid) r\u00e4t Rickey vom Baseballspielen ab, um ihn vor Verletzungen zu sch\u00fctzen und ihn dazu zu bringen, in seine Fu\u00dfstapfen zu treten und Prediger zu werden. Als junger Mann wird Rickey (Colin Ford) zu einem Baseball-Ph\u00e4nomen. Sein Wunsch, an einem Probetraining f\u00fcr einen legend\u00e4ren Major-League-Scout teilzunehmen, entzweit die Familie und bedroht Rickeys Traum vom Profi-Baseballspiel.", 
+                "poster": "https://image.tmdb.org/t/p/original/b4WGThb7SsXSVEuxsJ7WVSfe4PR.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-08-18", 
+                "originalName": "The Hill", 
+                "id": "movie.862557", 
+                "backdrop": "https://image.tmdb.org/t/p/original/puUUsAri2UchyJgsbkpO3HZfKiw.jpg", 
+                "name": "The Hill"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Horror", 
+                    "Kom\u00f6die", 
+                    "Thriller"
+                ], 
+                "description": "Arthur (Evan Marsh) und seine Clique stehen kurz davor, sich heute mal so richtig die Lichter auszuschie\u00dfen und morgen dann den schlimmsten Kater ihres jungen Lebens zu erleben. Schlie\u00dflich hat Arthur gerade das Internet erobert, indem er die Schallgrenze von drei Millionen Followern seines Online-Video-Channels durchbrochen hat. Wenn das kein Grund zum Feiern ist. Doch dann besitzt das Universum tats\u00e4chlich die Frechheit, ihm sein Jubelfest und die sch\u00f6ne Partystimmung zu verderben. Was ist passiert? Nicht weniger, als dass von einem Moment auf den n\u00e4chsten pl\u00f6tzlich und ohne Vorwarnung alles Wasser auf dem Planeten verschwunden ist \u2013 einfach weg! Zusammen mit seinen Freunden und einem verwundeten Polizisten (Trevor Hayes), den sie beim Pl\u00fcndern eines Supermarkts aufgelesen haben, findet sich der eben noch gefeierte Social-Media-Star nun inmitten eines apokalyptischen \u00dcberlebenskampfs.", 
+                "poster": "https://image.tmdb.org/t/p/original/1On8iF3AsFIbpyfZg1xiGWMAFBn.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-24", 
+                "originalName": "Skal - Fight for Survival", 
+                "id": "movie.1211483", 
+                "backdrop": "https://image.tmdb.org/t/p/original/w12jjv5XNNpHgM4he1COnfWiA93.jpg", 
+                "name": "Skal - Fight for Survival"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Mystery", 
+                    "Thriller", 
+                    "Horror"
+                ], 
+                "description": "Naomi ist eine erfahrene Weltumseglerin und Tauchlehrerin, die sich auf eine Solo-Reise begibt, um ihren Freund Jackson in Grenada zu treffen. Ihre relativ entspannte dreit\u00e4gige Fahrt auf der 47-Fu\u00df-Yacht \"The Serenity\" nimmt jedoch eine unerwartet dunkle Wendung, als ein Sturm sie von ihrem geplanten Kurs abbringt. Nach dem Abflauen des Sturms zieht Naomi zwei Schiffbr\u00fcchige aus dem Meer. Schon bald stellt sich heraus, dass die beiden Gangster sind, die auf der Suche nach einer im Meer versenkten Kokainladung sind und ihre Retterin f\u00fcr die Bergung zu missbrauchen.", 
+                "poster": "https://image.tmdb.org/t/p/original/oyXpIvk1vASdgAzm80dl0gkAe6Z.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-10-18", 
+                "originalName": "Deep Fear", 
+                "id": "movie.899445", 
+                "backdrop": "https://image.tmdb.org/t/p/original/dvNrgldueQciabkYmlCnyhmaPoO.jpg", 
+                "name": "Deep Fear - Tauch um dein Leben!"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Krimi", 
+                    "Thriller"
+                ], 
+                "description": "Dominic Toretto ahnt nicht, dass seine Taten, die Jahre zur\u00fcckliegen, tiefe Spuren bei dem mittlerweile m\u00e4chtigen Dante hinterlassen haben. Dieser sinnt nun auf Rache und will die ganze Toretto-Familie auseinanderbringen. Es entbrennt eine Rachegeschichte, die alle Mitglieder der Original-Crew, aber auch Deckard Shaw, Bruder Jakob sowie den Neuzugang Tess auf den Plan ruft. Diese haben fortan alle H\u00e4nde zu tun, um sich gegen den Gegenspieler sowie dessen Gefolgschaft samt Cipher und Aimes zur Wehr setzen zu k\u00f6nnen. Da Dom nicht jeden aus der gro\u00dfen Familie besch\u00fctzen kann und der rachs\u00fcchtige Rivale vor nichts zur\u00fcckschreckt, wird er vor die schwierigste Wahl seines Lebens gestellt: Wen wird er retten?", 
+                "poster": "https://image.tmdb.org/t/p/original/t1vPsJUBsh3gkgkZlqDNmCPyy49.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-05-17", 
+                "originalName": "Fast X", 
+                "id": "movie.385687", 
+                "backdrop": "https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg", 
+                "name": "Fast & Furious 10"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Abenteuer", 
+                    "Science Fiction"
+                ], 
+                "description": "Als sein Versuch, seine Familie zu retten, unbeabsichtigt die Zukunft ver\u00e4ndert, ger\u00e4t Barry Allen in eine Realit\u00e4t, in der General Zod zur\u00fcckgekehrt ist und es keine Superhelden gibt, an die er sich wenden k\u00f6nnte. Um die Welt, in der er sich befindet, zu retten und in die Zukunft zur\u00fcckzukehren, die er kennt, besteht Barrys einzige Hoffnung darin, um sein Leben zu rennen.", 
+                "poster": "https://image.tmdb.org/t/p/original/tuPAjzS42xDG0LHxTTr4Kma0KOo.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-06-13", 
+                "originalName": "The Flash", 
+                "id": "movie.298618", 
+                "backdrop": "https://image.tmdb.org/t/p/original/yF1eOkaYvwiORauRCPWznV9xVvi.jpg", 
+                "name": "The Flash"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Krimi", 
+                    "Drama", 
+                    "Thriller"
+                ], 
+                "description": "Jake Rosser (Aaron Eckhart), K-9-Officer beim LAPD, ger\u00e4t mit seinem vierbeinigen Partner Ace auf den Stra\u00dfen von Los Angeles in eine Schie\u00dferei mit Drogendealern. Als sein Hund dabei t\u00f6dlich verletzt wird, verliert er die Kontrolle und wird vom Dienst suspendiert. Von seinen Vorgesetzten daran gehindert, die Identit\u00e4t des Sch\u00fctzen herauszufinden, beschlie\u00dft Jake, auf eigene Faust zu ermitteln. Daf\u00fcr schlie\u00dft er sich mit Socks zusammen, einem ungest\u00fcmen Polizeihund mit einer mysteri\u00f6sen Vergangenheit.", 
+                "poster": "https://image.tmdb.org/t/p/original/rhn21eNyiwPI5jP04SZUfCrheNj.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-09-29", 
+                "originalName": "Muzzle", 
+                "id": "movie.939335", 
+                "backdrop": "https://image.tmdb.org/t/p/original/su7FqHdZez0oOvpZAbV7P6BGq0R.jpg", 
+                "name": "Muzzle - K-9 Narcotics Unit"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Thriller", 
+                    "Krimi"
+                ], 
+                "description": "Der Auftragskiller John Wick setzt seinen Kampf gegen die \"Hohe Kammer\" fort, w\u00e4hrend das Kopfgeld auf ihn steigt. Er will die m\u00e4chtigsten Spieler der Unterwelt ausfindig machen und reist von New York \u00fcber Paris und Japan bis nach Berlin.", 
+                "poster": "https://image.tmdb.org/t/p/original/uDFv0wYODTdRUvljRMs3LaX9nq3.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-03-22", 
+                "originalName": "John Wick: Chapter 4", 
+                "id": "movie.603692", 
+                "backdrop": "https://image.tmdb.org/t/p/original/7FKaeoJnCaXIzU30E98BpVAmYJM.jpg", 
+                "name": "John Wick: Kapitel 4"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Thriller", 
+                    "Krimi"
+                ], 
+                "description": "Als Matt Turner (Liam Neeson) seine Kinder zur Schule f\u00e4hrt, erh\u00e4lt er einen Anruf. Eine mysteri\u00f6se Stimme warnt ihn, dass sein Fahrzeug mit Sprengstoff pr\u00e4pariert ist. Daraufhin muss er die Befehle des unbekannten Angreifers befolgen, um die explosive Ladung nicht hochgehen zu lassen. Dabei muss er nicht nur sein, sondern auch das Leben seiner Familie retten, die sich mit ihm im Fahrzeug befindet.", 
+                "poster": "https://image.tmdb.org/t/p/original/hnvWDzthl2kGHqAFTKvjAs8P6Mc.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-08-23", 
+                "originalName": "Retribution", 
+                "id": "movie.762430", 
+                "backdrop": "https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg", 
+                "name": "Retribution"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Drama"
+                ], 
+                "name": "Radical", 
+                "poster": "https://image.tmdb.org/t/p/original/eSatbygYZp8ooprBHZdb6GFZxGB.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-10-19", 
+                "originalName": "Radical", 
+                "id": "movie.1058694", 
+                "backdrop": "https://image.tmdb.org/t/p/original/p9DKeXp6FPJtAQ1k13Z4zPWrCbN.jpg"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Horror", 
+                    "Thriller"
+                ], 
+                "description": "Das Fotografenpaar Anne und Patrick Caulder setzt eine mysteri\u00f6se Verkettung von Ereignissen in Gang, als sie zusammen mit ihrem jungen Sohne Lukas an Board des ber\u00fchmten und geschichtstr\u00e4chtigen Passagierschiffes Queen Mary kommen. Diese scheinen irgendwie in Verbindung zur Vergangenheit des Schiffes zu stehen, in der offenbar zahlreiche dunkle Geheimnisse verborgen sind. Pl\u00f6tzlich findet sich die Familie also inmitten schrecklichen Terrors wieder und muss mit der sich St\u00fcck f\u00fcr St\u00fcck offenbarenden Wahrheit umgehen: Der glamour\u00f6sen Geschichte des Luxusdampfers liegt jede Menge Gewalt zugrunde...", 
+                "poster": "https://image.tmdb.org/t/p/original/6S2ZVPL2ff2hhwtkyNslMNHZUgX.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-07-19", 
+                "originalName": "Haunting of the Queen Mary", 
+                "id": "movie.977013", 
+                "backdrop": "https://image.tmdb.org/t/p/original/t2D8aSCB7Dp3kBznVjPnecCxwqX.jpg", 
+                "name": "The Queen Mary"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Action", 
+                    "Fantasy", 
+                    "Abenteuer"
+                ], 
+                "description": "Ein Samurai begegnet einer jungen Kellnerin, deren Heimatstadt von einem Drachen zerst\u00f6rt wurde. Er will eigentlich keine Schwierigkeiten \u2013 die Schwierigkeiten finden ihn einfach.", 
+                "poster": "https://image.tmdb.org/t/p/original/iD52HAoSkazjndqw3IznE8lQuGv.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-21", 
+                "originalName": "MONSTERS \u4e00\u767e\u4e09\u60c5\u98db\u9f8d\u4f8d\u6975", 
+                "id": "movie.1230393", 
+                "backdrop": "https://image.tmdb.org/t/p/original/upDUDOlpGBPGwV6A4vs0y2Whzg0.jpg", 
+                "name": "Monsters 103 Mercies Dragon Damnation"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Kom\u00f6die", 
+                    "Action", 
+                    "Krimi"
+                ], 
+                "description": "Die zur\u00fcckgezogene Bestseller-Autorin Elly Conway arbeitet an einem neuen Teil ihrer beliebten Roman-Reihe \u00fcber den eleganten Superspion Argylle. Doch pl\u00f6tzlich offenbart ihr der Geheimagent Aiden, dass ihre Geschichten Auswirkungen auf die reale Welt haben. W\u00e4hrend sie von ihrer Katze Alfie begleitet wird, geraten Elly und Aiden immer tiefer in eine globale Spionage-Verschw\u00f6rung, bei der die Grenzen zwischen Realit\u00e4t und Fiktion verschwimmen.", 
+                "poster": "https://image.tmdb.org/t/p/original/oP1NddtndvCM5oqtcNieIJtRdpa.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-31", 
+                "originalName": "Argylle", 
+                "id": "movie.848538", 
+                "backdrop": "https://image.tmdb.org/t/p/original/8te0oIAuUOxi03RbM1SfL3xUYHB.jpg", 
+                "name": "Argylle"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Science Fiction", 
+                    "Horror"
+                ], 
+                "description": "Jonas Taylor und sein Kollege leiten ein Forschungsteam, das einen nicht ganz ungef\u00e4hrlichen Tauchgang plant, der das Team rund um die beiden in bisher kaum erkundete Tiefen des Ozeans f\u00fchren soll. G\u00e4nzlich ungest\u00f6rt bleiben die Meeresforscher auf ihrer waghalsigen Mission jedoch nicht. Denn auch ein knallhart kompromisslos vorgehendes Unternehmen f\u00fcr Unterwasser-Bergbau hat bei der Suche nach wertvollen und noch abbaubaren Rohstoffen ein Auge auf die noch unausgebeuteten Tiefen geworfen. Doch als gleich mehrere der Meg genannten riesigen Urzeithaie aus den finsteren Ecken der ozeanischen Untiefen auftauchen, scheint der Konflikt mit dem gierigen Konzern im wahrsten Sinne des Wortes auf einmal eher das kleinste Problem zu sein. Der Kampf ums schiere \u00dcberleben beginnt und entwickelt sich schnell zu einem Rennen an die rettende Oberfl\u00e4che.", 
+                "poster": "https://image.tmdb.org/t/p/original/f5JwC0zhq0nnPQfOeS8CvdRCIHR.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-08-02", 
+                "originalName": "Meg 2: The Trench", 
+                "id": "movie.615656", 
+                "backdrop": "https://image.tmdb.org/t/p/original/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg", 
+                "name": "Meg 2 - Die Tiefe"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Science Fiction", 
+                    "Abenteuer"
+                ], 
+                "description": "Jaime hat die Nase voll davon, sich und seine Familie mit Aushilfsjobs \u00fcber Wasser zu halten. Da kommt ihm ein Vorstellungsgespr\u00e4ch beim Konzern Kord Industries gerade recht, das ihm seine Bekannte Jenny Kord verschafft hat. Doch anstatt ihm einen Job anzubieten, dr\u00fcckt ihm Jenny kurzerhand einen Burger-Karton in die Hand und schickt ihn wieder nach Hause. Dort stellen Jaime, seine Schwester Milagro, seine Eltern Alberto und Rocio sowie sein Onkel Rudy fest, dass sich in der Box ein mysteri\u00f6ser blauer Skarab\u00e4us befindet. Der setzt sich nicht nur an Jaimes Wirbels\u00e4ule fest, sondern kommuniziert auch mit ihm, h\u00fcllt ihn in eine blaue Hightech-R\u00fcstung ein und fliegt mit ihm in die Umlaufbahn.", 
+                "poster": "https://image.tmdb.org/t/p/original/h4BoV9d1rNIWfjlTwZtNbaCkGwn.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-08-16", 
+                "originalName": "Blue Beetle", 
+                "id": "movie.565770", 
+                "backdrop": "https://image.tmdb.org/t/p/original/xzdOIL7261CWehsHOk3lnP0xqam.jpg", 
+                "name": "Blue Beetle"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Kom\u00f6die"
+                ], 
+                "description": "Als der ehemalige Football-Star Jaycen \u201eTwo Js\u201c Jennings einen schweren Autounfall verursacht, wird er von einer Richterin zur Strafe zu gemeinn\u00fctziger Arbeit verdonnert. Jennings soll ein Junior-Football-Team trainieren, das ausschlie\u00dflich aus Sch\u00fclern aus problematischen Verh\u00e4ltnissen besteht. Darauf hat der vom Leben bisher verw\u00f6hnte Ex-Profi zun\u00e4chst nat\u00fcrlich \u00fcberhaupt keine Lust. Doch nachdem er seinen vor\u00fcbergehenden neuen Job angetreten hat, wachsen ihm nach so mancher Startschwierigkeit die Kids immer mehr ans Herz und sein Werdegang scheint die lange ben\u00f6tigte Wende zu nehmen.", 
+                "poster": "https://image.tmdb.org/t/p/original/wj1VRcVsh39nkxLkZP8tuGd96tc.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-25", 
+                "originalName": "The Underdoggs", 
+                "id": "movie.1007826", 
+                "backdrop": "https://image.tmdb.org/t/p/original/dT1bXXEd7cfuVsB7CMvOKYiRZWl.jpg", 
+                "name": "The Underdoggs"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Thriller", 
+                    "Action"
+                ], 
+                "description": "In der d\u00fcsteren Landschaft des Mississippi-Deltas versucht ein K\u00e4figk\u00e4mpfer mit blo\u00dfen F\u00e4usten, seine Schulden zu begleichen, und unternimmt einen letzten, verzweifelten Versuch, das Haus seiner sterbenden Pflegemutter zu retten.", 
+                "poster": "https://image.tmdb.org/t/p/original/iyabmPdMfJdMbHBOuvL4itCzgrW.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-03", 
+                "originalName": "Rumble Through the Dark", 
+                "id": "movie.844416", 
+                "backdrop": "https://image.tmdb.org/t/p/original/rb3QQ2TQfJoCpCZlfXBlBbzYy1D.jpg", 
+                "name": "Rumble Through the Dark"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Thriller", 
+                    "Drama"
+                ], 
+                "description": "Der hochschwangeren Mia und ihrem Mann Nico ist die Flucht aus ihrem totalit\u00e4ren Heimatstaat gegl\u00fcckt. \u00dcber den Seeweg wollen sie ein anderes Land erreichen und sich dort eine bessere Zukunft aufbauen. Doch die beiden werden w\u00e4hrend eines schlimmen Sturms getrennt und Mia ist danach in dem Container, in dem sie sich versteckt hatten, auf sich allein gestellt. F\u00fchrerlos und ohne Nahrung treibt sie darin \u00fcbers Meer \u2013 wird es ihr gelingen, ihr eigenes Leben und das ihrer Tochter zu retten und ihren geliebten Nico wieder in die Arme zu schlie\u00dfen?", 
+                "poster": "https://image.tmdb.org/t/p/original/rNnYvr43E0sz8RRiKirwWi4xk3D.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-09-29", 
+                "originalName": "Nowhere", 
+                "id": "movie.1151534", 
+                "backdrop": "https://image.tmdb.org/t/p/original/xvzxqKWltnj6qSiWBXRq6ZCdcrw.jpg", 
+                "name": "Nirgendwo"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Kriegsfilm"
+                ], 
+                "description": "Britannien, 60 nach Christus: Boudica regiert gemeinsam mit ihrem Ehemann Prasutagus das keltische Volk der Icener. Nach dem heimt\u00fcckischen Mord an Prasutagus ist das K\u00f6nigreich ohne m\u00e4nnlichen Erben und die r\u00f6mische Armee besetzt kurzerhand das Land. Verzweifelt und gedem\u00fctigt sinnt Boudica auf Rache. In ihrer neuen Rolle als Kriegerk\u00f6nigin verb\u00fcndet sie sich mit anderen St\u00e4mmen und zettelt einen beispiellosen Krieg gegen das R\u00f6mische Reich an. K\u00f6nnen die schlecht bewaffneten Kelten unter Boudicas F\u00fchrung tats\u00e4chlich gegen die straff organisierte fremde Kriegsmacht bestehen?", 
+                "poster": "https://image.tmdb.org/t/p/original/hNswFdwjwffsQldkzivmIs4sjYm.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-10-26", 
+                "originalName": "Boudica", 
+                "id": "movie.975902", 
+                "backdrop": "https://image.tmdb.org/t/p/original/tj7mp7uWjVw5N73G5Hwm1bkMOcD.jpg", 
+                "name": "Boudica - Aufstand gegen Rom"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Horror"
+                ], 
+                "description": "Der ehemalige Baseballspieler Ray Waller, der durch eine degenerative Krankheit in den Ruhestand gezwungen wurde, zieht mit seiner Frau und seinen beiden Kindern in ein neues Haus. Er hofft, dass der Swimmingpool im Garten den Kindern Spa\u00df macht und ihm selbst als Physiotherapie dient. Doch ein dunkles Geheimnis aus der Vergangenheit des Hauses entfesselt bald eine b\u00f6sartige Kraft, die die Familie in die Tiefen des unausweichlichen Terrors zieht.", 
+                "poster": "https://image.tmdb.org/t/p/original/oMTLaL89TMgKyHMZSrLYtz8CR7W.jpg", 
+                "writer": [], 
+                "releaseDate": "2024-01-03", 
+                "originalName": "Night Swim", 
+                "id": "movie.1072342", 
+                "backdrop": "https://image.tmdb.org/t/p/original/klb3yODwKMRle19EcvdeSatEZL7.jpg", 
+                "name": "Night Swim"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Science Fiction", 
+                    "Abenteuer", 
+                    "Action"
+                ], 
+                "description": "Mehr als zehn Jahre nach den Ereignissen des ersten Films haben Jake und Neytiri eine Familie gegr\u00fcndet. Ihre Kinder sind Neteyam, Lo\u2019ak und Tuktirey, der adoptierte Menschenjunge Miles \u201cSpider\u201d Socorro und die adoptierte Na\u2019vi-Teenagerin Kiri. Doch ihre Heimat ist weiterhin nicht sicher - das m\u00fcssen sie feststellen, als die Resources Development Administration (RDA) unter F\u00fchrung von General Ardmore mit noch mehr Milit\u00e4r und einem alten Bekannten nach Pandora zur\u00fcckkehrt, um den Planeten zur neuen Heimat der Menschheit zu machen. Bald sehen sich Neytiri, Jake und ihre Familie gezwungen, ihr Zuhause zu verlassen und beim Na\u2019vi-Stamm der Metkayina Zuflucht zu suchen, der an den K\u00fcsten und Meeren des Mondes Pandora lebt und von der schwangeren Ronal und ihrem Mann Tonowari angef\u00fchrt wird.", 
+                "poster": "https://image.tmdb.org/t/p/original/dsBpvG4m0uOerBOuNITL9rvaD0I.jpg", 
+                "writer": [], 
+                "releaseDate": "2022-12-14", 
+                "originalName": "Avatar: The Way of Water", 
+                "id": "movie.76600", 
+                "backdrop": "https://image.tmdb.org/t/p/original/8rpDcsfLJypbO6vREc0547VKqEv.jpg", 
+                "name": "Avatar: The Way of Water"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Action", 
+                    "Drama"
+                ], 
+                "description": "Tim Ballard (Jim Caviezel) arbeitet als Special Agent f\u00fcr die Regierung der Vereinigten Staaten von Amerika. F\u00fcr das Department of Homeland Security, dem Ministerium f\u00fcr die Innere Sicherheit, k\u00e4mpft er gegen den internationalen Kinder- und Menschenhandel. Doch trotz aller Erfolge desillusioniert ihn der scheinbar nie enden wollende Strom an grausamen Verbrechen zunehmend. Das Fass zum \u00dcberlaufen bringt schlie\u00dflich der Fall von Miguel (Lucas \u00c1vila). Ballard befreit den kleinen Jungen in Honduras aus den F\u00e4ngen eiskalter Kinderh\u00e4ndler und muss dabei jedoch erfahren, dass die Verbrecher immer noch dessen Schwester Roc\u00edo (Cristal Aparicio) festhalten. Er schmei\u00dft daraufhin seinen Regierungsjob hin und begibt sich auf eigene Faust mitten in den Dschungel von Kolumbien, wo die Menschenh\u00e4ndler die kleine Roc\u00edo gefangen halten und Ballard mit aller Waffengewalt davon abhalten wollen, das M\u00e4dchen zu retten.", 
+                "poster": "https://image.tmdb.org/t/p/original/6p14KPxwZRcL773cQRupwnFaQ4P.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-07-03", 
+                "originalName": "Sound of Freedom", 
+                "id": "movie.678512", 
+                "backdrop": "https://image.tmdb.org/t/p/original/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg", 
+                "name": "Sound of Freedom"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Familie", 
+                    "Musik", 
+                    "Fantasy", 
+                    "Kom\u00f6die"
+                ], 
+                "description": "Zwei Filme lang waren Poppy und Branch unzertrennlich. In \u00abTrolls \u2013 Gemeinsam stark\u00bb wird aus den besten Freunden nun endlich offiziell ein Paar. Eines Tages entdeckt Poppy, dass Branch eine geheime Vergangenheit hat: Er war einst mit seinen vier Br\u00fcdern Floyd, John Dory, Spruce und Clay Teil der erfolgreichen Boyband BroZone. Die Gruppe l\u00f6ste sich allerdings auf, als Branch noch klein war. Seither hat er seine Br\u00fcder nicht mehr gesehen. Als Branchs Bruder Floyd von den beiden Popstar-B\u00f6sewichten Velvet und Veneer entf\u00fchrt wird, die es auf sein musikalisches Talent abgesehen haben, begeben sich Branch und Poppy auf eine turbulente Reise, um die BroZone-Br\u00fcder wieder zu vereinen \u2013 und nat\u00fcrlich haben die Trolls dabei immer den passenden Song parat!", 
+                "poster": "https://image.tmdb.org/t/p/original/eLc4T7uFKR9pWWdCVP5D9x5o20y.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-10-12", 
+                "originalName": "Trolls Band Together", 
+                "id": "movie.901362", 
+                "backdrop": "https://image.tmdb.org/t/p/original/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg", 
+                "name": "Trolls - Gemeinsam stark"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Abenteuer", 
+                    "Action", 
+                    "Drama"
+                ], 
+                "description": "Eine wahre Geschichte eines jugendlichen Gran Turismo-Spielers wird erz\u00e4hlt, wie aus ihm ein echter professioneller Rennfahrer wird. \u00dcber eine Reihe H\u00e4rtetests von Nissan-Wettbewerben geht sein gr\u00f6\u00dfter Wunsch in Erf\u00fcllung.", 
+                "poster": "https://image.tmdb.org/t/p/original/p326HzS4sraShiQu6NsvG70pOe6.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-08-09", 
+                "originalName": "Gran Turismo", 
+                "id": "movie.980489", 
+                "backdrop": "https://image.tmdb.org/t/p/original/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg", 
+                "name": "Gran Turismo"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Kom\u00f6die", 
+                    "Familie"
+                ], 
+                "description": "Die 74-j\u00e4hrige Eidechse Leo lebt schon so lange er denken kann, eingesperrt in dem Terrarium einer Grundschule in Florida. Sein Leben sieht dementsprechend unspektakul\u00e4r aus. Zumindest hat er seinen besten Freud, eine alte Schildkr\u00f6te an seiner Seite, mit der er die meiste Zeit des Tages verbringt. Als er eines Tages erf\u00e4hrt, dass er nicht mehr lange leben wird, entscheidet er sich aus dem Terrarium auszubrechen, um das echte Leben in Freiheit genie\u00dfen zu k\u00f6nnen. Die \u00e4ngstlichen Sch\u00fcler, die schnell merken, dass in dem Terrarium etwas vor sich geht, aber auch ein gemeiner und argw\u00f6hnischer Vertretungslehrer machen das ganze Unterfangen aber nicht gerade einfach. Daraufhin muss ein pr\u00e4zise durchdachter Fluchtplan her.", 
+                "poster": "https://image.tmdb.org/t/p/original/k2G7VFsoVCgv2PfS6oKDmK8wvqg.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-11-17", 
+                "originalName": "Leo", 
+                "id": "movie.1075794", 
+                "backdrop": "https://image.tmdb.org/t/p/original/auXrHU6O17n9Tz11SHReoorjrU6.jpg", 
+                "name": "Leo"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Thriller", 
+                    "Science Fiction", 
+                    "Action"
+                ], 
+                "description": "Nachdem der Blogger Franklin Fox bei einer Produktpr\u00e4sentation des vision\u00e4ren Unternehmers Anton Burrell ein Attentat auf den Tech-Guru vereitelt hat, findet er einen mysteri\u00f6sen Ring, der es seinem Tr\u00e4ger erm\u00f6glicht, 57 Sekunden zur\u00fcck in die Vergangenheit zu reisen. Als Franklin seine neu gewonnene Macht erkennt, nutzt er sie von Rache getrieben, um das Pharmaunternehmen zu zerschlagen, das er f\u00fcr den Tod seiner Schwester verantwortlich macht. Doch die kurzen Zeitreisen l\u00f6sen eine Verkettung schrecklicher Ereignisse aus, die ihn zu einem \u00dcberlebenskampf zwingen, bei dem jede Sekunde z\u00e4hlt.", 
+                "poster": "https://image.tmdb.org/t/p/original/maY6wEd1axlP89er5ltyAtcEmRB.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-09-29", 
+                "originalName": "57 Seconds", 
+                "id": "movie.937249", 
+                "backdrop": "https://image.tmdb.org/t/p/original/wcEGMvOzCPjPABa4jbTDF2UOx53.jpg", 
+                "name": "57 Seconds"
+            }, 
+            {
+                "director": [], 
+                "genres": [
+                    "Animation", 
+                    "Familie", 
+                    "Abenteuer", 
+                    "Fantasy", 
+                    "Kom\u00f6die"
+                ], 
+                "description": "Bei unterirdischen Reparaturarbeiten werden die Klempner Mario und Luigi durch eine geheimnisvolle R\u00f6hre in eine magische neue Welt gesaugt. Als die Br\u00fcder dort getrennt werden, begibt Mario sich auf eine gigantische Reise, um Luigi zu finden. Mit der Unterst\u00fctzung des Pilzk\u00f6nigreichbewohners Toad und dank eines Trainings von Princess Peach, der willensstarken Herrscherin des Pilzk\u00f6nigreiches, entdeckt Mario dabei ungeahnte Kr\u00e4fte in sich.", 
+                "poster": "https://image.tmdb.org/t/p/original/2VhvUgsFKIjBm9NHXeeVqkPtUqe.jpg", 
+                "writer": [], 
+                "releaseDate": "2023-04-05", 
+                "originalName": "The Super Mario Bros. Movie", 
+                "id": "movie.502356", 
+                "backdrop": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg", 
+                "name": "Der Super Mario Bros. Film"
+            }
+        ], 
+        "next": "movie.popular.null.4"
+    }
+}
