@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Verzeichnis">
+		<setting label="Speicher Pfad" type="folder"   id="speicher_pfad" default=""/>
+		<setting label="Wiederherstellungs favourites.bak" type="file"   id="re_pfad" default=""/>
+    </category>
+</settings>
