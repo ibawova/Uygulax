@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol></defaultcontrol>
+	<controls>
+		<control type="group" id="1">
+			<visible>[Player.ShowInfo | Window.IsActive(VideoOSD) | Window.IsVisible(DialogSeekbar.xml)] + ![Window.IsVisible(OSDVideoSettings) | Window.IsVisible(OSDAudioSettings) | Window.IsVisible(OSDSubtitleSettings) | Window.IsVisible(VideoBookmarks) | Window.IsVisible(PVROSDChannels) | Window.IsVisible(PVRChannelGuide) | Window.IsVisible(SliderDialog)]</visible>
+			<control type="image" id="1">
+				<left>-100</left>
+				<top>500</top>
+				<width>110%</width>
+				<height>600</height>
+				<texture>special://skin/media/shadow1.png</texture>
+			</control>
+			<control type="group" id="1">
+				<visible>Player.ShowInfo</visible>
+				<visible>!Player.Paused</visible>
+				<!--<control type="image" id="1">
+					<left>0</left>
+					<top>0</top>
+					<width>1920</width>
+					<height>1080</height>
+					<texture>special://skin/media/shadow.png</texture>
+				</control>-->
+				<!--<control type="group" id="1">
+					<animation effect="fade" start="20" time="1500" condition="Player.ShowInfo" pulse="true">Conditional</animation>
+					<control type="image" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<right>180</right>
+						<top>70</top>
+						<width>50</width>
+						<height>50</height>
+						<texture colordiffuse="black">osd/info.png</texture>
+					</control>
+					<control type="image" id="1">
+						<right>180</right>
+						<top>68</top>
+						<width>50</width>
+						<height>50</height>
+						<texture>osd/info.png</texture>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<right>108</right>
+						<top>82</top>
+						<width>500</width>
+						<height>27</height>
+						<font>kai.primary</font>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<align>right</align>
+						<aligny>center</aligny>
+						<label>[B]INFO![/B]</label>
+					</control>
+					<control type="label" id="1">
+						<right>110</right>
+						<top>80</top>
+						<width>500</width>
+						<height>27</height>
+						<font>kai.primary</font>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<align>right</align>
+						<aligny>center</aligny>
+						<label>[B]INFO![/B]</label>
+					</control>
+				</control>-->
+				<control type="group" id="1">
+				<visible>!Skin.HasSetting(VideoOSDHideInfo)</visible>
+					<control type="group" id="1">
+					<visible>!Skin.HasSetting(TMDbVideo)</visible>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>223</left>
+							<top>608</top>
+							<width>303</width>
+							<height>301</height>
+							<texture colordiffuse="black">$INFO[Window(Home).Property(TMDbHelper.ListItem.clearart)]</texture>
+							<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>220</left>
+							<top>605</top>
+							<width>301</width>
+							<height>301</height>
+							<texture>$INFO[Window(Home).Property(TMDbHelper.ListItem.clearart)]</texture>
+							<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>223</left>
+							<top>608</top>
+							<width>303</width>
+							<height>303</height>
+							<texture colordiffuse="black">$INFO[Window(Home).Property(TMDbHelper.ListItem.clearlogo)]</texture>
+							<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>220</left>
+							<top>605</top>
+							<width>301</width>
+							<height>301</height>
+							<texture>$INFO[Window(Home).Property(TMDbHelper.ListItem.clearlogo)]</texture>
+							<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+					</control>	
+					<control type="image" id="1"><!--Fallback-->
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>223</left>
+						<top>608</top>
+						<width>303</width>
+						<height>303</height>
+						<texture colordiffuse="black">$INFO[Player.Art(clearart)]</texture>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="image" id="1"><!--Fallback-->
+						<left>220</left>
+						<top>605</top>
+						<width>301</width>
+						<height>301</height>
+						<texture>$INFO[Player.Art(clearart)]</texture>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="image" id="1"><!--Fallback-->
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>223</left>
+						<top>608</top>
+						<width>303</width>
+						<height>303</height>
+						<texture colordiffuse="black">$INFO[Player.Art(clearlogo)]</texture>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearlogo))</visible>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="image" id="1"><!--Fallback-->
+						<left>220</left>
+						<top>605</top>
+						<width>301</width>
+						<height>301</height>
+						<texture>$INFO[Player.Art(clearlogo)]</texture>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearlogo))</visible>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="group" id="1">
+					<visible>Skin.HasSetting(TMDbVideo)</visible>
+					<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+						<control type="image" id="1"><!--Fallback-->
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>223</left>
+							<top>608</top>
+							<width>303</width>
+							<height>303</height>
+							<texture colordiffuse="black">$INFO[Player.Art(clearart)]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1"><!--Fallback-->
+							<left>220</left>
+							<top>605</top>
+							<width>301</width>
+							<height>301</height>
+							<texture>$INFO[Player.Art(clearart)]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1"><!--Fallback-->
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>223</left>
+							<top>608</top>
+							<width>303</width>
+							<height>303</height>
+							<texture colordiffuse="black">$INFO[Player.Art(clearlogo)]</texture>
+							<visible>String.IsEmpty(Player.Art(clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1"><!--Fallback-->
+							<left>220</left>
+							<top>605</top>
+							<width>301</width>
+							<height>301</height>
+							<texture>$INFO[Player.Art(clearlogo)]</texture>
+							<visible>String.IsEmpty(Player.Art(clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>223</left>
+							<top>708</top>
+							<width>303</width>
+							<height>303</height>
+							<texture colordiffuse="black">$INFO[Player.Art(thumb)]</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>VideoPlayer.Content(LiveTV)</visible>
+						</control>
+						<control type="image" id="1">
+							<left>220</left>
+							<top>706</top>
+							<width>301</width>
+							<height>301</height>
+							<texture>$INFO[Player.Art(thumb)] | $INFO[ListItem.Art(fanart)]</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>VideoPlayer.Content(LiveTV)</visible>
+						</control>
+					</control>
+					<control type="image" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>223</left>
+						<top>708</top>
+						<width>303</width>
+						<height>303</height>
+						<texture colordiffuse="black">$INFO[Player.Art(thumb)] | $INFO[ListItem.Art(fanart)]</texture>
+						<aspectratio>keep</aspectratio>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearlogo))</visible>
+					</control>
+					<control type="image" id="1">
+						<left>220</left>
+						<top>706</top>
+						<width>301</width>
+						<height>301</height>
+						<texture>$INFO[Player.Art(thumb)] | $INFO[ListItem.Art(fanart)]</texture>
+						<aspectratio>keep</aspectratio>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearlogo))</visible>
+					</control>
+
+					<control type="textbox" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<visible>Window.IsVisible(VideoOSD.xml)</visible>
+						<left>613</left>
+						<top>808</top>
+						<width>1140</width>
+						<height>100</height>
+						<font>font12</font>
+						<align>justify</align>
+						<aligny>top</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Plot]</label>
+						<autoscroll time="2000" delay="8000" repeat="10000">true</autoscroll>
+					</control>
+					<control type="textbox" id="1">
+					<visible>Window.IsVisible(VideoFullscreen.xml)</visible>
+						<left>610</left>
+						<top>806</top>
+						<width>1140</width>
+						<height>100</height>
+						<font>font12</font>
+						<align>justify</align>
+						<aligny>top</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Plot]</label>
+						<autoscroll time="2000" delay="8000" repeat="10000">true</autoscroll>
+					</control>
+					<control type="group" id="1">
+						<left>886</left>
+						<top>758</top>
+						<!--<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<visible>!VideoPlayer.Content(LiveTV)</visible>
+							<left>98</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.VideoResolution,flags/resolution/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>96</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.VideoResolution,flags/resolution/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>189</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.VideoCodec,flags/videocodec/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>187</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.VideoCodec,flags/videocodec/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>280</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.AudioCodec,flags/audio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>!String.Contains(Player.FilenameAndPath,.atmos)</visible>
+						</control>
+						<control type="image" id="1">
+							<left>278</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.AudioCodec,flags/audio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>!String.Contains(Player.FilenameAndPath,.atmos)</visible>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>280</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">flags/audio/atmos.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>[String.Contains(VideoPlayer.AudioCodec,eac3) | String.Contains(VideoPlayer.AudioCodec,truehd)] + String.Contains(Player.FilenameAndPath,.atmos)</visible>
+						</control>
+						<control type="image" id="1">
+							<left>278</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>flags/audio/atmos.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>[String.Contains(VideoPlayer.AudioCodec,eac3) | String.Contains(VideoPlayer.AudioCodec,truehd)] + String.Contains(Player.FilenameAndPath,.atmos)</visible>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>373</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.AudioChannels,flags/audio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>371</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.AudioChannels,flags/audio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>466</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.VideoAspect,flags/aspectratio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>464</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.VideoAspect,flags/aspectratio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>559</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">flags/resolution/HDR.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>String.Contains(Player.FilenameAndPath,HDR)</visible>
+						</control>
+						<control type="image" id="1">
+							<left>557</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>flags/resolution/HDR.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>String.Contains(Player.FilenameAndPath,HDR)</visible>
+						</control>-->
+					</control>
+				</control>
+			</control>
+			<control type="group" id="1">
+				<visible>Player.Paused</visible>
+				<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+				<control type="image" id="1">
+					<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+					<left>0</left>
+					<top>0</top>
+					<width>1920</width>
+					<height>1080</height>
+					<texture>backgrounds/fade.png</texture>
+				</control>
+				<control type="image" id="1">
+					<animation effect="fade" start="20" time="2500" condition="Player.Paused" pulse="true">Conditional</animation>
+					<visible>!Skin.HasSetting(Shadow)</visible>
+					<left>892</left>
+					<top>372</top>
+					<width>100</width>
+					<height>100</height>
+					<texture colordiffuse="black">popcorn.png</texture>
+					<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+				</control>
+				<control type="image" id="1">
+					<animation effect="fade" start="20" time="2500" condition="Player.Paused" pulse="true">Conditional</animation>
+					<left>890</left>
+					<top>370</top>
+					<width>100</width>
+					<height>100</height>
+					<texture>popcorn.png</texture>
+					<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+				</control>
+				<control type="group" id="1">
+					<animation effect="fade" start="20" time="2500" condition="Player.Paused" pulse="true">Conditional</animation>
+						<top>500</top>
+						<left>700</left>
+					<!--<control type="image" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>0</left>
+						<top>-10</top>
+						<width>60</width>
+						<height>60</height>
+						<texture colordiffuse="black">osd/pause.png</texture>
+						<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+					</control>
+					<control type="image" id="1">
+						<left>0</left>
+						<top>-10</top>
+						<width>50</width>
+						<height>50</height>
+						<texture colordiffuse="white">osd/pause.png</texture>
+						<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+					</control>-->
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+						<left>68</left>
+						<top>2</top>
+						<width>500</width>
+						<height>27</height>
+						<font>kai.primary</font>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<align>left</align>
+						<aligny>center</aligny>
+						<label>[B]PAUSE![/B] Gleich geht's weiter.....</label>
+					</control>
+					<control type="label" id="1">
+						<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+						<left>70</left>
+						<top>0</top>
+						<width>500</width>
+						<height>27</height>
+						<font>kai.primary</font>
+						<textcolor>white</textcolor>$INFO[Skin.String(color.500)]
+						<shadowcolor>black</shadowcolor>
+						<align>left</align>
+						<aligny>center</aligny>
+						<label>[B]PAUSE![/B] Gleich geht's weiter.....</label>
+					</control>
+				</control>
+				<control type="group" id="1">
+				<visible>!Skin.HasSetting(VideoOSDHideInfo)</visible>
+				<visible>Player.Paused</visible>
+				<visible>!Window.IsVisible(VideoOSD.xml)</visible>
+					<control type="group" id="1">
+					<visible>!Skin.HasSetting(TMDbVideo)</visible>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>223</left>
+							<top>608</top>
+							<width>303</width>
+							<height>303</height>
+							<texture colordiffuse="black">$INFO[Window(Home).Property(TMDbHelper.ListItem.clearart)]</texture>
+							<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>220</left>
+							<top>605</top>
+							<width>301</width>
+							<height>301</height>
+							<texture>$INFO[Window(Home).Property(TMDbHelper.ListItem.clearart)]</texture>
+							<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>223</left>
+							<top>608</top>
+							<width>303</width>
+							<height>303</height>
+							<texture colordiffuse="black">$INFO[Window(Home).Property(TMDbHelper.ListItem.clearlogo)]</texture>
+							<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>220</left>
+							<top>605</top>
+							<width>301</width>
+							<height>301</height>
+							<texture>$INFO[Window(Home).Property(TMDbHelper.ListItem.clearlogo)]</texture>
+							<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+							<aspectratio>keep</aspectratio>
+						</control>
+					</control>	
+					<control type="image" id="1"><!--Fallback-->
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>223</left>
+						<top>608</top>
+						<width>303</width>
+						<height>303</height>
+						<texture colordiffuse="black">$INFO[Player.Art(clearart)]</texture>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="image" id="1"><!--Fallback-->
+						<left>220</left>
+						<top>605</top>
+						<width>301</width>
+						<height>301</height>
+						<texture>$INFO[Player.Art(clearart)]</texture>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="image" id="1"><!--Fallback-->
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>223</left>
+						<top>608</top>
+						<width>303</width>
+						<height>303</height>
+						<texture colordiffuse="black">$INFO[Player.Art(clearlogo)]</texture>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearlogo))</visible>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="image" id="1"><!--Fallback-->
+						<left>220</left>
+						<top>605</top>
+						<width>301</width>
+						<height>301</height>
+						<texture>$INFO[Player.Art(clearlogo)]</texture>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearlogo))</visible>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="group" id="1">
+					<visible>Player.Paused</visible>
+					<visible>Skin.HasSetting(TMDbVideo)</visible>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>223</left>
+							<top>708</top>
+							<width>303</width>
+							<height>303</height>
+							<texture colordiffuse="black">$INFO[Player.Art(thumb)]</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+							<visible>VideoPlayer.Content(LiveTV)</visible>
+						</control>
+						<control type="image" id="1">
+							<left>220</left>
+							<top>706</top>
+							<width>301</width>
+							<height>301</height>
+							<texture>$INFO[Player.Art(thumb)]</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+							<visible>VideoPlayer.Content(LiveTV)</visible>
+						</control>
+					</control>
+					<control type="image" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<visible>Player.Paused</visible>
+						<left>223</left>
+						<top>708</top>
+						<width>303</width>
+						<height>303</height>
+						<texture colordiffuse="black">$INFO[Player.Art(thumb)]</texture>
+						<aspectratio>keep</aspectratio>
+						<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearlogo))</visible>
+					</control>
+					<control type="image" id="1">
+					<visible>Player.Paused</visible>
+						<left>221</left>
+						<top>706</top>
+						<width>301</width>
+						<height>301</height>
+						<texture>$INFO[Player.Art(thumb)]</texture>
+						<aspectratio>keep</aspectratio>
+						<visible>Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml) | Window.IsVisible(DialogSeekBar.xml)</visible>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearart))</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.clearlogo))</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>663</left>
+						<top>568</top>
+						<width>940</width>
+						<height>60</height>
+						<font>menu.title</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Tagline)]</label>
+						<visible>Player.Paused</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Tagline))</visible>
+					</control>			
+					<control type="label" id="1">
+						<left>662</left>
+						<top>566</top>
+						<width>940</width>
+						<height>60</height>
+						<font>menu.title</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>$INFO[Skin.String(color.500)]</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Tagline)]</label>
+						<visible>Player.Paused</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Tagline))</visible>
+					</control>
+					<control type="label" id="1"><!--Fallback-->
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>663</left>
+						<top>568</top>
+						<width>940</width>
+						<height>60</height>
+						<font>menu.title</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Tagline]</label>
+						<visible>!Player.Paused</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Tagline))</visible>
+					</control>			
+					<control type="label" id="1"><!--Fallback-->
+						<left>662</left>
+						<top>566</top>
+						<width>940</width>
+						<height>60</height>
+						<font>menu.title</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>$INFO[Skin.String(color.500)]</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Tagline]</label>
+						<visible>!Player.Paused</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Tagline))</visible>
+					</control>
+					
+					<control type="textbox" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<visible>!Player.Paused</visible>
+						<left>613</left>
+						<top>664</top>
+						<width>940</width>
+						<height>158</height>
+						<font>font12</font>
+						<align>justify</align>
+						<aligny>top</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Plot]</label>
+						<visible>Window.IsVisible(VideoOSD.xml) | !Window.IsVisible(VideoFullScreen.xml)</visible>
+						<visible>String.IsEmpty(VideoPlayer.Plot)</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Plot))</visible>
+
+					</control>
+					<control type="textbox" id="1">
+						<left>610</left>
+						<top>662</top>
+						<width>940</width>
+						<height>158</height>
+						<font>font12</font>
+						<align>justify</align>
+						<aligny>top</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Plot]</label>
+						<visible>Window.IsVisible(VideoOSD.xml) | !Window.IsVisible(VideoFullScreen.xml)</visible>
+						<visible>!Player.Paused</visible>
+						<visible>String.IsEmpty(VideoPlayer.Plot)</visible>
+						<visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Plot))</visible>
+
+					</control>
+					<control type="textbox" id="1"><!--Fallback-->
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>613</left>
+						<top>664</top>
+						<width>940</width>
+						<height>158</height>
+						<font>font12</font>
+						<align>justify</align>
+						<aligny>top</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Plot]</label>
+						<visible>Player.Paused</visible>
+						<visible>!Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml)</visible>
+						<visible>String.IsEmpty(VideoPlayer.Plot)</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Plot))</visible>
+
+					</control>
+					<control type="textbox" id="1"><!--Fallback-->
+						<left>610</left>
+						<top>662</top>
+						<width>940</width>
+						<height>158</height>
+						<font>font12</font>
+						<align>justify</align>
+						<aligny>top</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Plot]</label>
+						<visible>Player.Paused</visible>
+						<visible>!Window.IsVisible(VideoOSD.xml) | Window.IsVisible(VideoFullScreen.xml)</visible>
+						<visible>String.IsEmpty(VideoPlayer.Plot)</visible>
+						<visible>String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Plot))</visible>
+
+					</control>
+					
+					<control type="group" id="1">
+						<left>856</left>
+						<top>656</top>
+						<!--<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>98</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.VideoResolution,flags/resolution/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>96</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.VideoResolution,flags/resolution/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>189</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.VideoCodec,flags/videocodec/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>187</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.VideoCodec,flags/videocodec/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>280</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.AudioCodec,flags/audio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>!String.Contains(Player.FilenameAndPath,.atmos)</visible>
+						</control>
+						<control type="image" id="1">
+							<left>278</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.AudioCodec,flags/audio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>!String.Contains(Player.FilenameAndPath,.atmos)</visible>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>280</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">flags/audio/atmos.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>[String.Contains(VideoPlayer.AudioCodec,eac3) | String.Contains(VideoPlayer.AudioCodec,truehd)] + String.Contains(Player.FilenameAndPath,.atmos)</visible>
+						</control>
+						<control type="image" id="1">
+							<left>278</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>flags/audio/atmos.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>[String.Contains(VideoPlayer.AudioCodec,eac3) | String.Contains(VideoPlayer.AudioCodec,truehd)] + String.Contains(Player.FilenameAndPath,.atmos)</visible>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>373</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.AudioChannels,flags/audio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>371</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.AudioChannels,flags/audio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>466</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">$INFO[VideoPlayer.VideoAspect,flags/aspectratio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<left>464</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>$INFO[VideoPlayer.VideoAspect,flags/aspectratio/,.png]</texture>
+							<aspectratio>keep</aspectratio>
+						</control>
+						<control type="image" id="1">
+							<visible>!Skin.HasSetting(Shadow)</visible>
+							<left>559</left>
+							<top>2</top>
+							<width>86</width>
+							<height>33</height>
+							<texture colordiffuse="black">flags/resolution/HDR.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>String.Contains(Player.FilenameAndPath,HDR)</visible>
+						</control>
+						<control type="image" id="1">
+							<left>557</left>
+							<top>0</top>
+							<width>86</width>
+							<height>33</height>
+							<texture>flags/resolution/HDR.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>String.Contains(Player.FilenameAndPath,HDR)</visible>
+						</control>-->
+					</control>
+				</control>
+			</control>
+			<control type="group" id="1">
+				<left>20</left>
+				<width>1880</width>
+				<control type="group" id="1">
+					<top>-79</top>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>593</left>
+						<top>800</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font30</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B]$INFO[Player.Title][/B]</label>
+						<scroll>true</scroll>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+						<visible>!String.IsEmpty(VideoPlayer.Episode)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>590</left>
+						<top>798</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font30</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B]$INFO[Player.Title][/B]</label>
+						<scroll>true</scroll>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+						<visible>!String.IsEmpty(VideoPlayer.Episode)</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>593</left>
+						<top>800</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font30</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B]$INFO[Player.Title][/B]</label>
+						<scroll>true</scroll>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+						<visible>String.IsEmpty(VideoPlayer.Episode)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>590</left>
+						<top>798</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font30</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B]$INFO[Player.Title][/B]</label>
+						<scroll>true</scroll>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+						<visible>String.IsEmpty(VideoPlayer.Episode)</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>591</left>
+						<top>780</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font30</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B]$INFO[Player.Title][/B] </label>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<scroll>true</scroll>
+					</control>
+					<control type="label" id="1">
+						<left>588</left>
+						<top>778</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font30</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B]$INFO[Player.Title][/B]</label>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<scroll>true</scroll>
+					</control>
+					<!--<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>630</left>
+						<top>923</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font12</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B][COLORwhite]$INFO[VideoPlayer.Season,Staffel: ] $INFO[VideoPlayer.Episode,Episode: ] $INFO[VideoPlayer.NextTitle,Als nächstes: ][/COLOR][/B]</label>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>-->
+					<control type="label" id="1">
+						<left>588</left>
+						<top>1000</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font12</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B][COLORwhite]$INFO[VideoPlayer.Season,Staffel: ] $INFO[VideoPlayer.Episode,Episode: ] $INFO[VideoPlayer.NextTitle,Als nächstes: ][/COLOR][/B]</label>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<visible>Window.IsVisible(VideoOSD.xml)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>588</left>
+						<top>1000</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font12</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B][COLORwhite]$INFO[VideoPlayer.Season,Staffel: ] $INFO[VideoPlayer.Episode,Episode: ] $INFO[VideoPlayer.NextTitle,Als nächstes: ][/COLOR][/B]</label>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<visible>Window.IsVisible(VideoFullScreen.xml)</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>590</left>
+						<top>666</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font12</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Season,Staffel: ] $INFO[VideoPlayer.Episode,Episode: ]</label>
+						<scroll>true</scroll>
+						<visible>!String.IsEmpty(VideoPlayer.Episode)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>590</left>
+						<top>664</top>
+						<width>1000</width>
+						<height>60</height>
+						<font>font12</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Season,Staffel: ] $INFO[VideoPlayer.Episode,Episode: ]</label>
+						<scroll>true</scroll>
+						<visible>!String.IsEmpty(VideoPlayer.Episode)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+				</control>
+					<control type="progress" id="1">
+					<visible>!VideoPlayer.Content(LiveTV)</visible>
+					<left>330</left>
+					<top>928</top>
+					<width>1250</width>
+					<height>8</height>
+					<info>Player.ProgressCache</info>
+					<midtexture colordiffuse="button.nf">backgrounds/white.png</midtexture>
+				</control>
+				<control type="progress" id="1">
+					<visible>!VideoPlayer.Content(LiveTV)</visible>
+					<left>330</left>
+					<top>933</top>
+					<width>1250</width>
+					<height>8</height>
+					<info>Player.Progress</info>
+					<texturebg colordiffuse="white">backgrounds/white.png</texturebg>
+				</control>
+				<control type="group" id="1">
+					<visible>!VideoPlayer.Content(LiveTV) | [VideoPlayer.Content(LiveTV) + VideoPlayer.HasEpg]</visible>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>192</left>
+						<top>910</top>
+						<width>100</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>right</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.StartTime(hh:mm:ss)] Uhr</label>
+						<visible>!String.IsEmpty(VideoPlayer.StartTime)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>189</left>
+						<top>907</top>
+						<width>100</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>right</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.StartTime(hh:mm:ss)] Uhr</label>
+						<visible>!String.IsEmpty(VideoPlayer.StartTime)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>188</left>
+						<top>910</top>
+						<width>120</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>right</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Time]</label>
+						<visible>!String.IsEmpty(VideoPlayer.Time)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>190</left>
+						<top>908</top>
+						<width>120</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>right</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.Time]</label>
+						<visible>!String.IsEmpty(VideoPlayer.Time)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<!--<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>192</left>
+						<top>884</top>
+						<right>190</right>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>center</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[PVR.TimeShiftOffset(hh:mm:ss), Timeshift ]</label>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>190</left>
+						<top>882</top>
+						<right>190</right>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>center</align>
+						<aligny>center</aligny>
+						<textcolor>$INFO[Skin.String(color.500)]</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[PVR.TimeShiftOffset(hh:mm:ss), [COLORwhite]Timeshift[/COLOR] ]</label>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>-->
+					<control type="label" id="1">
+						<left>-102</left>
+						<top>942</top>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>center</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B]$INFO[VideoPlayer.Duration(hh:mm:ss),Laufzeit: ][/B]</label>
+						<visible>!String.IsEmpty(VideoPlayer.Duration)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>-100</left>
+						<top>940</top>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>center</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>[B]$INFO[VideoPlayer.Duration(hh:mm:ss),Laufzeit: ][/B]</label>
+						<visible>!String.IsEmpty(VideoPlayer.Duration)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>288r</left>
+						<top>910</top>
+						<width>150</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.EndTime(hh:mm:ss)] Uhr</label>
+						<visible>!String.IsEmpty(VideoPlayer.EndTime)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>290r</left>
+						<top>907</top>
+						<width>150</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.EndTime(hh:mm:ss)] Uhr</label>
+						<visible>!String.IsEmpty(VideoPlayer.EndTime)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>288r</left>
+						<top>910</top>
+						<width>150</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[Player.FinishTime(hh:mm)] Uhr</label>
+						<visible>!String.IsEmpty(Player.FinishTime)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>290r</left>
+						<top>907</top>
+						<width>150</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[Player.FinishTime(hh:mm)] Uhr</label>
+						<visible>!String.IsEmpty(Player.FinishTime)</visible>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					
+					
+					<!--LiveTV-->
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>1240r</left>
+						<top>742</top>
+						<width>100</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.StartTime(hh:mm:ss)] </label>
+						<visible>!String.IsEmpty(VideoPlayer.StartTime)</visible>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>1240r</left>
+						<top>740</top>
+						<width>100</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[VideoPlayer.StartTime(hh:mm:ss)] </label>
+						<visible>!String.IsEmpty(VideoPlayer.StartTime)</visible>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>1038r</left>
+						<top>742</top>
+						<width>150</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>  $INFO[VideoPlayer.EndTime(hh:mm:ss)] </label>
+						<visible>!String.IsEmpty(VideoPlayer.EndTime)</visible>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>1040r</left>
+						<top>740</top>
+						<width>150</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>  $INFO[VideoPlayer.EndTime(hh:mm:ss)] </label>
+						<visible>!String.IsEmpty(VideoPlayer.EndTime)</visible>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="progress" id="1">
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+						<left>1158r</left>
+						<top>767</top>
+						<width>116</width>
+						<height>6</height>
+						<info>PVR.EpgEventProgress</info>
+						<texture colordiffuse="$INFO[Skin.String(color.500)]">backgrounds/white.png</texture>
+					</control>
+					
+
+					<!--<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>288r</left>
+						<top>910</top>
+						<width>150</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[Player.FinishTime(hh:mm)] Uhr</label>
+						<visible>!String.IsEmpty(Player.FinishTime)</visible>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>290r</left>
+						<top>908</top>
+						<width>150</width>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>left</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$INFO[Player.FinishTime(hh:mm)] Uhr</label>
+						<visible>!String.IsEmpty(Player.FinishTime)</visible>
+						<visible>VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<visible>!Skin.HasSetting(Shadow)</visible>
+						<left>302</left>
+						<top>932</top>
+						<right>298</right>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>center</align>
+						<aligny>center</aligny>
+						<textcolor>black</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$LOCALIZE[21396] $INFO[Player.Chapter]$INFO[player.chaptercount, / ]</label>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+					<control type="label" id="1">
+						<left>300</left>
+						<top>930</top>
+						<right>300</right>
+						<height>60</height>
+						<font>breadcrumb.secondary</font>
+						<align>center</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<shadowcolor>black</shadowcolor>
+						<label>$LOCALIZE[21396] $INFO[Player.Chapter]$INFO[player.chaptercount, / ]</label>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>-->
+				</control>
+			</control>
+		</control>
+	</controls>
+</window>96] $INFO[Player.Chapter]$INFO[player.chaptercount, / ]</label>
+						<visible>!VideoPlayer.Content(LiveTV)</visible>
+					</control>
+				</control>
+			</control>
+		</control>
+	</controls>
+</window>

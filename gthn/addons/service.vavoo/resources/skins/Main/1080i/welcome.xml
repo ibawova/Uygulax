@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window>
+    <defaultcontrol always="true">300</defaultcontrol>
+    <controls>
+        <control type="group">
+            <animation type="WindowOpen" reversible="false">
+                <effect type="slide" start="-960,0" end="0,0" time="300" />
+                <effect type="fade" start="0" end="100" time="300" />
+            </animation>
+            <animation type="WindowClose" reversible="false">
+                <effect type="slide" start="0,0" end="960,0" time="300" />
+                <effect type="fade" start="100" end="0" time="300" />
+            </animation>
+            <left>0</left>
+            <top>0</top>
+            <width>100%</width>
+            <height>100%</height>
+            <control type="image">
+                <left>0</left>
+                <top>0</top>
+                <right>0</right>
+                <bottom>0</bottom>
+                <width>100%</width>
+                <height>100%</height>
+                <texture>black.png</texture>
+            </control>
+            <control type="radiobutton" id="302">
+                <left>1790</left>
+                <width>130</width>
+                <height>100</height>
+                <label></label>
+                <onclick>ActivateWindow(shutdownmenu)</onclick>
+                <onup>303</onup>
+                <ondown>300</ondown>
+                <onleft>300</onleft>
+                <onright>301</onright>
+                <textureradioonfocus>power.png</textureradioonfocus>
+                <textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                <textureradioofffocus>power.png</textureradioofffocus>
+                <textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                <radioposx>50</radioposx>
+                <radioposy>35</radioposy>
+                <radiowidth>30</radiowidth>
+                <radioheight>30</radioheight>
+            </control>
+            <control type="image">
+                <left>471</left>
+                <top>400</top>
+                <width>978</width>
+                <height>324</height>
+                <texture colordiffuse="">vavoo-text.png</texture>
+            </control>
+            <control type="group">
+                <top>800</top>
+                <height>100</height>
+                <control type="button" id="300">
+                    <left>485</left>
+                    <width>600</width>
+                    <align>center</align>
+                    <label>$LOCALIZE[39505]</label>
+                    <onup>302</onup>
+                    <ondown>301</ondown>
+                    <onleft>301</onleft>
+                    <onright>301</onright>
+                </control>
+                <control type="button" id="301">
+                    <left>1135</left>
+                    <width>300</width>
+                    <align>center</align>
+                    <label>$LOCALIZE[39506]</label>
+                    <onup>300</onup>
+                    <ondown>303</ondown>
+                    <onleft>300</onleft>
+                    <onright>300</onright>
+                </control>
+            </control>
+            <control type="button" id="303">
+                <top>980</top>
+                <height>100</height>
+                <left>1470</left>
+                <width>450</width>
+                <align>center</align>
+                <label>$LOCALIZE[39507]</label>
+                <font>font10</font>
+                <onup>301</onup>
+                <ondown>302</ondown>
+                <onleft>300</onleft>
+                <onright>300</onright>
+            </control>
+        </control>
+    </controls>
+</window>

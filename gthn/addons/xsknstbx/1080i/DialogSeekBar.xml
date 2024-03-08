@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol>1</defaultcontrol>
+	<visible>Window.IsVisible(FullScreenVideo) + [Player.Seeking | Player.Paused | Player.Forwarding | Player.Rewinding | Player.ShowTime] | [[Window.IsActive(fullscreenvideo) | Window.IsActive(visualisation)] + !Window.IsActive(pvrosdchannels) + !String.IsEmpty(PVR.ChannelNumberInput)]</visible>
+	<visible>![Window.IsVisible(OSDVideoSettings) | Window.IsVisible(OSDAudioSettings) | Window.IsVisible(OSDSubtitleSettings) | Window.IsVisible(VideoBookmarks) | Window.IsVisible(PVROSDChannels) | Window.IsVisible(PVRChannelGuide) | Window.IsVisible(SliderDialog)]</visible>
+	<visible>![Player.HasGame | Player.FrameAdvance]</visible>
+	<controls>
+		<control type="group" id="1">
+			<left>813</left>
+			<top>7r</top>
+			<width>1140</width>
+			<visible>!VideoPlayer.Content(LiveTV) | [VideoPlayer.Content(LiveTV) + VideoPlayer.HasEpg]</visible>
+			<control type="label">
+				<visible>!VideoPlayer.Content(LiveTV)</visible>
+				<visible>!Player.Paused</visible>
+				<width>1080</width>
+				<height>160</height>
+				<font>font30</font>
+				<textcolor>black</textcolor>
+				<shadowcolor>black</shadowcolor>
+				<align>left</align>
+				<aligny>center</aligny>
+				<label>$VAR[SeekLabelVar]</label>
+			</control>
+		</control>
+		<control type="group" id="1">
+			<left>810</left>
+			<top>9r</top>
+			<width>1140</width>
+			<visible>!VideoPlayer.Content(LiveTV) | [VideoPlayer.Content(LiveTV) + VideoPlayer.HasEpg]</visible>
+			<control type="label">
+				<visible>!VideoPlayer.Content(LiveTV)</visible>
+				<visible>!Player.Paused</visible>
+				<width>1080</width>
+				<height>160</height>
+				<font>font30</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+				<align>left</align>
+				<aligny>center</aligny>
+				<label>$VAR[SeekLabelVar]</label>
+			</control>
+		</control>
+		<include>PVRChannelNumberInput</include>
+	</controls>
+</window>

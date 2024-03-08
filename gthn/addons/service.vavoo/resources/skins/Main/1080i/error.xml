@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window>
+    <defaultcontrol always="true">300</defaultcontrol>
+    <controls>
+        <control type="group">
+            <!--<animation type="WindowOpen" reversible="false">
+                <effect type="slide" start="-960,0" end="0,0" time="300" />
+                <effect type="fade" start="0" end="100" time="300" />
+            </animation>
+            <animation type="WindowClose" reversible="false">
+                <effect type="slide" start="0,0" end="960,0" time="300" />
+                <effect type="fade" start="100" end="0" time="300" />
+            </animation>-->
+            <left>0</left>
+            <top>0</top>
+            <width>100%</width>
+            <height>100%</height>
+            <control type="image">
+                <left>0</left>
+                <top>0</top>
+                <right>0</right>
+                <bottom>0</bottom>
+                <width>100%</width>
+                <height>100%</height>
+                <texture>black.png</texture>
+            </control>
+            <control type="radiobutton" id="302">
+                <left>1790</left>
+                <width>130</width>
+                <height>100</height>
+                <label></label>
+                <onclick>ActivateWindow(shutdownmenu)</onclick>
+                <onup>300</onup>
+                <ondown>300</ondown>
+                <onleft>300</onleft>
+                <onright>300</onright>
+                <textureradioonfocus>power.png</textureradioonfocus>
+                <textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                <textureradioofffocus>power.png</textureradioofffocus>
+                <textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                <radioposx>50</radioposx>
+                <radioposy>35</radioposy>
+                <radiowidth>30</radiowidth>
+                <radioheight>30</radioheight>
+            </control>
+            <control type="label">
+                <top>430</top>
+                <left>260</left>
+                <width>1400</width>
+                <height>100</height>
+                <font>font_MainMenu</font>
+                <label>$INFO[Window.Property(Caption)]</label>
+                <align>center</align>
+            </control>
+            <control type="label">
+                <top>510</top>
+                <left>260</left>
+                <width>1400</width>
+                <height>100</height>
+                <label>$INFO[Window.Property(Text)]</label>
+                <align>center</align>
+            </control>
+            <control type="button" id="300">
+                <top>610</top>
+                <height>100</height>
+                <left>660</left>
+                <width>600</width>
+                <align>center</align>
+                <label>$INFO[Window.Property(ButtonText)]</label>
+                <onup>302</onup>
+                <ondown>302</ondown>
+            </control>
+        </control>
+    </controls>
+</window>

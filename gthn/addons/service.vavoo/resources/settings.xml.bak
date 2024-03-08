@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="email" type="text" default="" label="Email"/>
+    <setting id="token" type="text" default="" label="Login-Token"/>
+    <setting id="guest_token" type="text" default="" label="Guest-Token"/>
+    <setting id="signed" type="text" default="" label="Signed Login Data"/>
+    <setting id="window_state" type="text" default="" label="Internal Window State"/>
+    <setting id="last_active_time" type="text" default="" label="Internal Window Time"/>
+</settings>

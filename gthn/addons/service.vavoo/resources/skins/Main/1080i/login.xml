@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window>
+    <defaultcontrol always="true">100</defaultcontrol>
+    <controls>
+        <control type="group">
+            <animation type="WindowOpen" reversible="false">
+                <effect type="slide" start="-960,0" end="0,0" time="300" />
+                <effect type="fade" start="0" end="100" time="300" />
+            </animation>
+            <animation type="WindowClose" reversible="false">
+                <effect type="slide" start="0,0" end="960,0" time="300" />
+                <effect type="fade" start="100" end="0" time="300" />
+            </animation>
+            <left>0</left>
+            <top>0</top>
+            <width>100%</width>
+            <height>100%</height>
+            <control type="image">
+                <left>0</left>
+                <top>0</top>
+                <right>0</right>
+                <bottom>0</bottom>
+                <width>100%</width>
+                <height>100%</height>
+                <texture>black.png</texture>
+            </control>
+
+            <!-- anylines with buttons -->
+            <control type="group">
+                <!-- Input window -->
+                <visible>String.IsEqual(Window.Property(Mode),profile/1) | String.IsEqual(Window.Property(Mode),subscription/1) | String.IsEqual(Window.Property(Mode),pro_needed/1) | String.IsEqual(Window.Property(Mode),license_usage/1) | String.IsEqual(Window.Property(Mode),payment/google/execute) | String.IsEqual(Window.Property(Mode),payment/browser) | String.IsEqual(Window.Property(Mode),pro_active/1) | String.IsEqual(Window.Property(Mode),advertisement/1) | String.IsEqual(Window.Property(Mode),advertisement/2)</visible>
+                <visible>!String.IsEmpty(Window.Property(Button1))</visible>
+                <animation type="Visible" reversible="false">
+                    <effect type="slide" start="-960,0" end="0,0" time="300" />
+                    <effect type="fade" start="0" end="100" time="300" />
+                </animation>
+                <animation type="Hidden" reversible="false">
+                    <effect type="slide" start="0,0" end="960,0" time="300" />
+                    <effect type="fade" start="100" end="0" time="300" />
+                </animation>
+                <control type="group">
+                    <visible>!String.IsEqual(Window.Property(AdTimeout),)</visible>
+                    <control type="label">
+                        <top>15</top>
+                        <left>0</left>
+                        <width>1890</width>
+                        <height>100</height>
+                        <label>Weiter in $INFO[Window.Property(AdTimeout)] Sekunden...</label>
+                        <align>right</align>
+                    </control>
+                </control>
+                <control type="group">
+                    <visible>String.IsEqual(Window.Property(AdTimeout),)</visible>
+                    <control type="radiobutton" id="400">
+                        <visible>String.IsEqual(Window.Property(BackIcon),forward)</visible>
+                        <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                        <left>1790</left><width>130</width><height>100</height><label></label>
+                        <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                        <textureradioonfocus>forward.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">forward.png</textureradioonnofocus>
+                        <textureradioofffocus>forward.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">forward.png</textureradiooffnofocus>
+                    </control>
+                    <control type="radiobutton" id="400">
+                        <visible>String.IsEqual(Window.Property(BackIcon),back)</visible>
+                        <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                        <left>1790</left><width>130</width><height>100</height><label></label>
+                        <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                        <textureradioonfocus>back.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">back.png</textureradioonnofocus>
+                        <textureradioofffocus>back.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">back.png</textureradiooffnofocus>
+                    </control>
+                    <control type="radiobutton" id="400">
+                        <visible>String.IsEqual(Window.Property(BackIcon),power)</visible>
+                        <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                        <left>1790</left><width>130</width><height>100</height><label></label>
+                        <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                        <textureradioonfocus>power.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                        <textureradioofffocus>power.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                    </control>
+                </control>
+                <!-- Caption and label -->
+                <control type="group">
+                    <control type="label">
+                        <top>330</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <font>font_MainMenu</font>
+                        <label>$INFO[Window.Property(Caption)]</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>410</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Line1)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Line1))</visible>
+                    </control>
+                    <control type="label">
+                        <top>460</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Line2)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Line2))</visible>
+                    </control>
+                    <control type="label">
+                        <top>510</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Line3)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Line3))</visible>
+                    </control>
+                </control>
+                <control type="group">
+                    <control type="button" id="300">
+                        <top>610</top>
+                        <left>635</left>
+                        <width>650</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Button1)]</label>
+                        <onup>400</onup>
+                        <ondown>301</ondown>
+                        <onleft>301</onleft>
+                        <onright>301</onright>
+                        <visible>!String.IsEmpty(Window.Property(Button1))</visible>
+                    </control>
+                    <control type="button" id="301">
+                        <top>710</top>
+                        <left>635</left>
+                        <width>650</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Button2)]</label>
+                        <onup>300</onup>
+                        <ondown>302</ondown>
+                        <onleft>300</onleft>
+                        <onright>302</onright>
+                        <visible>!String.IsEmpty(Window.Property(Button2))</visible>
+                    </control>
+                    <control type="button" id="302">
+                        <top>810</top>
+                        <left>635</left>
+                        <width>650</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Button3)]</label>
+                        <onup>301</onup>
+                        <ondown>400</ondown>
+                        <onleft>301</onleft>
+                        <onright>300</onright>
+                        <visible>!String.IsEmpty(Window.Property(Button3))</visible>
+                    </control>
+                </control>
+            </control>
+
+            <!-- anylines without buttons -->
+            <control type="group">
+                <!-- Input window -->
+                <visible>String.IsEqual(Window.Property(Mode),profile/1) | String.IsEqual(Window.Property(Mode),subscription/1) | String.IsEqual(Window.Property(Mode),pro_needed/1) | String.IsEqual(Window.Property(Mode),license_usage/1) | String.IsEqual(Window.Property(Mode),payment/google) | String.IsEqual(Window.Property(Mode),payment/google/execute) | String.IsEqual(Window.Property(Mode),payment/browser) | String.IsEqual(Window.Property(Mode),pro_active/1)</visible>
+                <visible>String.IsEmpty(Window.Property(Button1))</visible>
+                <animation type="Visible" reversible="false">
+                    <effect type="slide" start="-960,0" end="0,0" time="300" />
+                    <effect type="fade" start="0" end="100" time="300" />
+                </animation>
+                <animation type="Hidden" reversible="false">
+                    <effect type="slide" start="0,0" end="960,0" time="300" />
+                    <effect type="fade" start="100" end="0" time="300" />
+                </animation>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),back)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                    <textureradioonfocus>back.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">back.png</textureradioonnofocus>
+                    <textureradioofffocus>back.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">back.png</textureradiooffnofocus>
+                </control>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),power)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                    <textureradioonfocus>power.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                    <textureradioofffocus>power.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                </control>
+                <!-- Caption and label -->
+                <control type="group">
+                    <control type="label">
+                        <top>420</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <font>font_MainMenu</font>
+                        <label>$INFO[Window.Property(Caption)]</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>500</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Line1)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Line1))</visible>
+                    </control>
+                    <control type="label">
+                        <top>550</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Line2)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Line2))</visible>
+                    </control>
+                    <control type="label">
+                        <top>600</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Line3)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Line3))</visible>
+                    </control>
+                </control>
+            </control>
+
+            <!-- anylines 2 -->
+            <control type="group">
+                <!-- Input window -->
+                <visible>String.IsEqual(Window.Property(Mode),payment/1)</visible>
+                <visible>!String.IsEmpty(Window.Property(Payment1_Button1))</visible>
+                <animation type="Visible" reversible="false">
+                    <effect type="slide" start="-960,0" end="0,0" time="300" />
+                    <effect type="fade" start="0" end="100" time="300" />
+                </animation>
+                <animation type="Hidden" reversible="false">
+                    <effect type="slide" start="0,0" end="960,0" time="300" />
+                    <effect type="fade" start="100" end="0" time="300" />
+                </animation>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),back)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                    <textureradioonfocus>back.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">back.png</textureradioonnofocus>
+                    <textureradioofffocus>back.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">back.png</textureradiooffnofocus>
+                </control>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),power)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                    <textureradioonfocus>power.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                    <textureradioofffocus>power.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                </control>
+                <!-- Caption and label -->
+                <control type="group">
+                    <control type="label">
+                        <top>330</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <font>font_MainMenu</font>
+                        <label>$INFO[Window.Property(Payment1_Caption)]</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>410</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Payment1_Line1)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Payment1_Line1))</visible>
+                    </control>
+                    <control type="label">
+                        <top>460</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Payment1_Line2)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Payment1_Line2))</visible>
+                    </control>
+                    <control type="label">
+                        <top>510</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Payment1_Line3)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Payment1_Line3))</visible>
+                    </control>
+                </control>
+                <control type="group">
+                    <control type="button" id="300">
+                        <top>610</top>
+                        <left>660</left>
+                        <width>600</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Payment1_Button1)]</label>
+                        <onup>400</onup>
+                        <ondown>301</ondown>
+                        <onleft>301</onleft>
+                        <onright>301</onright>
+                        <visible>!String.IsEmpty(Window.Property(Payment1_Button1))</visible>
+                    </control>
+                    <control type="button" id="301">
+                        <top>710</top>
+                        <left>660</left>
+                        <width>600</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Payment1_Button2)]</label>
+                        <onup>300</onup>
+                        <ondown>302</ondown>
+                        <onleft>300</onleft>
+                        <onright>302</onright>
+                        <visible>!String.IsEmpty(Window.Property(Payment1_Button2))</visible>
+                    </control>
+                    <control type="button" id="302">
+                        <top>810</top>
+                        <left>660</left>
+                        <width>600</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Payment1_Button3)]</label>
+                        <onup>301</onup>
+                        <ondown>400</ondown>
+                        <onleft>301</onleft>
+                        <onright>300</onright>
+                        <visible>!String.IsEmpty(Window.Property(Payment1_Button3))</visible>
+                    </control>
+                </control>
+            </control>
+
+            <!-- anylines 3 -->
+            <control type="group">
+                <!-- Input window -->
+                <visible>String.IsEqual(Window.Property(Mode),payment/google/select)</visible>
+                <animation type="Visible" reversible="false">
+                    <effect type="slide" start="-960,0" end="0,0" time="300" />
+                    <effect type="fade" start="0" end="100" time="300" />
+                </animation>
+                <animation type="Hidden" reversible="false">
+                    <effect type="slide" start="0,0" end="960,0" time="300" />
+                    <effect type="fade" start="100" end="0" time="300" />
+                </animation>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),back)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                    <textureradioonfocus>back.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">back.png</textureradioonnofocus>
+                    <textureradioofffocus>back.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">back.png</textureradiooffnofocus>
+                </control>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),power)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>302</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                    <textureradioonfocus>power.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                    <textureradioofffocus>power.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                </control>
+                <!-- Caption and label -->
+                <control type="group">
+                    <control type="label">
+                        <top>330</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <font>font_MainMenu</font>
+                        <label>$INFO[Window.Property(Payment2_Caption)]</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>410</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Payment2_Line1)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Payment2_Line1))</visible>
+                    </control>
+                    <control type="label">
+                        <top>460</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Payment2_Line2)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Payment2_Line2))</visible>
+                    </control>
+                    <control type="label">
+                        <top>510</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Payment2_Line3)]</label>
+                        <align>center</align>
+                        <visible>!String.IsEmpty(Window.Property(Payment2_Line3))</visible>
+                    </control>
+                </control>
+                <control type="group">
+                    <control type="button" id="300">
+                        <top>610</top>
+                        <left>660</left>
+                        <width>600</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Payment2_Button1)]</label>
+                        <onup>400</onup>
+                        <ondown>301</ondown>
+                        <onleft>301</onleft>
+                        <onright>301</onright>
+                        <visible>!String.IsEmpty(Window.Property(Payment2_Button1))</visible>
+                    </control>
+                    <control type="button" id="301">
+                        <top>710</top>
+                        <left>660</left>
+                        <width>600</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Payment2_Button2)]</label>
+                        <onup>300</onup>
+                        <ondown>302</ondown>
+                        <onleft>300</onleft>
+                        <onright>302</onright>
+                        <visible>!String.IsEmpty(Window.Property(Payment2_Button2))</visible>
+                    </control>
+                    <control type="button" id="302">
+                        <top>810</top>
+                        <left>660</left>
+                        <width>600</width>
+                        <height>125</height>
+                        <align>center</align>
+                        <label>$INFO[Window.Property(Payment2_Button3)]</label>
+                        <onup>301</onup>
+                        <ondown>400</ondown>
+                        <onleft>301</onleft>
+                        <onright>300</onright>
+                        <visible>!String.IsEmpty(Window.Property(Payment2_Button3))</visible>
+                    </control>
+                </control>
+            </control>
+
+            <!-- login/1 -->
+            <control type="group">
+                <!-- Input window -->
+                <visible>String.IsEqual(Window.Property(Mode),login/1)</visible>
+                <animation type="Visible" reversible="false">
+                    <effect type="slide" start="-960,0" end="0,0" time="300" />
+                    <effect type="fade" start="0" end="100" time="300" />
+                </animation>
+                <animation type="Hidden" reversible="false">
+                    <effect type="slide" start="0,0" end="960,0" time="300" />
+                    <effect type="fade" start="100" end="0" time="300" />
+                </animation>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),back)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>301</onup><ondown>100</ondown><onleft>100</onleft><onright>100</onright>
+                    <textureradioonfocus>back.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">back.png</textureradioonnofocus>
+                    <textureradioofffocus>back.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">back.png</textureradiooffnofocus>
+                </control>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),power)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>301</onup><ondown>100</ondown><onleft>100</onleft><onright>100</onright>
+                    <textureradioonfocus>power.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                    <textureradioofffocus>power.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                </control>
+                <!-- Caption and label -->
+                <control type="group">
+                    <control type="label">
+                        <top>330</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <font>font_MainMenu</font>
+                        <label>$INFO[Window.Property(Login1_Caption)]</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>410</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Login1_Line1)]</label>
+                        <align>center</align>
+                    </control>
+                </control>
+                <!-- Inputs -->
+                <control type="button" id="100">
+                    <top>510</top>
+                    <left>460</left>
+                    <width>1000</width>
+                    <height>100</height>
+                    <label>$INFO[Window.Property(UserEmail)]</label>
+                    <font>font37</font>
+                    <align>center</align>
+                    <onup>400</onup>
+                    <ondown>301</ondown>
+                    <onleft>300</onleft>
+                    <onright>301</onright>
+                </control>
+                <!-- Controls -->
+                <control type="group">
+                    <visible>String.IsEqual(Window.Property(HasConnect),true)</visible>
+                    <top>660</top>
+                    <height>100</height>
+                    <control type="button" id="300">
+                        <left>610</left>
+                        <width>300</width>
+                        <align>center</align>
+                        <label>VAVOO Connect</label>
+                        <onup>100</onup>
+                        <ondown>400</ondown>
+                        <onleft>301</onleft>
+                        <onright>301</onright>
+                    </control>
+                    <control type="button" id="301">
+                        <left>1010</left>
+                        <width>300</width>
+                        <align>center</align>
+                        <label>$LOCALIZE[209]</label>
+                        <onup>100</onup>
+                        <ondown>400</ondown>
+                        <onleft>300</onleft>
+                        <onright>300</onright>
+                    </control>
+                </control>
+                <control type="group">
+                    <visible>String.IsEqual(Window.Property(HasConnect),)</visible>
+                    <top>660</top>
+                    <height>100</height>
+                    <control type="button" id="301">
+                        <left>810</left>
+                        <width>300</width>
+                        <align>center</align>
+                        <label>$LOCALIZE[209]</label>
+                        <onup>100</onup>
+                        <ondown>400</ondown>
+                        <onleft>300</onleft>
+                        <onright>300</onright>
+                    </control>
+                </control>
+            </control>
+
+            <!-- login/2 -->
+            <control type="group">
+                <!-- Input window -->
+                <visible>String.IsEqual(Window.Property(Mode),login/2)</visible>
+                <animation type="Visible" reversible="false">
+                    <effect type="slide" start="-960,0" end="0,0" time="300" />
+                    <effect type="fade" start="0" end="100" time="300" />
+                </animation>
+                <animation type="Hidden" reversible="false">
+                    <effect type="slide" start="0,0" end="960,0" time="300" />
+                    <effect type="fade" start="100" end="0" time="300" />
+                </animation>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),back)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>301</onup><ondown>100</ondown><onleft>100</onleft><onright>100</onright>
+                    <textureradioonfocus>back.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">back.png</textureradioonnofocus>
+                    <textureradioofffocus>back.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">back.png</textureradiooffnofocus>
+                </control>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),power)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>301</onup><ondown>100</ondown><onleft>100</onleft><onright>100</onright>
+                    <textureradioonfocus>power.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                    <textureradioofffocus>power.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                </control>
+                <!-- Caption and label -->
+                <control type="group">
+                    <control type="label">
+                        <top>330</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <font>font_MainMenu</font>
+                        <label>$INFO[Window.Property(Login2_Caption)]</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>410</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>$INFO[Window.Property(Login2_Line1)]</label>
+                        <align>center</align>
+                    </control>
+                </control>
+                <!-- Inputs -->
+                <control type="button" id="100">
+                    <top>510</top>
+                    <left>460</left>
+                    <width>1000</width>
+                    <height>100</height>
+                    <label>$INFO[Window.Property(UserPassword)]</label>
+                    <font>font37</font>
+                    <align>center</align>
+                    <onup>400</onup>
+                    <ondown>301</ondown>
+                    <onleft>300</onleft>
+                    <onright>301</onright>
+                    <password>true</password>
+                    <aligny>center</aligny>
+                </control>
+                <!-- Controls -->
+                <control type="group">
+                    <top>660</top>
+                    <height>100</height>
+                    <control type="group">
+                        <visible>String.IsEqual(Window.Property(EmailExists),true)</visible>
+                        <control type="button" id="300">
+                            <left>560</left>
+                            <width>400</width>
+                            <align>center</align>
+                            <label>Passwort vergessen</label>
+                            <onup>100</onup>
+                            <ondown>400</ondown>
+                            <onleft>301</onleft>
+                            <onright>301</onright>
+                        </control>
+                        <control type="button" id="301">
+                            <left>1010</left>
+                            <width>300</width>
+                            <align>center</align>
+                            <label>$LOCALIZE[39506]</label>
+                            <onup>100</onup>
+                            <ondown>400</ondown>
+                            <onleft>300</onleft>
+                            <onright>300</onright>
+                        </control>
+                    </control>
+                    <control type="group">
+                        <visible>String.IsEqual(Window.Property(EmailExists),)</visible>
+                        <control type="button" id="301">
+                            <left>810</left>
+                            <width>300</width>
+                            <align>center</align>
+                            <label>$LOCALIZE[39508]</label>
+                            <onup>100</onup>
+                            <ondown>400</ondown>
+                        </control>
+                    </control>
+                </control>
+            </control>
+
+            <!-- connect/1 -->
+            <control type="group">
+                <!-- Input window -->
+                <visible>String.IsEqual(Window.Property(Mode),connect/1)</visible>
+                <animation type="Visible" reversible="false">
+                    <effect type="slide" start="-960,0" end="0,0" time="300" />
+                    <effect type="fade" start="0" end="100" time="300" />
+                </animation>
+                <animation type="Hidden" reversible="false">
+                    <effect type="slide" start="0,0" end="960,0" time="300" />
+                    <effect type="fade" start="100" end="0" time="300" />
+                </animation>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),back)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>300</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                    <textureradioonfocus>back.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">back.png</textureradioonnofocus>
+                    <textureradioofffocus>back.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">back.png</textureradiooffnofocus>
+                </control>
+                <control type="radiobutton" id="400">
+                    <visible>String.IsEqual(Window.Property(BackIcon),power)</visible>
+                    <radioposx>50</radioposx><radioposy>35</radioposy><radiowidth>30</radiowidth><radioheight>30</radioheight>
+                    <left>1790</left><width>130</width><height>100</height><label></label>
+                    <onup>300</onup><ondown>300</ondown><onleft>300</onleft><onright>300</onright>
+                    <textureradioonfocus>power.png</textureradioonfocus><textureradioonnofocus colordiffuse="grey">power.png</textureradioonnofocus>
+                    <textureradioofffocus>power.png</textureradioofffocus><textureradiooffnofocus colordiffuse="grey">power.png</textureradiooffnofocus>
+                </control>
+                <!-- Caption and label -->
+                <control type="group">
+                    <control type="label">
+                        <top>330</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <font>font_MainMenu</font>
+                        <label>VAVOO Connect.</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>410</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>Um Dich mit Deinem VAVOO Account zu verbinden, führe die folgenden Schritte aus:</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>510</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>1. Besuche die Webseite</label>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>580</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>[B]www.vavoo.tv/connect[/B]</label>
+                        <font>font37</font>
+                        <align>center</align>
+                    </control>
+                    <control type="label">
+                        <top>710</top>
+                        <left>260</left>
+                        <width>1400</width>
+                        <height>100</height>
+                        <label>2. Gebe den folgenden Code ein:</label>
+                        <align>center</align>
+                    </control>
+                </control>
+                <!-- Inputs -->
+                <control type="label">
+                    <top>780</top>
+                    <left>360</left>
+                    <width>1200</width>
+                    <height>100</height>
+                    <label>[B]$INFO[Window.Property(ConnectCode)][/B]</label>
+                    <font>font37</font>
+                    <align>center</align>
+                    <onup>400</onup>
+                    <ondown>100</ondown>
+                    <onleft>400</onleft>
+                    <onright>400</onright>
+                    <password>true</password>
+                    <aligny>center</aligny>
+                </control>
+            </control>
+        </control>
+    </controls>
+</window>
