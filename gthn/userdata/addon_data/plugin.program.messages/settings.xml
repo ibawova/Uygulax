@@ -1,6 +1,0 @@
-<settings version="2">
-    <setting id="noteImage" default="true"></setting>
-    <setting id="noteMessage" default="true"></setting>
-    <setting id="noteType" default="true">t</setting>
-    <setting id="notifications-on-startup" default="true">false</setting>
-</settings>

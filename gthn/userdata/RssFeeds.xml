@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<rssfeeds>
-  <!--RSS feeds. To have multiple feeds, just add a feed to the set. You can also have multiple sets.-->
-  <!--To use different sets in your skin, each must be called from skin with a unique id.-->
-  <set id="1">
-    <feed updateinterval="10">https://m47d7q.db.files.1drv.com/y4mZAqmhA_YEzup-tq9_trFkaksaXP_CF1VhTooLggXbJaL68f7K3ThaQHZtGtKUA9mL9jTDNe0Xz9UqcbZ9jOPmqfi6yYbJbfFOOBIjHdlITrbmD72tg1_e5aPS0JGA8mDP9jefpDD5REBfqttmQHWywOoBGLBzoychfNDoHFNyHsm0noCjXhLucOomLCRdaksJ6gYld1u1X45PfR6QV3jzw</feed>
-  </set>
-</rssfeeds>

@@ -1,3 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: refid=292681; path="/"; domain=".streamz.ws"; expires="2021-11-09 00:06:37Z"; version=0
-Set-Cookie3: views=1; path="/"; domain=".streamz.ws"; expires="2022-05-08 00:06:37Z"; version=0

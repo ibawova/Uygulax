@@ -1,6 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: __ddg1=Io3VjLDuHZF8a3IjwBDY; path="/"; domain=".serien.lol"; path_spec; domain_dot; expires="2022-07-08 17:37:33Z"; HttpOnly=None; version=0
-Set-Cookie3: __ddgid=Xp8ldpeBfaObjqzg; path="/"; domain=".serien.lol"; path_spec; domain_dot; expires="2022-07-08 17:38:13Z"; HttpOnly=None; version=0
-Set-Cookie3: __ddgmark=cWNu7FXmWfChQqrn; path="/"; domain=".serien.lol"; path_spec; domain_dot; expires="2021-07-09 17:38:13Z"; HttpOnly=None; version=0
-Set-Cookie3: __ddg1=58vfm2Dlrv0TshAKptv0; path="/"; domain=".voe.sx"; path_spec; domain_dot; expires="2022-07-08 17:38:23Z"; HttpOnly=None; version=0
-Set-Cookie3: rememberLogin=876ZU3gPlPnmbzVGODiOsBzFTNWI0EGeVFzxTio7j9P4HmTN85N8t7I1SIixQEUmA0AZGLD5NgyhtL7CiR7fYFLejlEXo6bOKZTGWTZcPxssCKDLQSffWsyN; path="/"; domain="serien.lol"; path_spec; expires="2023-12-25 17:38:22Z"; version=0
