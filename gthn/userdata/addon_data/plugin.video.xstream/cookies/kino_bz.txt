@@ -1,2 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: starstruck_909d1737c644d31391c0a7caf9922dce=eae029a9931a99ff3a2fe2e56bc15925; path="/"; domain="kino.bz"; path_spec; expires="2022-05-12 23:20:15Z"; version=0

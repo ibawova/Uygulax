@@ -1,3 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: __ddg1=LQDGz0GEfdUY4ebLluSO; path="/"; domain=".kkiste.rest"; path_spec; domain_dot; expires="2023-03-20 23:42:44Z"; HttpOnly=None; version=0
-Set-Cookie3: __ddg1_=LQDGz0GEfdUY4ebLluSO; path="/"; domain=".kkiste.rest"; path_spec; domain_dot; expires="2023-03-20 23:42:44Z"; HttpOnly=None; version=0

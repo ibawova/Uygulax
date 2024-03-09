@@ -1,3 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: sid="8fee7716-ca63-11ee-af3b-42c216df358b"; path="/"; domain=".kkiste.rest"; path_spec; domain_dot; secure; expires="2092-03-02 14:46:33Z"; HttpOnly=None; version=0
-Set-Cookie3: parking_session="1eb1b2d7-d369-419b-bf64-bcb6654e24c1"; path="/"; domain="survey-smiles.com"; expires="2024-02-13 11:50:38Z"; version=0
